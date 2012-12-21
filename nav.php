@@ -1,6 +1,6 @@
 <nav class="top-bar fixed">
     <ul>
-      <li class="name"><h1><a href="<?php echo $basedir;?>">a<span style="position: relative;top: 8px;">x</span><span style="position: relative;top: 4px;">y</span>z . coding & imaging</a></h1></li>
+      <li class="name"><h1><a href="<?php echo $basedir;?>">Lerro</a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
