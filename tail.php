@@ -39,8 +39,10 @@
 	
 
   <!-- Application Javascript, safe to override -->
+  <script src="<?php echo $basedir;?>javascripts/jquery.cycle.all.js"></script>
   <script src="<?php echo $basedir;?>javascripts/jquery.grid-a-licious.min.js"></script>
+  <script src="<?php echo $basedir;?>javascripts/jquery.maximage.js"></script>
   <script src="<?php echo $basedir;?>javascripts/foundation/app.js"></script>
-  <script src="<?php echo $basedir;?>javascripts/foundation/script.js"></script>
+  <script src="<?php echo $basedir;?>javascripts/script.js"></script>
 </body>
 </html>

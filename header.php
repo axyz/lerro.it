@@ -12,6 +12,7 @@
 
 	<!-- Included CSS Files -->
 	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/font-awesome.css">
+	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/jquery.maximage.css">
 	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/app.css">
 	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/style.css">
 
