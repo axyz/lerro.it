@@ -9,4 +9,4 @@
         <li><a href="<?php echo $basedir;?>contact.php">Contact</a></li>
       </ul>
     </section>
-  </nav><br><br><br>
+  </nav>
