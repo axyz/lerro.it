@@ -7,22 +7,45 @@
   background-color: #222;
 }
 #logo2 {
-  background-color: #222;
-  height: 90px;
+  background-color: #931e07;
+  background-image: linear-gradient(#b02a0e, #931e07);
+  height: 118px;
   padding: 10px;
-  position: fixed;
+  position: absolute;
   top: 0;
-}
-.box {
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
   -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
   box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+}
+.box {
+  -webkit-border-radius: 0px 0px 10px 10px;
+  border-radius: 0px 0px 10px 10px;
+  -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+}
+.box-title {
+  margin: 0px;
+  -webkit-border-radius: 10px 10px 0px 0px;
+  border-radius: 10px 10px 0px 0px;
+  -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  background-color: rgba(147,30,7,0.8);
+  color: #fafafa;
+  border: solid rgba(2,2,2,0);
+  padding: 7px;
+}
+.box-title h5 {
+  color: #fafafa;
+}
+.box-title h5 a {
+  color: #fafafa;
 }
 #footer {
   background-color: rgba(2,2,2,0.8);
   color: #fafafa;
   padding-top: 10px;
+}
+#footer a {
+  color: #fafafa;
 }
 .section-banner {
   margin-top: -30px;

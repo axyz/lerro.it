@@ -11,20 +11,37 @@
 	background-color logo-bg-color
 
 #logo2
-	background-color: logo-bg-color
-	height: 90px;
+	background-color #931E07
+	background-image: linear-gradient(#B02A0E, #931E07);
+	height: 118px;
 	padding: 10px;
-	position: fixed;
+	position: absolute;
 	top: 0;
+	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
 
 .box
 	border-radius(box-rounded-corner-radius)
 	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
 
+.box-title
+	margin 0px
+	border-radius(box-title-rounded-corner-radius)
+	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
+	background-color rgba(147,30,7,0.8)
+	color palette-white
+	border solid transparent
+	padding 7px
+	h5
+		color palette-white
+		a
+			color palette-white
+
 #footer
 	background-color footer-bg-color
 	color footer-text-color
 	padding-top: 10px
+	a
+		color footer-text-color
 
 .section-banner
 	margin-top -30px
