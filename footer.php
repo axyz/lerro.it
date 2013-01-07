@@ -1,5 +1,5 @@
 <footer class="row">
-  <div class="twelve columns"><hr />
+  <div class="twelve columns"><br />
     <div class="row" id="footer">
 
       <div class="six columns">
