@@ -11,7 +11,7 @@ compass:
 	compass compile
 
 stylus:
-	stylus stylus/*.styl -o stylesheets/
+	stylus stylus/style.styl -o stylesheets/
 
 coffee:
 	coffee --bare -o javascripts/ -c coffee/*.coffee
