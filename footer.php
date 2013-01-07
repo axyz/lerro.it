@@ -1,6 +1,6 @@
 <footer class="row">
   <div class="twelve columns"><hr />
-    <div class="row">
+    <div class="row" id="footer">
 
       <div class="six columns">
           <p>&copy; Copyright lerro.it 2012.</p>

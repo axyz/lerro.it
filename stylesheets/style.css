@@ -4,8 +4,39 @@
 .name h1 {
   font-family: "Kelly Slab";
 }
-@media (min-width: 941px) {
-  .section-banner {
-    margin-top: -30px;
+#main-menu {
+  background-color: rgba(2,2,2,0);
+}
+#logo {
+  height: 200%;
+  padding: 10px;
+  background-color: #222;
+}
+#logo2 {
+  background-color: #222;
+  height: 90px;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+}
+.box {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -o-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+}
+#footer {
+  background-color: rgba(2,2,2,0.8);
+  color: #fafafa;
+  padding-top: 10px;
+}
+.section-banner {
+  margin-top: -30px;
+}
+@media (max-width: 940px) {
+  #logo {
+    height: 100%;
   }
 }

@@ -1,7 +1,7 @@
 
 <?php include("header.php"); ?>
 <?php include("php/meta.php"); meta("titolo"); ?>
-<?php include("nav.php"); ?><img src="http://placehold.it/2560x300&amp;text=BG1" class="section-banner hide-for-small"/><img src="http://placehold.it/2560x500&amp;text=BG1" class="show-for-small"/>
+<?php include("nav.php"); ?><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
 <div id="content" class="row">
   <div class="three columns">
     <ul class="side-nav">

@@ -1,3 +1,14 @@
+border-radius(n)
+  -webkit-border-radius n
+  -moz-border-radius n
+  -o-border-radius n
+  border-radius n
+
+box-shadow(n)
+	-webkit-box-shadow n
+	box-shadow n
+
+
 .row
 	width 2560px
 
@@ -5,12 +16,37 @@
 	h1
 		font-family "Kelly Slab"
 
+#main-menu
+	background-color rgba(2, 2, 2, 0)
+
+#logo
+	height 200%
+	padding 10px
+	background-color #222
+
+#logo2
+	background-color: #222222;
+	height: 90px;
+	padding: 10px;
+	position: fixed;
+	top: 0;
+
+.box
+	border-radius(10px)
+	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
+
+#footer
+	background-color rgba(2, 2, 2, 0.8)
+	color #fafafa
+	padding-top: 10px
+
+.section-banner
+	margin-top -30px
 
 
 
 
 
-
-@media (min-width: 941px)
-	.section-banner
-		margin-top -30px
+@media (max-width: 940px)
+	#logo
+		height 100%
