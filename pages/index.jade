@@ -1,20 +1,20 @@
-<?php include("header.php"); ?>
+include includes/header.php
 <?php include("php/meta.php"); meta("titolo"); ?>
-<?php include("nav.php"); ?>
+include includes/nav.php
 
 br
 br
 
 #maximage
-	img(src="images/bg/02.jpg")
+	img(src="images/bg/02.jpg", title="titolo")
 	img(src="images/bg/01.jpg")
 	img(src="images/bg/06.jpg")
 	img(src="images/bg/05.jpg")
-	img(src="images/bg/04.jpg")
-	img(src="images/bg/07.jpg")
 	img(src="images/bg/08.jpg")
 
 .row
+	#slogan 
+		h1 
 	.show-for-portrait(style="padding-bottom:55%;")
 .row.hide-for-small
 	.show-for-landscape(style="padding-bottom:27%;")
@@ -23,7 +23,7 @@ br
 		.four.columns
 			.panel.box-title
 				h5 
-					a(href="section.php") 
+					a(href="profilo.php") 
 						| PROFILO
 						&nbsp;
 						i.icon-circle-arrow-right
@@ -32,7 +32,7 @@ br
 		.four.columns
 			.panel.box-title
 				h5 
-					a(href="section.php") 
+					a(href="attivita.php") 
 						| ATTIVIT&Agrave;
 						&nbsp;
 						i.icon-circle-arrow-right
@@ -41,7 +41,7 @@ br
 		.four.columns
 			.panel.box-title
 				h5
-					a(href="section.php") 
+					a(href="esperienza.php") 
 						| ESPERIENZA
 						&nbsp;
 						i.icon-circle-arrow-right
@@ -49,5 +49,5 @@ br
 				p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.
   
 
-<?php include("footer.php"); ?>
-<?php include("tail.php"); ?>
+include includes/footer.php
+include includes/tail.php

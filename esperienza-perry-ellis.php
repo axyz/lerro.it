@@ -35,52 +35,25 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav">
+      <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+      <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+      <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+      <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+      <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+      <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+    </ul>
+  </div>
+  <div class="nine columns">
+    <h3>Perry Ellis<small>&nbsp;</small></h3>
+    <p>Abbiamo seguito numerosi casi di intellectual property relativi a marchi, brevetti e diritti d’autore. Tra questi è stato particolarmente impegnativo il caso di Perry Ellis, un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, rimasto tuttavia vittima di contraffazioni ed importazioni parallele che ne hanno strozzato la possibilità di una corretta distribuzione commerciale.</p>
+    <p>Siamo stati incaricati di eseguire in tutta Italia azioni cautelari (inibitorie e sequestri) e di seguire con le dogane i procedimenti previsti per arginare queste azioni illecite.</p>
+    <p>Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, affiancando costantemente il cliente per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza.</p>
+    <p>Alle azioni cautelari sono seguite le azioni risarcitorie. </p>
+    <p>Questo caso è emblematico di come sia importante una pianificazione legale già nella fase di concezione strategica di un’iniziativa imprenditoriale. Ove i rapporti tra proprietario del marchio, licenziatario, produttore e distributori avessero seguito una logica predeterminata sarebbe stato ben più difficile per i contraffattori o per concorrenti sleali trovare nel sistema delle piccole falle nelle quali insinuarsi. Invece, in altri casi occorre cercare di riparare i danni e non sempre è possibile salvare il progetto.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

@@ -1,0 +1,34 @@
+include includes/header.php
+<?php include("php/meta.php"); meta("titolo"); ?>
+include includes/nav.php
+
+img.section-banner.hide-for-small(src="images/section/01.jpg")
+img.show-for-small(src="images/section/01.jpg")
+
+#content.row
+	.three.columns
+		include includes/attivita-nav
+	.nine.columns
+		h3 Attivit&agrave;
+			small &nbsp;
+		div(style="padding-left:4em;")
+			ul
+				li 
+					a(href="attivita-commerciale-societario.php") Commerciale e Societario
+				li 
+					a(href="attivita-ma-management-buy-out-venture-capital.php") M&amp;A, Management Buy Out, Venture Capital
+				li 
+					a(href="attivita-proprieta-intellettuale-concorrenza.php") Proprietà intellettuale e Concorrenza
+				li 
+					a(href="attivita-internet-new-media.php") Internet e new media
+				li 
+					a(href="attivita-proprieta-immobiliare.php") Proprietà immobiliare
+				li 
+					a(href="attivita-gestioni-patrimoniali-trust-successioni.php") Gestioni patrimoniali, Trust, Successioni
+				li 
+					a(href="attivita-contenzioso-arbitrato.php") Contenzioso e Arbitrato
+
+	
+
+include includes/footer.php
+include includes/tail.php

@@ -35,52 +35,19 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav"></ul>
+  </div>
+  <div class="nine columns">
+    <h3>Profilo<small>&nbsp;</small></h3>
+    <p>LERRO & PARTNERS ("L&P") è uno Studio Legale che ha sede a Roma, si fonda sulla ventennale esperienza del Senior Partner ed intrattiene stabili relazioni con validi professionisti in Italia e in Europa. </p>
+    <p>Lo Studio è il risultato di un’attenta e ponderata selezione di professionalità che hanno dimostrato competenza ed entusiasmo, oltre alla indispensabile capacità di relazionarsi.</p>
+    <p>Lo Studio riserva grande attenzione tutti i settori innovativi ed alle problematiche societarie e commerciali, con una forte preparazione ed esperienza di tipo internazionale.</p>
+    <p>Punti di forza dello Studio sono la visione strategica, l'alta preparazione tecnica, la rapidità e l'efficienza nella gestione degli incarichi, la capacità di dialogare con le più diverse competenze professionali; caratteristiche che hanno determinato lo sviluppo di elevate capacità negoziali e strategiche nelle diverse aree di attività.</p>
+    <p>Lo spirito di lavoro è improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente e di offrire la massima rapidità e puntualità nello svolgimento degli incarichi. </p>
+    <p>L'italiano e l'inglese sono le lingue di lavoro correnti dello Studio, che utilizza inoltre il francese, il tedesco e lo spagnolo.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

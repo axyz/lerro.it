@@ -35,52 +35,23 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav>
+<div id="maximage"><img src="images/bg/02.jpg"/></div>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav">
+      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+    </ul>
+  </div>
+  <div class="nine columns">
+    <h3>LA DIFESA DI UN PATRIMONIO<small>&nbsp;</small></h3>
+    <p>Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali. </p>
+    <p>Per evitare queste evenienze l’ordinamento giuridico mette a disposizione degli strumenti che consentono una valida protezione patrimoniale nel pieno rispetto della legge e di fondamentali principi quali la responsabilità patrimoniale, la tutela dell’affidamento, la protezione degli incapaci o la salvaguardia dei diritti successori. Nel mondo moderno, peraltro, gli ordinamenti giuridici internazionali spesso aiutano la disciplina nazionale, integrandole con esperienze testate in altri contesti (ad esempio, è il caso del Trust, che in Inghilterra ed USA ha consentito la conservazione dei grandi patrimoni familiari).</p>
+    <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale. </p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

@@ -35,52 +35,24 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav">
+      <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+      <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+      <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+      <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+      <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+      <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+      <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+    </ul>
+  </div>
+  <div class="nine columns">
+    <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
+    <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&amp;P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione di immobili e di appalti nazionali e internazionali, nonché di regolamentazione urbanistica. </p>
+    <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
+    <p>Inoltre, L&amp;P segue per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali e di due diligence.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

@@ -35,52 +35,21 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav">
+      <li><a>prova1</a></li>
+      <li><a>prova2</a></li>
+    </ul>
+  </div>
+  <div class="nine columns">
+    <h3>Contatti<small>&nbsp;Sottotitolo</small></h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio. </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio. </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

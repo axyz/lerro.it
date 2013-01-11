@@ -35,52 +35,24 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav>
+<div id="maximage"><img src="images/bg/02.jpg"/></div>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav">
+      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+    </ul>
+  </div>
+  <div class="nine columns">
+    <h3>RIPOSIZIONARE UN'AZIENDA<small>&nbsp;</small></h3>
+    <p>L’apertura di una rete commerciale estera, l’ingresso nella grande distribuzione, la progettazione di un franchising sono alcuni dei più frequenti esempi di riposizionamento aziendale che richiedono non solo la competenza di validi manager, ma anche la collaborazione di giuristi esperti che partecipino alla progettazione strategica, prima ancora che alla fase esecutiva. </p>
+    <p>Infatti, può capitare che il più bel progetto imprenditoriale debba essere ripensato a causa di ostacoli normativi, o che una diversa strategia sia più efficiente proprio per ragioni regolatorie.</p>
+    <p>In particolare, quando si cambia mercato, sia che si tratti di un nuovo prodotto che di una estensione geografica del business, non si può fare pienamente conto sul bagaglio di esperienza che ha accompagnato l’impresa fino a quel momento.</p>
+    <p>Anni fa abbiamo assistito un’azienda che effettuava forniture aeronautiche e che ha deciso di proporre allo stesso mercato prodotti diversi, con un maggior impatto tecnologico. La diversificazione ha richiesto all’azienda di sviluppare competenze nuove e di creare una apposita business unit, nella quale il contributo del consulente legale (coinvolto nelle tematiche di intellectual property, discipline regolatorie, contrattualistica con i fornitori) è stato fondamentale per il successo che l’azienda ha poi meritatamente raggiunto.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

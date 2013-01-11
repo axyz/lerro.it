@@ -35,52 +35,24 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
-<div class="row">
-  <div id="slogan"> 
-    <h1> </h1>
-  </div>
-  <div style="padding-bottom:55%;" class="show-for-portrait"></div>
-</div>
-<div class="row hide-for-small">
-  <div style="padding-bottom:27%;" class="show-for-landscape"></div>
-</div>
+  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
 <div id="content" class="row">
-  <div class="twelve columns">
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="profilo.php">
-             
-            PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5> <a href="attivita.php">
-             
-            ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
-    <div class="four columns">
-      <div class="panel box-title">
-        <h5><a href="esperienza.php">
-             
-            ESPERIENZA
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
-      </div>
-      <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
-      </div>
-    </div>
+  <div class="three columns">
+    <ul class="side-nav">
+      <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+      <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+      <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+      <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+      <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+      <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+    </ul>
+  </div>
+  <div class="nine columns">
+    <h3>OK Salute<small>&nbsp;</small></h3>
+    <p>In piena esplosione delle web company il progetto OK Salute, che ci ha impegnato per diversi anni, è stato una vera accademia della start up: la società, nata dall’iniziativa di diversi importanti esponenti dell’industria farmaceutica con il supporto del fondo di venture capital Kiwi II (gestito dalla Pino Ventures di Elserino Piol), intendeva fornire servizi web nel settore della salute generando un utile flusso in entrata ed in uscita di informazioni concernenti i propri utenti, proponendosi come centro di diffusione di informazione medica qualificata e segmentata.</p>
+    <p>Abbiamo assistito i soci fondatori nella fase costitutiva e nelle operazioni di venture capital (ci sono stati più round di finanziamento per diversi milioni di euro) ed in tutta l’attività corporate.</p>
+    <p>L’azienda ha terziarizzato su di noi tutta l’attività legale, l’organizzazione e la gestione dei rapporti con i fornitori e la contrattualistica, la gestione del personale, il contenzioso.</p>
+    <p>La successiva crisi delle aziende internet ne ha quindi sospeso il piano di sviluppo, essendo venuta meno la disponibilità dei necessari ulteriori investimenti. Ci siamo quindi occupati della liquidazione degli asset (tra i quali il marchio, che oggi contraddistingue una nota testata del settore). </p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">
