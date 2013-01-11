@@ -1,6 +1,5 @@
-<footer class="row">
-  <div class="twelve columns"><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-    <div class="row" id="footer">
+<br><br><br>
+<footer class="row" id="footer">
 
       <div class="four columns">
           <p>&copy; Copyright lerro.it 2012.</p>
@@ -24,6 +23,4 @@
         </ul>
       </div>
 
-    </div>
-  </div>
 </footer>

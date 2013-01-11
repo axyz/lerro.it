@@ -39,7 +39,9 @@
 #footer
 	background-color footer-bg-color
 	color footer-text-color
-	padding-top: 10px
+	padding-top 10px
+	position fixed
+	bottom 0
 	a
 		color footer-text-color
 
@@ -53,3 +55,7 @@
 @media (max-width: 940px)
 	#logo
 		height 100%
+
+@media (max-width: 768px)
+	#footer
+		position relative

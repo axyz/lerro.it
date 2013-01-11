@@ -43,6 +43,8 @@
   background-color: rgba(2,2,2,0.8);
   color: #fafafa;
   padding-top: 10px;
+  position: fixed;
+  bottom: 0;
 }
 #footer a {
   color: #fafafa;
@@ -53,5 +55,10 @@
 @media (max-width: 940px) {
   #logo {
     height: 100%;
+  }
+}
+@media (max-width: 768px) {
+  #footer {
+    position: relative;
   }
 }
