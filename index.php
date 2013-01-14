@@ -36,7 +36,7 @@
       </ul>
     </section>
   </nav><br/><br/>
-<div id="maximage"><img src="images/bg/02.jpg" title="titolo"/><img src="images/bg/01.jpg"/><img src="images/bg/06.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/08.jpg"/></div>
+<div id="maximage"><img src="images/bg/01.jpg"/><img src="images/bg/02.jpg"/><img src="images/bg/03.jpg"/><img src="images/bg/04.jpg"/><img src="images/bg/05.jpg"/></div>
 <div class="row">
   <div id="slogan"> 
     <h1> </h1>

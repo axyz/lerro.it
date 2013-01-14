@@ -36,9 +36,9 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/02.jpg"/></div>
+<div id="maximage"><img src="images/bg/bw/04.jpg"/></div>
 <div id="content" class="row">
-  <div class="three columns">
+  <div class="three columns"><br/><br/><br/>
     <ul class="side-nav">
       <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
       <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>

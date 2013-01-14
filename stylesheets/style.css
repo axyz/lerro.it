@@ -16,6 +16,19 @@
   -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
   box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
 }
+#slogan {
+  text-align: right;
+  position: relative;
+  padding-top: 10%;
+  padding-left: 10%;
+  margin-bottom: -20%;
+  right: 5%;
+}
+#slogan h1 a {
+  color: #fff;
+  font-size: 2em;
+  text-shadow: 3px 3px 4px rgba(20,20,20,0.8);
+}
 .box {
   -webkit-border-radius: 0px 0px 10px 10px;
   border-radius: 0px 0px 10px 10px;
@@ -60,5 +73,18 @@
 @media (max-width: 768px) {
   #footer {
     position: relative;
+  }
+  #slogan {
+    text-align: right;
+    position: relative;
+    padding-top: 10%;
+    padding-left: 5%;
+    margin-bottom: -20%;
+    right: 5%;
+  }
+  #slogan h1 a {
+    color: #fff;
+    font-size: 1em !important;
+    text-shadow: 3px 3px 4px rgba(20,20,20,0.8);
   }
 }
