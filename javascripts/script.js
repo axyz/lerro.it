@@ -7,7 +7,6 @@ loadTweets = function(user, count) {
   var api, items;
   items = [];
   api = "https://api.twitter.com/1/statuses/user_timeline/" + user + ".json?count=" + count;
-  console.log(api);
   $.ajax({
     dataType: "jsonp",
     url: api,
@@ -18,8 +17,7 @@ loadTweets = function(user, count) {
       for (_i = 0, _len = data.length; _i < _len; _i++) {
         el = data[_i];
         _fn(el);
-        items.push(el);
-        _results.push(console.log(el));
+        _results.push(items.push(el));
       }
       return _results;
     }
