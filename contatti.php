@@ -37,17 +37,44 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/contacts.jpg"/></div><br/><br/><br/>
+<div id="maximage"><img src="images/bg/contacts.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="six columns">
-    <h3>Contatti</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio. </p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio. </p>
+  <div class="five columns">
+    <div class="panel contact-box">
+      <h3>Contatti</h3>
+      <p>Lerro&Partners</p>
+      <p> <b>Sede Legale: </b>Roma, via G. Severano 5, 00161</p>
+      <p> <b>Sede Operativa: </b>Roma, via Famiano Nardini 1/C, 00161</p>
+      <p> <b>Tel. </b>+39.06.833.69.086 &nbsp; <b>Fax </b>+39.06.833.69.087</p>
+      <table>
+        <thead>
+          <th>Twitter</th>
+          <th>Siamo Anche Su</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td> <a href="https://twitter.com/avvocatwit" target="_blank">@avvocatwit</a></td>
+            <td>Skype</td>
+          </tr>
+          <tr>
+            <td> <a href="https://twitter.com/lerroepartners" target="_blank">@lerroepartners</a></td>
+            <td>Whatsapp</td>
+          </tr>
+          <tr>
+            <td> <a href="https://twitter.com/alessandrolerro" target="_blank">@alessandrolerro</a></td>
+            <td>Viber</td>
+          </tr>
+          <tr>
+            <td> <a href="https://twitter.com/liaruozi" target="_blank">@liaruozi</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
-  <div class="six columns">
-    <h3>Dove Siamo</h3>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sem non nisl euismod luctus ornare ac magna. In vulputate congue lorem, molestie elementum nibh fringilla tincidunt. In sed dapibus diam. Fusce ut velit ac sapien tincidunt pharetra. Maecenas vulputate metus vel felis ornare et laoreet nunc luctus. Etiam at ullamcorper purus. Nulla eu orci vel erat auctor interdum mattis eu odio.</p>
+  <div class="seven columns">
+    <div class="panel contact-box">
+      <h3>Dove Siamo</h3><iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

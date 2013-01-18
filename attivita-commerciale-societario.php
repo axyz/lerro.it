@@ -36,24 +36,29 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/attivita-commerciale-societario.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-      <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
-      <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-      <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-      <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-      <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-      <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-    </ul>
+  <div class="four columns">
+    <div class="panel contact-box">
+      <ul class="side-nav">
+        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+      </ul>
+    </div>
   </div>
-  <div class="nine columns">
-    <h3>Commerciale e Societario<small>&nbsp;</small></h3>
-    <p>La Corporate Governance è una tradizionale area di attività di L&P, da sempre attento al dibattito internazionale in materia di trasparenza nella gestione dell'impresa. Oltre a seguire problematiche societarie di gruppi internazionali e imprese di tipo tradizionale, lo Studio ha altresì analizzato e implementato strutture innovative di società e gruppi, con l'obiettivo di garantire la massima efficienza e tutela dell'interesse degli azionisti e degli investitori. </p>
-    <p>Seguendo i propri Clienti dal momento genetico dell'impresa fino alla eventuale fase di liquidazione, L&P cura ogni aspetto dell'organizzazione societaria e le problematiche connesse con i necessari adempimenti. In particolare, lo Studio ha consolidato una rilevante esperienza nella redazione e successiva gestione di accordi parasociali, contribuendo alla corretta allocazione dei poteri decisionali e di controllo, curando le regolamentazioni degli equilibri partecipativi e disegnando strategie di uscita programmata.</p>
-    <p>Nei rapporti dell'impresa con il mercato, l'esperienza maturata consente a L&P di prestare completa assistenza nei diversi settori della contrattualistica commerciale, nelle problematiche di carattere giuslavoristico e nell'intellectual property, impiegando strumenti contrattuali atipici e innovativi quali licensing, franchising, engineering, hosting e housing.</p>
+  <div class="eight columns">
+    <div class="panel contact-box">
+      <h3>Commerciale e Societario<small>&nbsp;</small></h3>
+      <p>La Corporate Governance è una tradizionale area di attività di L&P, da sempre attento al dibattito internazionale in materia di trasparenza nella gestione dell'impresa. Oltre a seguire problematiche societarie di gruppi internazionali e imprese di tipo tradizionale, lo Studio ha altresì analizzato e implementato strutture innovative di società e gruppi, con l'obiettivo di garantire la massima efficienza e tutela dell'interesse degli azionisti e degli investitori. </p>
+      <p>Seguendo i propri Clienti dal momento genetico dell'impresa fino alla eventuale fase di liquidazione, L&P cura ogni aspetto dell'organizzazione societaria e le problematiche connesse con i necessari adempimenti. In particolare, lo Studio ha consolidato una rilevante esperienza nella redazione e successiva gestione di accordi parasociali, contribuendo alla corretta allocazione dei poteri decisionali e di controllo, curando le regolamentazioni degli equilibri partecipativi e disegnando strategie di uscita programmata.</p>
+      <p>Nei rapporti dell'impresa con il mercato, l'esperienza maturata consente a L&P di prestare completa assistenza nei diversi settori della contrattualistica commerciale, nelle problematiche di carattere giuslavoristico e nell'intellectual property, impiegando strumenti contrattuali atipici e innovativi quali licensing, franchising, engineering, hosting e housing.</p>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">
