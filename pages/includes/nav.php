@@ -7,7 +7,7 @@
       <ul class="right" id="main-menu">
         <li><a href="profilo.php">PROFILO</a></li>
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
-        <li><a href="esperienza.php">ESPERIENZA</a></li>
+        <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
         <li><a href="#">BLOG</a></li>
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>

@@ -7,14 +7,10 @@
   background-color: #222;
 }
 #logo2 {
-  background-color: #931e07;
-  background-image: linear-gradient(#b02a0e, #931e07);
-  height: 118px;
   padding: 10px;
+  left: 0;
   position: absolute;
   top: 0;
-  -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
-  box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
 }
 #slogan {
   text-align: right;
@@ -73,7 +69,15 @@
 .section-banner {
   margin-top: -30px;
 }
-@media (max-width: 940px) {
+@media (min-width: 1025px) {
+  .top-bar ul li {
+    padding-top: 23px;
+  }
+  .top-bar ul li .focus {
+    background-color: rgba(147,30,7,0.8);
+  }
+}
+@media (max-width: 1025px) {
   #logo {
     height: 100%;
   }

@@ -11,13 +11,10 @@
 	background-color logo-bg-color
 
 #logo2
-	background-color #931E07
-	background-image: linear-gradient(#B02A0E, #931E07);
-	height: 118px;
-	padding: 10px;
-	position: absolute;
-	top: 0;
-	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
+	padding 10px
+	left 0
+	position absolute
+	top 0
 
 #slogan
 	text-align right
@@ -69,9 +66,15 @@
 
 
 
+@media (min-width: 1025px)
+	.top-bar
+		ul
+			li
+				padding-top 23px
+				.focus
+					background-color rgba(147,30,7,0.8)
 
-
-@media (max-width: 940px)
+@media (max-width: 1025px)
 	#logo
 		height 100%
 
