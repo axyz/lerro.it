@@ -36,24 +36,12 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/esperienza.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-      <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-      <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-      <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-      <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-      <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>Esperienza<small>&nbsp;</small></h3>
-    <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.</p>
-    <p>Le storie presenti in questa sezione contengono informazioni di pubblico dominio o pubblicate o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
-    <div style="padding-left:4em;">
-      <ul>
+  <div class="four columns">
+    <div class="panel contact-box">
+      <ul class="side-nav">
         <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
         <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
         <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
@@ -61,6 +49,23 @@
         <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
         <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
       </ul>
+    </div>
+  </div>
+  <div class="eight columns">
+    <div class="panel contact-box">
+      <h3>Esperienza<small>&nbsp;</small></h3>
+      <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.</p>
+      <p>Le storie presenti in questa sezione contengono informazioni di pubblico dominio o pubblicate o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
+      <div style="padding-left:4em;">
+        <ul>
+          <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+          <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+          <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+          <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div><br><br><br>

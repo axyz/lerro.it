@@ -36,24 +36,29 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/attivita-gestioni-patrimoniali-trust-successioni.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-      <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
-      <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-      <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-      <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-      <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-      <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-    </ul>
+  <div class="four columns">
+    <div class="panel contact-box">
+      <ul class="side-nav">
+        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+      </ul>
+    </div>
   </div>
-  <div class="nine columns">
-    <h3>Gestioni patrimoniali, Trust, Successioni<small>&nbsp;</small></h3>
-    <p>L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
-    <p>L&amp;P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.</p>
-    <p>Inoltre, L&amp;P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.</p>
+  <div class="eight columns">
+    <div class="panel contact-box">
+      <h3>Gestioni patrimoniali, Trust, Successioni<small>&nbsp;</small></h3>
+      <p>L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
+      <p>L&amp;P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.</p>
+      <p>Inoltre, L&amp;P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.</p>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

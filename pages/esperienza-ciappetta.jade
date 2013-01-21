@@ -3,18 +3,26 @@ include mixins/meta-tags
 mixin meta-tags("titolo")
 include includes/nav.php
 
-img.section-banner.hide-for-small(src="images/section/01.jpg")
-img.show-for-small(src="images/section/01.jpg")
+#maximage
+	img(src="images/bg/esperienza-ciappetta.jpg")
+
+br
+br
+br
+br
+br
 
 #content.row
-	.three.columns
-		include includes/esperienza-nav
-	.nine.columns
-		h3 Ciappetta
-			small &nbsp;
-		p Fabrizio Ciappetta, deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.
-		p Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza …
-		p Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari, quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.
+	.four.columns
+		.panel.contact-box
+			include includes/esperienza-nav
+	.eight.columns
+		.panel.contact-box
+			h3 Ciappetta
+				small &nbsp;
+			p Fabrizio Ciappetta, deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.
+			p Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza …
+			p Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari, quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.
 	
 
 include includes/footer.php

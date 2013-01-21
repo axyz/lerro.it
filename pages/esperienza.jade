@@ -3,32 +3,40 @@ include mixins/meta-tags
 mixin meta-tags("titolo")
 include includes/nav.php
 
-img.section-banner.hide-for-small(src="images/section/01.jpg")
-img.show-for-small(src="images/section/01.jpg")
+#maximage
+	img(src="images/bg/esperienza.jpg")
+
+br
+br
+br
+br
+br
 
 #content.row
-	.three.columns
-		include includes/esperienza-nav
-	.nine.columns
-		h3 Esperienza
-			small &nbsp;
-		p In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.
-		p Le storie presenti in questa sezione contengono informazioni di pubblico dominio o pubblicate o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.
-		div(style="padding-left:4em;")
-			ul
-				li 
-					a(href="esperienza-venture-consulting.php") Venture Consulting
-				li 
-					a(href="esperienza-proras-vs-ce.php") Proras vs. CE
-				li 
-					a(href="esperienza-ciappetta.php") Ciappetta
-				li 
-					a(href="esperienza-perry-ellis.php") Perry Ellis
-				li 
-					a(href="esperienza-ok-salute.php") OK Salute
-				li 
-					a(href="esperienza-azioni-contro-gruppo-efim.php") Azioni contro il Gruppo EFIM
-	
+	.four.columns
+		.panel.contact-box
+			include includes/esperienza-nav
+	.eight.columns
+		.panel.contact-box
+			h3 Esperienza
+				small &nbsp;
+			p In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.
+			p Le storie presenti in questa sezione contengono informazioni di pubblico dominio o pubblicate o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.
+			div(style="padding-left:4em;")
+				ul
+					li 
+						a(href="esperienza-venture-consulting.php") Venture Consulting
+					li 
+						a(href="esperienza-proras-vs-ce.php") Proras vs. CE
+					li 
+						a(href="esperienza-ciappetta.php") Ciappetta
+					li 
+						a(href="esperienza-perry-ellis.php") Perry Ellis
+					li 
+						a(href="esperienza-ok-salute.php") OK Salute
+					li 
+						a(href="esperienza-azioni-contro-gruppo-efim.php") Azioni contro il Gruppo EFIM
+		
 
 include includes/footer.php
 include includes/tail.php

@@ -36,24 +36,29 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/esperienza-azioni-contro-gruppo-efim.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-      <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-      <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-      <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-      <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-      <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-    </ul>
+  <div class="four columns">
+    <div class="panel contact-box">
+      <ul class="side-nav">
+        <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+        <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+        <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+        <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+        <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+        <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+      </ul>
+    </div>
   </div>
-  <div class="nine columns">
-    <h3>Azioni contro il Gruppo EFIM<small>&nbsp;</small></h3>
-    <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate (Agusta, Aviofer Breda, Alumix, ecc.).</p>
-    <p>La pretesa risarcitoria esposta in citazione contro circa 50 dirigenti raggiungeva l’incredibile somma di 30.000 miliardi di lire.</p>
-    <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, dalla ricostruzione dei processi decisionali dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
-    <p>Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.</p>
+  <div class="eight columns">
+    <div class="panel contact-box">
+      <h3>Azioni contro il Gruppo EFIM<small>&nbsp;</small></h3>
+      <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate (Agusta, Aviofer Breda, Alumix, ecc.).</p>
+      <p>La pretesa risarcitoria esposta in citazione contro circa 50 dirigenti raggiungeva l’incredibile somma di 30.000 miliardi di lire.</p>
+      <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, dalla ricostruzione dei processi decisionali dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
+      <p>Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.</p>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

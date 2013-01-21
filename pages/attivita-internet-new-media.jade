@@ -3,16 +3,24 @@ include mixins/meta-tags
 mixin meta-tags("titolo")
 include includes/nav.php
 
-img.section-banner.hide-for-small(src="images/section/01.jpg")
-img.show-for-small(src="images/section/01.jpg")
+#maximage
+	img(src="images/bg/attivita-internet-new-media.jpg")
+
+br
+br
+br
+br
+br
 
 #content.row
-	.three.columns
-		include includes/attivita-nav
-	.nine.columns
-		h3 Internet e new media
-			small &nbsp;
-		p Nel periodo dell’esplosione della new economy abbiamo avuto la fortuna di poter assistere diverse società che hanno approcciato internet come loro unica dimensione aziendale, con una visione pionieristica molto coraggiosa che ci ha consentito di sviluppare una notevole esperienza. La maggior parte di queste società non solo operavano unicamente via internet, ma avevano spesso ad oggetto i nuovi mezzi di comunicazione.
+	.four.columns
+		.panel.contact-box
+			include includes/attivita-nav
+	.eight.columns
+		.panel.contact-box
+			h3 Internet e new media
+				small &nbsp;
+			p Nel periodo dell’esplosione della new economy abbiamo avuto la fortuna di poter assistere diverse società che hanno approcciato internet come loro unica dimensione aziendale, con una visione pionieristica molto coraggiosa che ci ha consentito di sviluppare una notevole esperienza. La maggior parte di queste società non solo operavano unicamente via internet, ma avevano spesso ad oggetto i nuovi mezzi di comunicazione.
 
 	
 

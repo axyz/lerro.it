@@ -36,25 +36,30 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/attivita-contenzioso-arbitrato.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-      <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
-      <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-      <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-      <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-      <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-      <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-    </ul>
+  <div class="four columns">
+    <div class="panel contact-box">
+      <ul class="side-nav">
+        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+      </ul>
+    </div>
   </div>
-  <div class="nine columns">
-    <h3>Contenzioso e Arbitrato<small>&nbsp;</small></h3>
-    <p>Caratteristica distintiva dello Studio è l'abilità nell'individuare la strategia più idonea alla risoluzione delle questioni controverse. La tenacia, l'approfondimento, un'accurata attività istruttoria e la completezza dello studio del caso costituiscono la miglior formula per difendere e sostenere gli interessi del Cliente.</p>
-    <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni, riguardanti anche materie specialistiche quali il diritto industriale e la proprietà intellettuale, la tutela dei sistemi informatici e dei diritti di utilizzazione del software, il diritto societario e la responsabilità degli amministratori, gli appalti, l'assicurazione, tutte le problematiche di natura immobiliare e le diverse procedure concorsuali. </p>
-    <p>Lo Studio è spesso officiato della cura di rilevanti questioni, anche di carattere contenzioso, di natura ereditaria o personale e segue con particolare frequenza tematiche concernenti la privacy, l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici e società.</p>
-    <p>Nel settore penale, lo Studio si occupa di procedimenti relativi a reati commerciali, urbanistici e di diffamazione. Inoltre, è stata maturata una consolidata esperienza nel perseguimento della contraffazione di marchi, di opere intellettuali e di creazioni di moda.</p>
+  <div class="eight columns">
+    <div class="panel contact-box">
+      <h3>Contenzioso e Arbitrato<small>&nbsp;</small></h3>
+      <p>Caratteristica distintiva dello Studio è l'abilità nell'individuare la strategia più idonea alla risoluzione delle questioni controverse. La tenacia, l'approfondimento, un'accurata attività istruttoria e la completezza dello studio del caso costituiscono la miglior formula per difendere e sostenere gli interessi del Cliente.</p>
+      <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni, riguardanti anche materie specialistiche quali il diritto industriale e la proprietà intellettuale, la tutela dei sistemi informatici e dei diritti di utilizzazione del software, il diritto societario e la responsabilità degli amministratori, gli appalti, l'assicurazione, tutte le problematiche di natura immobiliare e le diverse procedure concorsuali. </p>
+      <p>Lo Studio è spesso officiato della cura di rilevanti questioni, anche di carattere contenzioso, di natura ereditaria o personale e segue con particolare frequenza tematiche concernenti la privacy, l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici e società.</p>
+      <p>Nel settore penale, lo Studio si occupa di procedimenti relativi a reati commerciali, urbanistici e di diffamazione. Inoltre, è stata maturata una consolidata esperienza nel perseguimento della contraffazione di marchi, di opere intellettuali e di creazioni di moda.</p>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

@@ -36,24 +36,29 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/attivita-proprieta-immobiliare.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-      <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
-      <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-      <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-      <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-      <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-      <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-    </ul>
+  <div class="four columns">
+    <div class="panel contact-box">
+      <ul class="side-nav">
+        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+      </ul>
+    </div>
   </div>
-  <div class="nine columns">
-    <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
-    <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&amp;P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione di immobili e di appalti nazionali e internazionali, nonché di regolamentazione urbanistica. </p>
-    <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
-    <p>Inoltre, L&amp;P segue per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali e di due diligence.</p>
+  <div class="eight columns">
+    <div class="panel contact-box">
+      <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
+      <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&amp;P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione di immobili e di appalti nazionali e internazionali, nonché di regolamentazione urbanistica. </p>
+      <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
+      <p>Inoltre, L&amp;P segue per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali e di due diligence.</p>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

@@ -3,18 +3,26 @@ include mixins/meta-tags
 mixin meta-tags("titolo")
 include includes/nav.php
 
-img.section-banner.hide-for-small(src="images/section/01.jpg")
-img.show-for-small(src="images/section/01.jpg")
+#maximage
+	img(src="images/bg/attivita-gestioni-patrimoniali-trust-successioni.jpg")
+
+br
+br
+br
+br
+br
 
 #content.row
-	.three.columns
-		include includes/attivita-nav
-	.nine.columns
-		h3 Gestioni patrimoniali, Trust, Successioni
-			small &nbsp;
-		p L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. 
-		p L&amp;P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.
-		p Inoltre, L&amp;P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.
+	.four.columns
+		.panel.contact-box
+			include includes/attivita-nav
+	.eight.columns
+		.panel.contact-box
+			h3 Gestioni patrimoniali, Trust, Successioni
+				small &nbsp;
+			p L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. 
+			p L&amp;P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.
+			p Inoltre, L&amp;P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.
 
 	
 

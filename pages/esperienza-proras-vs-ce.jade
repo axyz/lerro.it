@@ -3,16 +3,24 @@ include mixins/meta-tags
 mixin meta-tags("titolo")
 include includes/nav.php
 
-img.section-banner.hide-for-small(src="images/section/01.jpg")
-img.show-for-small(src="images/section/01.jpg")
+#maximage
+	img(src="images/bg/esperienza-proras-vs-ce.jpg")
+
+br
+br
+br
+br
+br
 
 #content.row
-	.three.columns
-		include includes/esperienza-nav
-	.nine.columns
-		h3 Proras vs. CE
-			small &nbsp;
-		p Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.
+	.four.columns
+		.panel.contact-box
+			include includes/esperienza-nav
+	.eight.columns
+		.panel.contact-box
+			h3 Proras vs. CE
+				small &nbsp;
+			p Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.
 	
 
 include includes/footer.php
