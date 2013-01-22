@@ -48,14 +48,17 @@
         <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
         <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
         <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
       </ul>
     </div>
   </div>
   <div class="eight columns">
     <div class="panel contact-box">
-      <h3>Esperienza<small>&nbsp;</small></h3>
-      <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.</p>
-      <p>Le storie presenti in questa sezione contengono informazioni di pubblico dominio o pubblicate o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
+      <h3>Storie<small>&nbsp;</small></h3>
+      <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione e di alcune specifiche tematiche affrontate. Il curriculum professionale dei Partner è disponibile su richiesta, ma queste storie raccontano in concreto e meglio di ogni sintesi quale tipo di vicende siano state affrontate dallo Studio. Le storie possono essere selezionate sul menù a lato. </p>
+      <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende relative a privati e comunque che non siano divenute pubbliche.</p>
+      <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
       <div style="padding-left:4em;">
         <ul>
           <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
@@ -64,6 +67,8 @@
           <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
           <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
           <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+          <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+          <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
         </ul>
       </div>
     </div>

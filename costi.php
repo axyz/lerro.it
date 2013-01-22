@@ -51,8 +51,8 @@
     <div style="padding-left:4em;">
       <ul>
         <li>A progetto: nell’ambito di una più complessa attività vengono definiti i compensi per ciascun progetto e poi il cliente sceglie se attivare il servizio e su quali progetti.</li>
-        <li>Ad orario: può essere stabilito un compenso orario, nello stile internazionale; in questo caso le ore lavorate vengono rendicontate e liquidate periodicamente (generalmente su base mensile.</li>
-        <li>A forfait: viene stabilita un determinato compenso per l’intera attività.</li>
+        <li>Ad orario: può essere stabilito un compenso orario, nello stile internazionale; in questo caso le ore lavorate vengono rendicontate e liquidate periodicamente (generalmente su base mensile).</li>
+        <li>A forfait: viene stabilito un determinato compenso per l’intera attività.</li>
         <li>A success fee: con questa formula il compenso si compone di una quota fissa (c.d. retainer) ed una success fee che matura solo in caso di esito favorevole de progetto, secondo i termini concordati col cliente.</li>
         <li>A tariffa: una ulteriore formula, utile soprattutto per il contenzioso, è quella a tariffa: viene concordato un compenso per ciascuna possibile attività e poi vengono addebitate solo quelle effettivamente effettuate (es. redazione di una memoria, partecipazione ad un’udienza, ecc.)</li>
       </ul>

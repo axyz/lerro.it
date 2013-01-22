@@ -48,13 +48,15 @@
         <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
         <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
         <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
       </ul>
     </div>
   </div>
   <div class="eight columns">
     <div class="panel contact-box">
       <h3>Perry Ellis<small>&nbsp;</small></h3>
-      <p>Abbiamo seguito numerosi casi di intellectual property relativi a marchi, brevetti e diritti d’autore. Tra questi è stato particolarmente impegnativo il caso di Perry Ellis, un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, rimasto tuttavia vittima di contraffazioni ed importazioni parallele che ne hanno strozzato la possibilità di una corretta distribuzione commerciale.</p>
+      <p>Abbiamo seguito numerosi casi di intellectual property relativi a marchi e creazioni della moda. Tra questi è stato particolarmente impegnativo il caso di Perry Ellis, un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, poi vanificato a causa di contraffazioni ed importazioni parallele, che ne hanno strozzato la possibilità di una corretta distribuzione commerciale.</p>
       <p>Siamo stati incaricati di eseguire in tutta Italia azioni cautelari (inibitorie e sequestri) e di seguire con le dogane i procedimenti previsti per arginare queste azioni illecite.</p>
       <p>Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, affiancando costantemente il cliente per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza.</p>
       <p>Alle azioni cautelari sono seguite le azioni risarcitorie. </p>

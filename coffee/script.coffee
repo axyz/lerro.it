@@ -3,7 +3,8 @@ slogans = [
   ["RIPOSIZIONARE UN'AZIENDA", "slogan-riposizionare-azienda.php"]
   ["LA DIFESA DI UN PATRIMONIO", "slogan-difesa-patrimonio.php"]
   ["ASSISTERE UN DISABILE", "slogan-assistere-disabile.php"]
-  ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"]]
+  ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"]
+  ["LOBBYING", "slogan-lobbying.php"]]
 
 loadTweets = (user, count) ->
 	items = []

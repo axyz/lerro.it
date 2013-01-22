@@ -37,7 +37,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-ma-management-buy-out-venture-capital.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-proprieta-immobiliare.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
   <div class="four columns">
     <div class="panel contact-box">
@@ -56,11 +56,10 @@
   </div>
   <div class="eight columns">
     <div class="panel contact-box">
-      <h3>M&amp;A, Venture Capital, Management Buy Out <small>&nbsp;</small></h3>
-      <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria. </p>
-      <p>L&amp;P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
-      <p>Lo Studio assiste inoltre i propri Clienti, tra i quali alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri.</p>
-      <p>L&amp;P ha costituito o ristrutturato reti distributive e di franchising, in alcuni casi con interlocutori europei e statunitensi.</p>
+      <h3>Amministrazione di sostegno, tutela e protezione degli incapaci<small>&nbsp;</small></h3>
+      <p>Lo Studio ha sviluppato un’ampia esperienza nelle procedure di competenza del giudice tutelare: assistenza di minori ed interdetti, amministrazioni di sostegno, tutele.</p>
+      <p>Vengono curati sia gli aspetti di gestione ordinaria della vita dell’amministrato, che i profili straordinari o contenziosi, con il massimo supporto alle famiglie nella interazione con Tribunale ed uffici amministrativi.</p>
+      <p>L&P ha maturato una specifica esperienza nel supporto gestionale, che può essere espresso anche tramite la costituzione di Trust e la creazione di “family office” in grado di gestire patrimoni personali in supporto alle figure professionali designate dalla famiglia dell’amministrato e dal Tribunale.</p>
     </div>
   </div>
 </div><br><br><br>

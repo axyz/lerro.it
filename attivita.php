@@ -43,27 +43,33 @@
     <div class="panel contact-box">
       <ul class="side-nav">
         <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
         <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
         <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
         <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
         <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
         <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+        <li> <a href="attivita-energia.php">Energia</a></li>
+        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
       </ul>
     </div>
   </div>
   <div class="eight columns">
     <div class="panel contact-box">
       <h3>Attivit&agrave;<small>&nbsp;</small></h3>
+      <p>Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.</p>
+      <p>La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.</p>
       <div style="padding-left:4em;">
         <ul>
           <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Management Buy Out, Venture Capital</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
           <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
           <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
         </ul>
       </div>
     </div>

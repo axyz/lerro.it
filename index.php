@@ -37,7 +37,7 @@
       </ul>
     </section>
   </nav><br/><br/>
-<div id="maximage"><img src="images/bg/01.jpg"/><img src="images/bg/02.jpg"/><img src="images/bg/03.jpg"/><img src="images/bg/04.jpg"/><img src="images/bg/05.jpg"/></div>
+<div id="maximage"><img src="images/bg/01.jpg"/><img src="images/bg/02.jpg"/><img src="images/bg/03.jpg"/><img src="images/bg/04.jpg"/><img src="images/bg/05.jpg"/><img src="images/bg/06.jpg"/></div>
 <div class="row">
   <div id="slogan"> 
     <h1> </h1>
@@ -57,7 +57,7 @@
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
+        <p>Il nostro profilo professionale e la sintesi di venti anni di attività.</p>
       </div>
     </div>
     <div class="four columns">
@@ -68,18 +68,18 @@
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
+        <p>Lerro&Partners si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p>
       </div>
     </div>
     <div class="four columns">
       <div class="panel box-title">
         <h5><a href="esperienza.php">
              
-            ESPERIENZA
+            STORIE
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer feugiat suscipit purus non auctor. Praesent justo massa, porttitor sit amet luctus sit amet, convallis eu eros. Aliquam vestibulum mattis luctus. Fusce urna magna, vehicula ut rhoncus eget, placerat sed sapien.</p>
+        <p>Raccontiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione. </p>
       </div>
     </div>
   </div>

@@ -48,6 +48,8 @@
         <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
         <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
         <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
       </ul>
     </div>
   </div>
@@ -56,7 +58,8 @@
       <h3>Ciappetta<small>&nbsp;</small></h3>
       <p>Fabrizio Ciappetta, deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.</p>
       <p>Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza …</p>
-      <p>Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari, quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.</p>
+      <p>Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari (di colpa medica), quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.</p>
+      <p>(DA COMPLETARE)</p>
     </div>
   </div>
 </div><br><br><br>

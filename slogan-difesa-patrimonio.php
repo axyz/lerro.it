@@ -46,13 +46,15 @@
       <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
       <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
       <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+      <li> <a href="slogan-lobbying.php">LOBBYING</a></li>
     </ul>
   </div>
   <div class="nine columns">
     <h3>LA DIFESA DI UN PATRIMONIO<small>&nbsp;</small></h3>
     <p>Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali. </p>
     <p>Per evitare queste evenienze l’ordinamento giuridico mette a disposizione degli strumenti che consentono una valida protezione patrimoniale nel pieno rispetto della legge e di fondamentali principi quali la responsabilità patrimoniale, la tutela dell’affidamento, la protezione degli incapaci o la salvaguardia dei diritti successori. Nel mondo moderno, peraltro, gli ordinamenti giuridici internazionali spesso aiutano la disciplina nazionale, integrandole con esperienze testate in altri contesti (ad esempio, è il caso del Trust, che in Inghilterra ed USA ha consentito la conservazione dei grandi patrimoni familiari).</p>
-    <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale. </p>
+    <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale.</p>
+    <p>L’analisi problema, la valutazione delle alternative e la programmazione del futuro consentono una difesa efficace del patrimonio, la riduzione dei rischi e significativi risparmi.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

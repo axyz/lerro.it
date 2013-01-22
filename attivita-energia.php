@@ -37,7 +37,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-ma-management-buy-out-venture-capital.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-internet-new-media.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
   <div class="four columns">
     <div class="panel contact-box">
@@ -56,11 +56,9 @@
   </div>
   <div class="eight columns">
     <div class="panel contact-box">
-      <h3>M&amp;A, Venture Capital, Management Buy Out <small>&nbsp;</small></h3>
-      <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria. </p>
-      <p>L&amp;P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
-      <p>Lo Studio assiste inoltre i propri Clienti, tra i quali alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri.</p>
-      <p>L&amp;P ha costituito o ristrutturato reti distributive e di franchising, in alcuni casi con interlocutori europei e statunitensi.</p>
+      <h3>Energia<small>&nbsp;</small></h3>
+      <p>L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di posizionamento importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.</p>
+      <p>L&P ha esplorato le nuove prospettive offerte da questo importante mercato, con attenzione ai profili regolatori e a quelli gestionali, predisponendo analisi e studi ed offrendo il proprio supporto consulenziale alle aziende del settore.</p>
     </div>
   </div>
 </div><br><br><br>
