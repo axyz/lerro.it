@@ -36,20 +36,20 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav"></ul>
-  </div>
-  <div class="nine columns">
-    <h3>Profilo<small>&nbsp;</small></h3>
-    <p>LERRO & PARTNERS è uno Studio Legale che ha sede a Roma, si fonda sulla ventennale esperienza del Senior Partner ed intrattiene stabili relazioni con validi professionisti in Italia e in Europa. </p>
-    <p>L&amp;P è il risultato di un’attenta e ponderata selezione di professionisti che operano con competenza ed entusiasmo, dimostrando una autentica capacità di relazionarsi.</p>
-    <p>Lo Studio riserva grande attenzione a tutti i settori innovativi ed alle problematiche societarie e commerciali, con una forte preparazione ed esperienza di tipo internazionale.</p>
-    <p>Punti di forza di L&amp;P sono la visione strategica, l'alta preparazione tecnica, la rapidità e l'efficienza nella gestione degli incarichi, la capacità di dialogare con le più diverse competenze professionali; caratteristiche che hanno determinato lo sviluppo di elevate capacità negoziali e strategiche nelle diverse aree di attività.</p>
-    <p>Lo spirito di lavoro è improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente. </p>
-    <p>Oltre ad una consistente attività stragiudiziale e negoziale, lo Studio patrocina il contenzioso in sede ordinaria, arbitrale e davanti alle Magistrature Superiori e alla Corte di Giustizia dell’Unione Europea.</p>
-    <p>L'italiano e l'inglese sono le lingue di lavoro correnti dello Studio.</p>
+  <div class="ten columns offset-by-one">
+    <div class="panel contact-box">
+      <h3>Profilo<small>&nbsp;</small></h3>
+      <p>LERRO & PARTNERS è uno Studio Legale che ha sede a Roma, si fonda sulla ventennale esperienza del Senior Partner ed intrattiene stabili relazioni con validi professionisti in Italia e in Europa. </p>
+      <p>L&amp;P è il risultato di un’attenta e ponderata selezione di professionisti che operano con competenza ed entusiasmo, dimostrando una autentica capacità di relazionarsi.</p>
+      <p>Lo Studio riserva grande attenzione a tutti i settori innovativi ed alle problematiche societarie e commerciali, con una forte preparazione ed esperienza di tipo internazionale.</p>
+      <p>Punti di forza di L&amp;P sono la visione strategica, l'alta preparazione tecnica, la rapidità e l'efficienza nella gestione degli incarichi, la capacità di dialogare con le più diverse competenze professionali; caratteristiche che hanno determinato lo sviluppo di elevate capacità negoziali e strategiche nelle diverse aree di attività.</p>
+      <p>Lo spirito di lavoro è improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente. </p>
+      <p>Oltre ad una consistente attività stragiudiziale e negoziale, lo Studio patrocina il contenzioso in sede ordinaria, arbitrale e davanti alle Magistrature Superiori e alla Corte di Giustizia dell’Unione Europea.</p>
+      <p>L'italiano e l'inglese sono le lingue di lavoro correnti dello Studio.</p>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

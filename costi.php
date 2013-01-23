@@ -36,28 +36,26 @@
         <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
       </ul>
     </section>
-  </nav><img src="images/section/01.jpg" class="section-banner hide-for-small"/><img src="images/section/01.jpg" class="show-for-small"/>
+  </nav>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns">
-    <ul class="side-nav">
-      <TESTIMONIAL></TESTIMONIAL>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>Costi<small>&nbsp;</small></h3>
-    <p>I nostri servizi professionali sono sempre concordati in un Contratto (scaricabile) e i compensi sono pattuiti prima dell’inizio del lavoro, sulla base di un preventivo scritto, che forma parte integrante del Contratto. Ciò avviene anche per servizi professionali di modesta entità.</p>
-    <p>Talora per redigere un preventivo è necessaria un’analisi preliminare del caso che, salvo diversi accordi, non viene addebitata al cliente.</p>
-    <p>In considerazione dell’abolizione delle tariffe professionali obbligatorie (art. 9 del decreto legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27) i compensi sono concordati con il cliente secondo una delle seguenti formule:</p>
-    <div style="padding-left:4em;">
-      <ul>
-        <li>A progetto: nell’ambito di una più complessa attività vengono definiti i compensi per ciascun progetto e poi il cliente sceglie se attivare il servizio e su quali progetti.</li>
-        <li>Ad orario: può essere stabilito un compenso orario, nello stile internazionale; in questo caso le ore lavorate vengono rendicontate e liquidate periodicamente (generalmente su base mensile).</li>
-        <li>A forfait: viene stabilito un determinato compenso per l’intera attività.</li>
-        <li>A success fee: con questa formula il compenso si compone di una quota fissa (c.d. retainer) ed una success fee che matura solo in caso di esito favorevole de progetto, secondo i termini concordati col cliente.</li>
-        <li>A tariffa: una ulteriore formula, utile soprattutto per il contenzioso, è quella a tariffa: viene concordato un compenso per ciascuna possibile attività e poi vengono addebitate solo quelle effettivamente effettuate (es. redazione di una memoria, partecipazione ad un’udienza, ecc.)</li>
-      </ul>
+  <div class="ten columns offset-by-one">
+    <div class="panel contact-box">
+      <h3>Costi<small>&nbsp;</small></h3>
+      <p>I nostri servizi professionali sono sempre concordati in un Contratto (scaricabile) e i compensi sono pattuiti prima dell’inizio del lavoro, sulla base di un preventivo scritto, che forma parte integrante del Contratto. Ciò avviene anche per servizi professionali di modesta entità.</p>
+      <p>Talora per redigere un preventivo è necessaria un’analisi preliminare del caso che, salvo diversi accordi, non viene addebitata al cliente.</p>
+      <p>In considerazione dell’abolizione delle tariffe professionali obbligatorie (art. 9 del decreto legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27) i compensi sono concordati con il cliente secondo una delle seguenti formule:</p>
+      <div style="padding-left:4em;">
+        <ul>
+          <li>A progetto: nell’ambito di una più complessa attività vengono definiti i compensi per ciascun progetto e poi il cliente sceglie se attivare il servizio e su quali progetti.</li>
+          <li>Ad orario: può essere stabilito un compenso orario, nello stile internazionale; in questo caso le ore lavorate vengono rendicontate e liquidate periodicamente (generalmente su base mensile).</li>
+          <li>A forfait: viene stabilito un determinato compenso per l’intera attività.</li>
+          <li>A success fee: con questa formula il compenso si compone di una quota fissa (c.d. retainer) ed una success fee che matura solo in caso di esito favorevole de progetto, secondo i termini concordati col cliente.</li>
+          <li>A tariffa: una ulteriore formula, utile soprattutto per il contenzioso, è quella a tariffa: viene concordato un compenso per ciascuna possibile attività e poi vengono addebitate solo quelle effettivamente effettuate (es. redazione di una memoria, partecipazione ad un’udienza, ecc.)</li>
+        </ul>
+      </div>
+      <p>La nostra attività professionale è coperta da polizza assicurativa emessa da AIG Europe per la responsabilità professionale con un massimale di euro 2.600.000,00. Eventuali operazioni soggette a limiti di possibile responsabilità superiori possono essere oggetto di specifica estensione.</p>
     </div>
-    <p>La nostra attività professionale è coperta da polizza assicurativa emessa da AIG Europe per la responsabilità professionale con un massimale di euro 2.600.000,00. Eventuali operazioni soggette a limiti di possibile responsabilità superiori possono essere oggetto di specifica estensione.</p>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

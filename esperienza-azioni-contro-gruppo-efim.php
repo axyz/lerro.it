@@ -37,7 +37,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/esperienza-azioni-contro-gruppo-efim.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
   <div class="four columns">
     <div class="panel contact-box">
