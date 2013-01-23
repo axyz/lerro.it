@@ -15,6 +15,19 @@
 	position absolute
 	top 0
 
+.top-bar.expanded
+	background-color rgba(20, 20, 20, 0.9)
+	section
+		ul
+			margin-top 1em
+			li
+				text-align center
+				padding-bottom 0.618em
+				a:not(.button)
+					border 2px solid rgba(147,30,7,0.8)
+		    	box-shadow 3px 3px 3px #222
+		    	margin 10px
+
 #slogan
 	text-align right
 	position relative
@@ -25,7 +38,7 @@
 	h1
 		a
 			color #fff
-			font-size 2em
+			font-size 1.618em
 			text-shadow 3px 3px 4px rgba(20, 20, 20, 0.8)
 
 .box
@@ -64,23 +77,25 @@
 	margin-top -30px
 
 
+@media (min-width: 767px)
+	.box
+		height 150px
 
-@media (min-width: 1025px)
+@media (min-width: 1024px)
 	.top-bar
 		ul
 			li
 				a:not(.button)
 					padding-top 23px !important
 
-@media (max-width: 1025px)
+	.box
+		height 110px
+
+@media (max-width: 1024px)
 	#logo
 		height 66%
 		margin-top 10px
 		margin-left -0.618em
-
-@media (max-width: 768px)
-	#footer
-		position relative
 
 	#slogan
 		text-align right
@@ -94,4 +109,8 @@
 				color #fff
 				font-size 1em !important
 				text-shadow 3px 3px 4px rgba(20, 20, 20, 0.8)
+
+@media (max-width: 767px)
+	#footer
+		position relative
 
