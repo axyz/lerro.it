@@ -43,19 +43,29 @@
     <div class="panel contact-box hide-for-small">
       <div id="testimonial">
         <div>
-          <p>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</p>
+          <blockquote>
+            <p>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</p>
+          </blockquote>
         </div>
         <div>
-          <p>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</p>
+          <blockquote>
+            <p>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</p>
+          </blockquote>
         </div>
         <div>
-          <p>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</p>
+          <blockquote>
+            <p>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</p>
+          </blockquote>
         </div>
         <div>
-          <p>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</p>
+          <blockquote>
+            <p>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</p>
+          </blockquote>
         </div>
         <div>
-          <p>Gabriele Brustenghi - Fondatore del Festival del Fitness</p>
+          <blockquote>
+            <p>Gabriele Brustenghi - Fondatore del Festival del Fitness</p>
+          </blockquote>
         </div>
       </div>
     </div>
