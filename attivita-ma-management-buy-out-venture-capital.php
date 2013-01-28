@@ -95,11 +95,12 @@
 </div><br><br><br>
 <footer class="row" id="footer">
 
-      <div class="four columns">
-          <p>&copy; Copyright lerro.it 2012.</p>
+      <div class="six columns">
+        <div id="twitter">
+        </div>
       </div>
 
-      <div class="four columns">
+      <div class="two columns">
         <ul id="social" class="link-list">
             <li><a href="#" target="_blank"><i class="icon-facebook"></i></a></li>
             <li><a href="#" target="_blank"><i class="icon-twitter"></i></a></li>
@@ -196,6 +197,8 @@
   <script src="<?php echo $basedir;?>javascripts/jquery.grid-a-licious.min.js"></script>
   <script src="<?php echo $basedir;?>javascripts/jquery.maximage.js"></script>
   <script src="<?php echo $basedir;?>javascripts/foundation/app.js"></script>
+
   <script src="<?php echo $basedir;?>javascripts/script.js"></script>
+  <script src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=avvocatwit&include_rts=true&count=4&callback=twitterCB" type="text/javascript"></script> 
 </body>
 </html>

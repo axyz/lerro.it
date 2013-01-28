@@ -6,18 +6,21 @@ slogans = [
   ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"]
   ["LOBBYING", "slogan-lobbying.php"]]
 
-loadTweets = (user, count) ->
-	items = []
-	api = "https://api.twitter.com/1/statuses/user_timeline/" + user + ".json?count=" + count
-	$.ajax
-  	dataType: "jsonp"
-  	url: api
-  	success: (data) ->
-  		for el in data
-  			do (el) ->
-  			items.push el
+twitterCB = (twitters) ->
+  console.log "entered CB"
+  statusHTML = []
+  i = 0
 
-	items
+  while i < twitters.length
+    username = twitters[i].user.screen_name
+    status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, (url) ->
+      "<a target=\"_blank\" href=\"" + url + "\">" + url + "</a>"
+    ).replace(/\B@([_a-z0-9]+)/g, (reply) ->
+      reply.charAt(0) + "<a target=\"_blank\" href=\"http://twitter.com/" + reply.substring(1) + "\">" + reply.substring(1) + "</a>"
+    )
+    statusHTML.push "<div><span>" + status + "\"</span> - <a target=\"_blank\" href=\"http://twitter.com/" + username + "/statuses/" + twitters[i].id_str + "\">" + username + "</a></div>"
+    i++
+  $("#twitter").html statusHTML.join("")
 
 
 
@@ -29,8 +32,11 @@ $ ->
 				return
 
   $('#testimonial').orbit
-    fluid: '16x6'
+    fluid: '16x9'
 
-	loadTweets('avvocatwit', 5)
+  $('#twitter').orbit
+    fluid: '12x1'
+    pauseOnHover: true
+    advanceSpeed: 6000
 
 	return

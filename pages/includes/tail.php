@@ -43,6 +43,8 @@
   <script src="<?php echo $basedir;?>javascripts/jquery.grid-a-licious.min.js"></script>
   <script src="<?php echo $basedir;?>javascripts/jquery.maximage.js"></script>
   <script src="<?php echo $basedir;?>javascripts/foundation/app.js"></script>
+
   <script src="<?php echo $basedir;?>javascripts/script.js"></script>
+  <script src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=avvocatwit&include_rts=true&count=4&callback=twitterCB" type="text/javascript"></script> 
 </body>
 </html>
