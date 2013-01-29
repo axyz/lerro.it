@@ -5,7 +5,6 @@ slogans = [["DA UN'IDEA A UN'IMPRESA", "slogan-idea-impresa.php"], ["RIPOSIZIONA
 
 twitterCB = function(twitters) {
   var i, status, statusHTML, username;
-  console.log("entered CB");
   statusHTML = [];
   i = 0;
   while (i < twitters.length) {

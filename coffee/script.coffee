@@ -7,7 +7,6 @@ slogans = [
   ["LOBBYING", "slogan-lobbying.php"]]
 
 twitterCB = (twitters) ->
-  console.log "entered CB"
   statusHTML = []
   i = 0
 

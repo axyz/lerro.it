@@ -65,7 +65,8 @@
 .box-title h5 a {
   color: #fafafa;
 }
-#testimonial blockquote p {
+#testimonial blockquote p,
+#testimonial blockquote i {
   font-family: 'Arial';
   font-size: 12px;
   line-height: 1.5em;
@@ -78,7 +79,7 @@
   font-size: 72px;
   height: 40px;
   margin-right: 10px;
-  margin-top: -33px;
+  margin-top: -29px;
 }
 #testimonial blockquote:after {
   content: "";
