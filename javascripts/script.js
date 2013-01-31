@@ -37,5 +37,9 @@ $(function() {
     advanceSpeed: 6000,
     timer: false,
     directionalNav: false
+  }), $("#map-link").toggle((function() {
+    return $("#map").show();
+  }), function() {
+    return $("#map").hide();
   }));
 });

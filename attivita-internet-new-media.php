@@ -39,22 +39,42 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/attivita-internet-new-media.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-        <li> <a href="attivita-energia.php">Energia</a></li>
-        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Internet e new media<small>&nbsp;</small></h3>
     </div>
-    <div class="panel contact-box hide-for-small">
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">	
+        <ul class="side-nav">
+          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
+          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>Nel periodo dell’esplosione della new economy abbiamo avuto la fortuna di poter assistere diverse società che hanno approcciato internet come loro unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste società non solo operavano unicamente via internet, ma avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
+        <p>L’esperienza in materia di brevetti e copyright ci ha consentito di affrontare con le giuste competenze questo nuovo mondo e la componente societaria/finanziaria è stata il complemento ideale agli strumenti del mestiere necessari per assistere le aziende del settore, dal momento che quasi tutti i progetti vengono affrontati con supporto di venture capital.</p>
+        <p>Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business. </p>
+        <p>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. </p>
+        <p>L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
@@ -72,16 +92,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Internet e new media<small>&nbsp;</small></h3>
-      <p>Nel periodo dell’esplosione della new economy abbiamo avuto la fortuna di poter assistere diverse società che hanno approcciato internet come loro unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste società non solo operavano unicamente via internet, ma avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
-      <p>L’esperienza in materia di brevetti e copyright ci ha consentito di affrontare con le giuste competenze questo nuovo mondo e la componente societaria/finanziaria è stata il complemento ideale agli strumenti del mestiere necessari per assistere le aziende del settore, dal momento che quasi tutti i progetti vengono affrontati con supporto di venture capital.</p>
-      <p>Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business. </p>
-      <p>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. </p>
-      <p>L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.</p>
     </div>
   </div>
 </div><br><br><br>

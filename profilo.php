@@ -39,10 +39,16 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Profilo<small>&nbsp;</small></h3>
+    </div>
+  </div>
+</div>
 <div id="content" class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns contact-box">
-      <h3>Profilo<small>&nbsp;</small></h3>
+    <div class="twelve columns panel box-fluid">
       <p>LERRO & PARTNERS è uno Studio Legale che ha sede a Roma, si fonda sulla ventennale esperienza del Senior Partner ed intrattiene stabili relazioni con validi professionisti in Italia e in Europa. </p>
       <p>L&amp;P è il risultato di un’attenta e ponderata selezione di professionisti che operano con competenza ed entusiasmo, dimostrando una autentica capacità di relazionarsi.</p>
       <p>Lo Studio riserva grande attenzione a tutti i settori innovativi ed alle problematiche societarie e commerciali, con una forte preparazione ed esperienza di tipo internazionale.</p>
@@ -52,27 +58,25 @@
       <p>L'italiano e l'inglese sono le lingue di lavoro correnti dello Studio.</p>
     </div>
   </div>
-  <div class="row">
-    <div class="eleven columns centered">
-      <div class="twelve columns">
-        <div class="panel contact-box hide-for-small">
-          <div id="testimonial">
-            <div>
-              <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
-            </div>
-            <div>
-              <blockquote><i>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un ierfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</i></blockquote>
-            </div>
-            <div>
-              <blockquote><i>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</i></blockquote>
-            </div>
-            <div>
-              <blockquote><i>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</i></blockquote>
-            </div>
-            <div>
-              <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
-            </div>
-          </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
+      <div id="testimonial">
+        <div>
+          <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un ierfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
     </div>

@@ -53,7 +53,7 @@
         <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
       </ul>
     </div>
-    <div class="panel contact-box hide-for-small">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>

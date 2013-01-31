@@ -38,23 +38,40 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/lp-bg2.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-        <li> <a href="attivita-energia.php">Energia</a></li>
-        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-      </ul>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Attivit&agrave;<small>&nbsp;</small></h3>
     </div>
-    <div class="panel contact-box hide-for-small">
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">	
+        <ul class="side-nav">
+          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
+          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.</p>
+        <p>La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
@@ -72,13 +89,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Attivit&agrave;<small>&nbsp;</small></h3>
-      <p>Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.</p>
-      <p>La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.</p>
     </div>
   </div>
 </div><br><br><br>

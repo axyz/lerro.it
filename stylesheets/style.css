@@ -48,7 +48,14 @@
   -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
   box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
 }
-.box-title {
+.box-fluid {
+  -webkit-border-radius: 0px 0px 10px 10px;
+  border-radius: 0px 0px 10px 10px;
+  -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+}
+.box-title,
+.box-title-fluid {
   margin: 0px;
   -webkit-border-radius: 10px 10px 0px 0px;
   border-radius: 10px 10px 0px 0px;
@@ -59,10 +66,15 @@
   border: solid rgba(2,2,2,0);
   padding: 7px;
 }
-.box-title h5 {
+.box-title h5,
+.box-title-fluid h5 {
   color: #fafafa;
 }
-.box-title h5 a {
+.box-title h5 a,
+.box-title-fluid h5 a {
+  color: #fafafa;
+}
+.box-title-fluid h3 {
   color: #fafafa;
 }
 ul.side-nav li {

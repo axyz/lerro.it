@@ -4,7 +4,7 @@ mixin meta-tags("titolo")
 include includes/nav.php
 
 #maximage
-	img(src="images/bg/lp-bg2.jpg")
+	img(src="images/bg/lp-bg.jpg")
 
 br
 br
@@ -12,17 +12,23 @@ br
 br
 br
 
-#content.row
-	.four.columns
-		.panel.contact-box
-			include includes/attivita-nav
-		include includes/testimonial
-	.eight.columns
-		.panel.contact-box
+.row
+	.eleven.columns.centered
+		.twelve.columns.panel.box-title-fluid
 			h3 Attivit&agrave;
 				small &nbsp;
-			p Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.
-			p La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.
+
+#content.row
+	.eleven.columns.centered
+		.twelve.columns.panel.box-fluid
+			include includes/attivita-nav
+			.eight.columns
+				p Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.
+				p La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.
+
+.row
+	.eleven.columns.centered
+		include includes/testimonial
 
 	
 

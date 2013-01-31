@@ -39,22 +39,39 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/attivita-internet-new-media.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-        <li> <a href="attivita-energia.php">Energia</a></li>
-        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Energia<small>&nbsp;</small></h3>
     </div>
-    <div class="panel contact-box hide-for-small">
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">	
+        <ul class="side-nav">
+          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
+          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di posizionamento importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.</p>
+        <p>L&P ha esplorato le nuove prospettive offerte da questo importante mercato, con attenzione ai profili regolatori e a quelli gestionali, predisponendo analisi e studi ed offrendo il proprio supporto consulenziale alle aziende del settore.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
@@ -72,13 +89,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Energia<small>&nbsp;</small></h3>
-      <p>L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di posizionamento importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.</p>
-      <p>L&P ha esplorato le nuove prospettive offerte da questo importante mercato, con attenzione ai profili regolatori e a quelli gestionali, predisponendo analisi e studi ed offrendo il proprio supporto consulenziale alle aziende del settore.</p>
     </div>
   </div>
 </div><br><br><br>

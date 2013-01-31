@@ -39,22 +39,40 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/attivita-proprieta-immobiliare.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-        <li> <a href="attivita-energia.php">Energia</a></li>
-        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
     </div>
-    <div class="panel contact-box hide-for-small">
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">	
+        <ul class="side-nav">
+          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
+          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali.</p>
+        <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
+        <p>Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali e di due diligence.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
@@ -72,14 +90,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
-      <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali.</p>
-      <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
-      <p>Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali e di due diligence.</p>
     </div>
   </div>
 </div><br><br><br>

@@ -39,22 +39,40 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/attivita-gestioni-patrimoniali-trust-successioni.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-        <li> <a href="attivita-energia.php">Energia</a></li>
-        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Gestioni patrimoniali, Trust, Successioni<small>&nbsp;</small></h3>
     </div>
-    <div class="panel contact-box hide-for-small">
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">	
+        <ul class="side-nav">
+          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
+          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
+        <p>L&P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.</p>
+        <p>Inoltre, L&P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
@@ -72,14 +90,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Gestioni patrimoniali, Trust, Successioni<small>&nbsp;</small></h3>
-      <p>L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
-      <p>L&P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.</p>
-      <p>Inoltre, L&P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.</p>
     </div>
   </div>
 </div><br><br><br>

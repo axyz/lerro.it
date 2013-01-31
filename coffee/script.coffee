@@ -42,4 +42,9 @@ $ ->
     timer: false
     directionalNav: false
 
+  $("#map-link").toggle (->
+    $("#map").show()
+  ), ->
+    $("#map").hide()
+
 	return

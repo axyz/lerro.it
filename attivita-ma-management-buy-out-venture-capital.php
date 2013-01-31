@@ -39,22 +39,41 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/attivita-ma-management-buy-out-venture-capital.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-        <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-        <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-        <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-        <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-        <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-        <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-        <li> <a href="attivita-energia.php">Energia</a></li>
-        <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>M&amp;A, Venture Capital, Management Buy Out <small>&nbsp;</small></h3>
     </div>
-    <div class="panel contact-box hide-for-small">
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">	
+        <ul class="side-nav">
+          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
+          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
+          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
+          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
+          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
+          <li> <a href="attivita-energia.php">Energia</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria. </p>
+        <p>L&amp;P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
+        <p>Lo Studio assiste inoltre i propri Clienti, tra i quali alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri.</p>
+        <p>L&amp;P ha costituito o ristrutturato reti distributive e di franchising, in alcuni casi con interlocutori europei e statunitensi.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
@@ -72,15 +91,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>M&amp;A, Venture Capital, Management Buy Out <small>&nbsp;</small></h3>
-      <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria. </p>
-      <p>L&amp;P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
-      <p>Lo Studio assiste inoltre i propri Clienti, tra i quali alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri.</p>
-      <p>L&amp;P ha costituito o ristrutturato reti distributive e di franchising, in alcuni casi con interlocutori europei e statunitensi.</p>
     </div>
   </div>
 </div><br><br><br>

@@ -43,6 +43,7 @@
   <div class="four columns">
     <div class="panel contact-box">
       <h3>Contatti</h3>
+      <h5 id="map-link">map</h5>
       <p>Lerro&Partners</p>
       <p> <b>Sede Legale: </b>Roma, via G. Severano 5, 00161</p>
       <p> <b>Sede Operativa: </b>Roma, via Famiano Nardini 1/C, 00161</p>
@@ -72,7 +73,7 @@
       </table>
     </div>
   </div>
-  <div class="eight columns hide">
+  <div id="map" class="eight columns hide">
     <div class="panel contact-box">
       <h3>Dove Siamo</h3><iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
     </div>
