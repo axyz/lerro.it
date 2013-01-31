@@ -42,17 +42,15 @@
   font-size: 1.618em;
   text-shadow: 3px 3px 4px rgba(20,20,20,0.8);
 }
-.box {
+.box,
+.box-fluid {
   -webkit-border-radius: 0px 0px 10px 10px;
   border-radius: 0px 0px 10px 10px;
   -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
   box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
 }
 .box-fluid {
-  -webkit-border-radius: 0px 0px 10px 10px;
-  border-radius: 0px 0px 10px 10px;
-  -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
-  box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  text-align: justify;
 }
 .box-title,
 .box-title-fluid {
