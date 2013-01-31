@@ -19,8 +19,8 @@
 	<script src="<?php echo $basedir;?>javascripts/foundation/modernizr.foundation.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
 <title>titolo</title><nav class="top-bar fixed">
     <ul>
@@ -139,7 +139,7 @@
 <div id="credits" class="reveal-modal large">
   <h3>Credits</h3>
   <p class="lead">Web Design &amp; Web Engineering &amp; Photography</p>
-  <p><a href="http://eikona.eu">Eikona Studio</a></p>
+  <p><a href="http://eikona.eu"><img src="images/eikona.png" /></a></p>
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
 	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.js"></script>

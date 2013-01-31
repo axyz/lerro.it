@@ -31,11 +31,15 @@ $ ->
 				return
 
   $('#testimonial').orbit
-    fluid: '16x9'
+    fluid: '16x2'
+    timer: false
+    directionalNav: false
 
   $('#twitter').orbit
     fluid: '12x1'
     pauseOnHover: true
     advanceSpeed: 6000
+    timer: false
+    directionalNav: false
 
 	return

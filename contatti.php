@@ -19,8 +19,8 @@
 	<script src="<?php echo $basedir;?>javascripts/foundation/modernizr.foundation.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
 <title>titolo</title><nav class="top-bar fixed">
     <ul>
@@ -40,7 +40,7 @@
   </nav>
 <div id="maximage"><img src="images/bg/contacts.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="five columns">
+  <div class="four columns">
     <div class="panel contact-box">
       <h3>Contatti</h3>
       <p>Lerro&Partners</p>
@@ -72,7 +72,7 @@
       </table>
     </div>
   </div>
-  <div class="seven columns">
+  <div class="eight columns hide">
     <div class="panel contact-box">
       <h3>Dove Siamo</h3><iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
     </div>
@@ -135,7 +135,7 @@
 <div id="credits" class="reveal-modal large">
   <h3>Credits</h3>
   <p class="lead">Web Design &amp; Web Engineering &amp; Photography</p>
-  <p><a href="http://eikona.eu">Eikona Studio</a></p>
+  <p><a href="http://eikona.eu"><img src="images/eikona.png" /></a></p>
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
 	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.js"></script>

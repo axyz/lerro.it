@@ -19,8 +19,8 @@
 	<script src="<?php echo $basedir;?>javascripts/foundation/modernizr.foundation.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
 <title>titolo</title><nav class="top-bar fixed">
     <ul>
@@ -79,19 +79,6 @@
       <h3>Attivit&agrave;<small>&nbsp;</small></h3>
       <p>Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.</p>
       <p>La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.</p>
-      <div style="padding-left:4em;">
-        <ul>
-          <li> <a href="attivita-commerciale-societario.php">Commerciale e Societario</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, Venture Capital e Management Buy Out</a></li>
-          <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">Proprietà intellettuale e Concorrenza</a></li>
-          <li> <a href="attivita-internet-new-media.php">Internet e new media</a></li>
-          <li> <a href="attivita-proprieta-immobiliare.php">Proprietà immobiliare</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">Gestioni patrimoniali, Trust, Successioni</a></li>
-          <li> <a href="attivita-contenzioso-arbitrato.php">Contenzioso e Arbitrato</a></li>
-          <li> <a href="attivita-energia.php">Energia</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">Amministrazione di sostegno, tutela e protezione degli incapaci</a></li>
-        </ul>
-      </div>
     </div>
   </div>
 </div><br><br><br>
@@ -152,7 +139,7 @@
 <div id="credits" class="reveal-modal large">
   <h3>Credits</h3>
   <p class="lead">Web Design &amp; Web Engineering &amp; Photography</p>
-  <p><a href="http://eikona.eu">Eikona Studio</a></p>
+  <p><a href="http://eikona.eu"><img src="images/eikona.png" /></a></p>
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
 	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.js"></script>

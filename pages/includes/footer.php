@@ -56,6 +56,6 @@
 <div id="credits" class="reveal-modal large">
   <h3>Credits</h3>
   <p class="lead">Web Design &amp; Web Engineering &amp; Photography</p>
-  <p><a href="http://eikona.eu">Eikona Studio</a></p>
+  <p><a href="http://eikona.eu"><img src="images/eikona.png" /></a></p>
   <a class="close-reveal-modal">&#215;</a>
 </div>

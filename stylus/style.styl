@@ -58,29 +58,34 @@
 		a
 			color palette-white
 
+ul.side-nav
+	li
+		border-bottom 2px solid #CCCCCC
+
 #testimonial
 	blockquote
+		line-height 1.2em
 		p, i
 			font-family 'Arial'
 			font-size 12px
-			line-height 1.5em
 		&:before
-			color #DDDDDD
+			color #ccc
 			content "“"
 			float left
-			font-family 'Rokkitt'
+			font-family 'Cardo'
 			font-size 72px
-			height 40px
+			height 0
 			margin-right 10px
-			margin-top -29px
+			margin-top 13px
 		&:after
 			content ""
 
 .contact-box
-	background-color rgba(240,240,240,0.85)
+	background-color rgba(240,240,240,0.9)
 	border-radius 10px 10px 10px 10px
 	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
-	border-left solid 1em rgba(147,30,7,0.8)
+	border-top solid 3px rgba(147,30,7,0.8)
+	margin-bottom 2em
 
 #footer
 	background-color footer-bg-color

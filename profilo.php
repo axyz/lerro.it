@@ -19,8 +19,8 @@
 	<script src="<?php echo $basedir;?>javascripts/foundation/modernizr.foundation.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Rokkitt' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
 <title>titolo</title><nav class="top-bar fixed">
     <ul>
@@ -40,29 +40,8 @@
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box hide-for-small">
-      <div id="testimonial">
-        <div>
-          <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
-        </div>
-        <div>
-          <blockquote><i>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un ierfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</i></blockquote>
-        </div>
-        <div>
-          <blockquote><i>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</i></blockquote>
-        </div>
-        <div>
-          <blockquote><i>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</i></blockquote>
-        </div>
-        <div>
-          <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
+  <div class="eleven columns centered">
+    <div class="twelve columns contact-box">
       <h3>Profilo<small>&nbsp;</small></h3>
       <p>LERRO & PARTNERS è uno Studio Legale che ha sede a Roma, si fonda sulla ventennale esperienza del Senior Partner ed intrattiene stabili relazioni con validi professionisti in Italia e in Europa. </p>
       <p>L&amp;P è il risultato di un’attenta e ponderata selezione di professionisti che operano con competenza ed entusiasmo, dimostrando una autentica capacità di relazionarsi.</p>
@@ -71,6 +50,31 @@
       <p>Lo spirito di lavoro è improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente. </p>
       <p>Oltre ad una consistente attività stragiudiziale e negoziale, lo Studio patrocina il contenzioso in sede ordinaria, arbitrale e davanti alle Magistrature Superiori e alla Corte di Giustizia dell’Unione Europea.</p>
       <p>L'italiano e l'inglese sono le lingue di lavoro correnti dello Studio.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="eleven columns centered">
+      <div class="twelve columns">
+        <div class="panel contact-box hide-for-small">
+          <div id="testimonial">
+            <div>
+              <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
+            </div>
+            <div>
+              <blockquote><i>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un ierfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</i></blockquote>
+            </div>
+            <div>
+              <blockquote><i>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</i></blockquote>
+            </div>
+            <div>
+              <blockquote><i>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</i></blockquote>
+            </div>
+            <div>
+              <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div><br><br><br>
@@ -131,7 +135,7 @@
 <div id="credits" class="reveal-modal large">
   <h3>Credits</h3>
   <p class="lead">Web Design &amp; Web Engineering &amp; Photography</p>
-  <p><a href="http://eikona.eu">Eikona Studio</a></p>
+  <p><a href="http://eikona.eu"><img src="images/eikona.png" /></a></p>
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
 	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.js"></script>
