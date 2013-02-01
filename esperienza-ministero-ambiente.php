@@ -39,20 +39,37 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-        <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-        <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-        <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-        <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-        <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
-        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Ministero dell’ambiente<small>&nbsp;</small></h3>
     </div>
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
+        <ul class="side-nav">
+          <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+          <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+          <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+          <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+          <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+          <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>Per circa dieci anni, fino al limite massimo di legge, l’avv. Lerro è stato consulente esterno del Ministero dell’ambiente con la qualifica di “esperto giuridico” e componente della Segreteria Tecnica. In tale veste si è occupato di aree naturali protette, acque e difesa del suolo.</p>
+        <p>L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
     <div class="panel contact-box">
       <div id="testimonial">
         <div>
@@ -71,13 +88,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Ministero dell’ambiente<small>&nbsp;</small></h3>
-      <p>Per circa dieci anni, fino al limite massimo di legge, l’avv. Lerro è stato consulente esterno del Ministero dell’ambiente con la qualifica di “esperto giuridico” e componente della Segreteria Tecnica. In tale veste si è occupato di aree naturali protette, acque e difesa del suolo.</p>
-      <p>L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.</p>
     </div>
   </div>
 </div><br><br><br>

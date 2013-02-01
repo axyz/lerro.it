@@ -39,20 +39,39 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-        <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-        <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-        <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-        <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-        <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
-        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Azioni contro il Gruppo EFIM<small>&nbsp;</small></h3>
     </div>
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
+        <ul class="side-nav">
+          <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+          <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+          <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+          <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+          <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+          <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate (Agusta, Aviofer Breda, Alumix, ecc.).</p>
+        <p>La pretesa risarcitoria esposta in citazione contro circa 50 dirigenti raggiungeva l’incredibile somma di 30.000 miliardi di lire.</p>
+        <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, dalla ricostruzione dei processi decisionali dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
+        <p>Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
     <div class="panel contact-box">
       <div id="testimonial">
         <div>
@@ -71,15 +90,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Azioni contro il Gruppo EFIM<small>&nbsp;</small></h3>
-      <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate (Agusta, Aviofer Breda, Alumix, ecc.).</p>
-      <p>La pretesa risarcitoria esposta in citazione contro circa 50 dirigenti raggiungeva l’incredibile somma di 30.000 miliardi di lire.</p>
-      <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, dalla ricostruzione dei processi decisionali dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
-      <p>Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.</p>
     </div>
   </div>
 </div><br><br><br>

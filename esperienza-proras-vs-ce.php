@@ -39,20 +39,38 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-        <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-        <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-        <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-        <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-        <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
-        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Proras vs. CE<small>&nbsp;</small></h3>
     </div>
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
+        <ul class="side-nav">
+          <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+          <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+          <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+          <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+          <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+          <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
+        <p>In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.</p>
+        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziaizione, abbiamo promosso un’azione civile (T-197/03) innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. All’esito di un complesso giudizio abbiamo ottenuto non solo la piena riabilitazione del Cliente, ma anche la prima condanna giudiziaria della Commissione Europea a pagare un risarcimento, peraltro piuttosto rilevante, in favore di una società privata.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
     <div class="panel contact-box">
       <div id="testimonial">
         <div>
@@ -71,14 +89,6 @@
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
       </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Proras vs. CE<small>&nbsp;</small></h3>
-      <p>Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
-      <p>In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.</p>
-      <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziaizione, abbiamo promosso un’azione civile (T-197/03) innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. All’esito di un complesso giudizio abbiamo ottenuto non solo la piena riabilitazione del Cliente, ma anche la prima condanna giudiziaria della Commissione Europea a pagare un risarcimento, peraltro piuttosto rilevante, in favore di una società privata.</p>
     </div>
   </div>
 </div><br><br><br>

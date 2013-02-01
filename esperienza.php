@@ -39,20 +39,38 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="four columns">
-    <div class="panel contact-box">
-      <ul class="side-nav">
-        <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-        <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-        <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-        <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-        <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-        <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-        <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
-        <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
-      </ul>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Storie<small>&nbsp;</small></h3>
     </div>
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
+        <ul class="side-nav">
+          <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
+          <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
+          <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
+          <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
+          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
+          <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
+          <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
+        </ul>
+      </div>
+      <div class="eight columns">
+        <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione e di alcune specifiche tematiche affrontate. Il curriculum professionale dei Partner è disponibile su richiesta, ma queste storie raccontano in concreto e meglio di ogni sintesi quale tipo di vicende siano state affrontate dallo Studio. Le storie possono essere selezionate sul menù a lato. </p>
+        <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende relative a privati e comunque che non siano divenute pubbliche.</p>
+        <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
     <div class="panel contact-box">
       <div id="testimonial">
         <div>
@@ -70,26 +88,6 @@
         <div>
           <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
         </div>
-      </div>
-    </div>
-  </div>
-  <div class="eight columns">
-    <div class="panel contact-box">
-      <h3>Storie<small>&nbsp;</small></h3>
-      <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione e di alcune specifiche tematiche affrontate. Il curriculum professionale dei Partner è disponibile su richiesta, ma queste storie raccontano in concreto e meglio di ogni sintesi quale tipo di vicende siano state affrontate dallo Studio. Le storie possono essere selezionate sul menù a lato. </p>
-      <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende relative a privati e comunque che non siano divenute pubbliche.</p>
-      <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
-      <div style="padding-left:4em;">
-        <ul>
-          <li> <a href="esperienza-venture-consulting.php">Venture Consulting</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">Proras vs. CE</a></li>
-          <li> <a href="esperienza-ciappetta.php">Ciappetta</a></li>
-          <li> <a href="esperienza-perry-ellis.php">Perry Ellis</a></li>
-          <li> <a href="esperienza-ok-salute.php">OK Salute</a></li>
-          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">Azioni contro il Gruppo EFIM</a></li>
-          <li> <a href="esperienza-biopolis.php">Biopolis</a></li>
-          <li> <a href="esperienza-ministero-ambiente.php">Ministero dell’ambiente</a></li>
-        </ul>
       </div>
     </div>
   </div>
