@@ -38,46 +38,31 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/contacts.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/contacts.jpg"/></div>
+<div style="margin-top:23%;" class="row">
+  <div class="four columns">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>Contatti</h3>
+    </div>
+  </div>
+</div>
 <div id="content" class="row">
   <div class="four columns">
-    <div class="panel contact-box">
-      <h3>Contatti</h3>
-      <h5 id="map-link">map</h5>
-      <p>Lerro&Partners</p>
-      <p> <b>Sede Legale: </b>Roma, via G. Severano 5, 00161</p>
-      <p> <b>Sede Operativa: </b>Roma, via Famiano Nardini 1/C, 00161</p>
-      <p> <b>Tel. </b>+39.06.833.69.086 &nbsp; <b>Fax </b>+39.06.833.69.087</p>
-      <table>
-        <thead>
-          <th>Twitter</th>
-          <th>Siamo Anche Su</th>
-        </thead>
-        <tbody>
-          <tr>
-            <td> <a href="https://twitter.com/avvocatwit" target="_blank">@avvocatwit</a></td>
-            <td>Skype</td>
-          </tr>
-          <tr>
-            <td> <a href="https://twitter.com/lerroepartners" target="_blank">@lerroepartners</a></td>
-            <td>Whatsapp</td>
-          </tr>
-          <tr>
-            <td> <a href="https://twitter.com/alessandrolerro" target="_blank">@alessandrolerro</a></td>
-            <td>Viber</td>
-          </tr>
-          <tr>
-            <td> <a href="https://twitter.com/liaruozi" target="_blank">@liaruozi</a></td>
-          </tr>
-        </tbody>
-      </table>
+    <div class="twelve columns panel box-fluid">
+      <h5><b>Lerro&Partners</b></h5>
+      <p> <b>Sede Legale:</b><br/>Roma, via G. Severano 5, 00161<br/><b>Sede Operativa:</b><br/>Roma, via Famiano Nardini 1/C, 00161<br/><a id="map-link" href="#"><img src="images/google-maps-icon.png" width="25"/></a><br/><b>Tel. </b>+39.06.833.69.086<br/><b>Fax </b>+39.06.833.69.087</p>
+      <p><a href="#" data-reveal-id="twitter-list"> 
+          <h3><i class="icon-twitter"></i></h3></a></p>
     </div>
   </div>
-  <div id="map" class="eight columns hide">
+  <div id="map" style="margin-top:-20%;" class="seven columns hide">
     <div class="panel contact-box">
-      <h3>Dove Siamo</h3><iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
+      <h5>via Famiano Nardini 1/C, 00161, Roma</h5><iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.042597,0.055189&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.042597,0.055189&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>	
     </div>
   </div>
+</div>
+<div id="twitter-list" class="reveal-modal small">
+  <h3>Seguici su Twitter</h3><a href="https://twitter.com/avvocatwit" target="_blank">@avvocatwit</a><br/><br/><a href="https://twitter.com/lerroepartners" target="_blank">@lerroepartners</a><br/><br/><a href="https://twitter.com/alessandrolerro" target="_blank">@alessandrolerro</a><br/><br/><a href="https://twitter.com/liaruozi" target="_blank">@liaruozi</a><a class="close-reveal-modal">&#215;</a>
 </div><br><br><br>
 <footer class="row" id="footer">
 

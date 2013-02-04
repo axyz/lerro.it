@@ -39,10 +39,16 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
-<div id="content" class="row">
-  <div class="ten columns offset-by-one">
-    <div class="panel contact-box">
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
       <h3>Costi<small>&nbsp;</small></h3>
+    </div>
+  </div>
+</div>
+<div id="content" class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-fluid">
       <p>I nostri servizi professionali sono sempre concordati in un Contratto (scaricabile) e i compensi sono pattuiti prima dell’inizio del lavoro, sulla base di un preventivo scritto, che forma parte integrante del Contratto. Ciò avviene anche per servizi professionali di modesta entità.</p>
       <p>Talora per redigere un preventivo è necessaria un’analisi preliminare del caso che, salvo diversi accordi, non viene addebitata al cliente.</p>
       <p>In considerazione dell’abolizione delle tariffe professionali obbligatorie (art. 9 del decreto legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27) i compensi sono concordati con il cliente secondo una delle seguenti formule:</p>
@@ -56,6 +62,29 @@
         </ul>
       </div>
       <p>La nostra attività professionale è coperta da polizza assicurativa emessa da AIG Europe per la responsabilità professionale con un massimale di euro 2.600.000,00. Eventuali operazioni soggette a limiti di possibile responsabilità superiori possono essere oggetto di specifica estensione.</p>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="panel contact-box">
+      <div id="testimonial">
+        <div>
+          <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>Nonostante fosse giovanissimo, mi dette, immediata, la sensazione di sicurezza, determinazione e chiara visione  di come affrontare la situazione in un ierfetto equilibrio fra “fatto” e “diritto”: tutte caratteristiche che, normalmente, quando ci sono (non tanto spesso) sono il frutto di una lunga esperienza sul campo.</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>La collaborazione professionale è continuata negli anni e si è trasformata in una splendida amicizia che rimane, solida, a tutt’oggi quando sono passati,  da quel primo incontro, diciotto anni!</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>Che ricchezza, in un mondo ed in una società in cui questa “storia” è una perla rara da conservare e difendere come un tesoro."</i></blockquote>
+        </div>
+        <div>
+          <blockquote><i>Gabriele Brustenghi - Fondatore del Festival del Fitness</i></blockquote>
+        </div>
+      </div>
     </div>
   </div>
 </div><br><br><br>

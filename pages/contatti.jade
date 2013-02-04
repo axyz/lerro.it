@@ -6,55 +6,57 @@ include includes/nav.php
 #maximage
 	img(src="images/bg/contacts.jpg")
 
-br
-br
-br
-br
-br
+
+.row(style="margin-top:23%;")
+	.four.columns
+		.twelve.columns.panel.box-title-fluid
+			h3 Contatti
 
 #content.row
 	.four.columns
-		.panel.contact-box
-			h3 Contatti
-			h5#map-link map
-			p Lerro&Partners
+		.twelve.columns.panel.box-fluid
+			h5
+				b Lerro&Partners
 			p 
-				b Sede Legale: 
+				b Sede Legale:
+				br
 				| Roma, via G. Severano 5, 00161
-			p 
-				b Sede Operativa: 
+				br
+				b Sede Operativa:
+				br
 				| Roma, via Famiano Nardini 1/C, 00161
-			p 
+				br
+				a#map-link(href="#")
+					img(src="images/google-maps-icon.png", width="25")
+				br
 				b Tel. 
-				| +39.06.833.69.086 &nbsp; 
+				| +39.06.833.69.086
+				br
 				b Fax 
 				| +39.06.833.69.087
-			table
-				thead
-					th Twitter
-					th Siamo Anche Su
-				tbody
-					tr
-						td 
-							a(href="https://twitter.com/avvocatwit", target="_blank") @avvocatwit
-						td Skype
-					tr
-						td 
-							a(href="https://twitter.com/lerroepartners", target="_blank") @lerroepartners
-						td Whatsapp
-					tr
-						td 
-							a(href="https://twitter.com/alessandrolerro", target="_blank") @alessandrolerro
-						td Viber
-					tr
-						td 
-							a(href="https://twitter.com/liaruozi", target="_blank") @liaruozi
+			p
+				a(href="#", data-reveal-id="twitter-list") 
+					h3
+						i.icon-twitter
 
-	#map.eight.columns.hide
+	#map.seven.columns.hide(style="margin-top:-20%;")
 		.panel.contact-box
-			h3 Dove Siamo
-			<iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.022351,0.036478&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
-	
+			h5 via Famiano Nardini 1/C, 00161, Roma
+			<iframe width="100%" height="337" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.042597,0.055189&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="https://maps.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=via+Famiano+Nardini+1%2FC,+00161,+roma&amp;aq=&amp;sll=41.901514,12.460774&amp;sspn=0.341391,0.564423&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Via+Nardini+Famiano,+1,+Roma,+Lazio&amp;ll=41.925781,12.520981&amp;spn=0.042597,0.055189&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>	
+
+#twitter-list.reveal-modal.small
+	h3 Seguici su Twitter
+	a(href="https://twitter.com/avvocatwit", target="_blank") @avvocatwit
+	br
+	br
+	a(href="https://twitter.com/lerroepartners", target="_blank") @lerroepartners
+	br
+	br
+	a(href="https://twitter.com/alessandrolerro", target="_blank") @alessandrolerro
+	br
+	br
+	a(href="https://twitter.com/liaruozi", target="_blank") @liaruozi
+	a.close-reveal-modal &#215;
 
 include includes/footer.php
 include includes/tail.php
