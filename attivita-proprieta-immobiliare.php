@@ -72,7 +72,7 @@
 </div>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="panel contact-box">
+    <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial">
         <div>
           <blockquote><i>Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma.</i></blockquote>
