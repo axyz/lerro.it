@@ -6,6 +6,10 @@ slogans = [
   ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"]
   ["LOBBYING", "slogan-lobbying.php"]]
 
+testimonial = [
+  "Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma"
+  "Da molti anni ricorro all’Avvocato Lerro e nel tempo ho osservato che gli interventi richiesti hanno regolarmente portato a risultati molto positivi"]
+
 twitterCB = (twitters) ->
   statusHTML = []
   i = 0
@@ -30,10 +34,7 @@ $ ->
 				$("#slogan h1").html "<a href ='"+ slogans[opts.currSlide][1] + "'>" + slogans[opts.currSlide][0] + "&nbsp;<i class='icon-circle-arrow-right'></i></a>"
 				return
 
-  $('#testimonial').orbit
-    fluid: '16x2'
-    timer: false
-    directionalNav: false
+  $('#testimonial-preview').html testimonial[Math.floor(Math.random()*testimonial.length)]
 
   $('#twitter').orbit
     fluid: '12x1'

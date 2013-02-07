@@ -47,13 +47,14 @@
 
 .box-fluid
 	@extend .box
-	text-align justify
+	p
+		text-align justify
 
 .box-title
 	margin 0px
 	border-radius(box-title-rounded-corner-radius)
 	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
-	background-color rgba(147,30,7,0.8)
+	background-color rgba(147,30,7,0.9)
 	color palette-white
 	border solid transparent
 	padding 7px
@@ -71,12 +72,13 @@ ul.side-nav
 	li
 		border-bottom 2px solid #CCCCCC
 
-#testimonial
+.testimonial
 	blockquote
-		line-height 1.2em
+		line-height 1.5em
 		p, i
 			font-family 'Arial'
-			font-size 12px
+			color #666
+			font-size 16px
 		&:before
 			color #ccc
 			content "“"
@@ -85,7 +87,7 @@ ul.side-nav
 			font-size 72px
 			height 0
 			margin-right 10px
-			margin-top 13px
+			margin-top 14px
 		&:after
 			content ""
 
@@ -93,8 +95,11 @@ ul.side-nav
 	background-color rgba(240,240,240,0.9)
 	border-radius 10px 10px 10px 10px
 	box-shadow(3px 3px 5px 1px rgba(5,5,5,0.4))
-	border-top solid 3px rgba(147,30,7,0.8)
+	border-top solid 6px rgba(147,30,7,0.8)
 	margin-bottom 2em
+
+#map
+	margin-top -9.4%
 
 #footer
 	background-color footer-bg-color
@@ -145,4 +150,13 @@ ul.side-nav
 @media (max-width: 767px)
 	#footer
 		position relative
+
+	#map
+		margin-top 0
+
+	#blog-picture
+		float right
+
+	#blog-text
+		float left
 
