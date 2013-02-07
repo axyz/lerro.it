@@ -77,7 +77,7 @@
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
         <h3>Blog</h3>
-        <p>blablabla</p>
+        <p>Lorem ipsum dolor</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

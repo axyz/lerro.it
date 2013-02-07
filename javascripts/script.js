@@ -30,7 +30,7 @@ $(function() {
       }
     }
   }, $('#testimonial-preview').html(testimonial[Math.floor(Math.random() * testimonial.length)]), $('#twitter').orbit({
-    fluid: '12x1',
+    fluid: '22x3',
     pauseOnHover: false,
     advanceSpeed: 8000,
     timer: true,
