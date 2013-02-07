@@ -55,6 +55,9 @@ body {
 .box-fluid p {
   text-align: justify;
 }
+.box-fluid p:first-child {
+  margin-top: 17px;
+}
 .box-title,
 .box-title-fluid {
   margin: 0px;
@@ -124,6 +127,10 @@ ul.side-nav li {
 }
 #footer a {
   color: #fafafa;
+}
+#footer #twitter {
+  border: 2px ridge #555;
+  background-color: #444;
 }
 .section-banner {
   margin-top: -30px;

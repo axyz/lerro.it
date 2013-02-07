@@ -16,7 +16,7 @@ twitterCB = function(twitters) {
     }).replace(/\B@([_a-z0-9]+)/g, function(reply) {
       return reply.charAt(0) + "<a target=\"_blank\" href=\"http://twitter.com/" + reply.substring(1) + "\">" + reply.substring(1) + "</a>";
     });
-    statusHTML.push("<div><span>" + status + "\"</span> - <a target=\"_blank\" href=\"http://twitter.com/" + username + "/statuses/" + twitters[i].id_str + "\">" + username + "</a></div>");
+    statusHTML.push("<div style='height:50px;'><span>" + status + "\"</span> - <a target=\"_blank\" href=\"http://twitter.com/" + username + "/statuses/" + twitters[i].id_str + "\">" + username + "</a></div>");
     i++;
   }
   return $("#twitter").html(statusHTML.join(""));
@@ -30,7 +30,7 @@ $(function() {
       }
     }
   }, $('#testimonial-preview').html(testimonial[Math.floor(Math.random() * testimonial.length)]), $('#twitter').orbit({
-    fluid: '22x3',
+    fluid: '',
     pauseOnHover: false,
     advanceSpeed: 8000,
     timer: true,
