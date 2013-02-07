@@ -31,11 +31,11 @@ $(function() {
     }
   }, $('#testimonial-preview').html(testimonial[Math.floor(Math.random() * testimonial.length)]), $('#twitter').orbit({
     fluid: '12x1',
-    pauseOnHover: true,
+    pauseOnHover: false,
     advanceSpeed: 6000,
-    timer: false,
+    timer: true,
     directionalNav: false
-  }), $("#map-link").toggle((function() {
+  }), $('body').show(), $("#map-link").toggle((function() {
     return $("#map").show();
   }), function() {
     return $("#map").hide();

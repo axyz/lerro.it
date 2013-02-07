@@ -38,10 +38,12 @@ $ ->
 
   $('#twitter').orbit
     fluid: '12x1'
-    pauseOnHover: true
+    pauseOnHover: false
     advanceSpeed: 6000
-    timer: false
+    timer: true
     directionalNav: false
+
+  $('body').show()
 
   $("#map-link").toggle (->
     $("#map").show()
