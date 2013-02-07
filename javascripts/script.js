@@ -32,7 +32,7 @@ $(function() {
   }, $('#testimonial-preview').html(testimonial[Math.floor(Math.random() * testimonial.length)]), $('#twitter').orbit({
     fluid: '12x1',
     pauseOnHover: false,
-    advanceSpeed: 6000,
+    advanceSpeed: 8000,
     timer: true,
     directionalNav: false
   }), $('body').show(), $("#map-link").toggle((function() {

@@ -39,7 +39,7 @@ $ ->
   $('#twitter').orbit
     fluid: '12x1'
     pauseOnHover: false
-    advanceSpeed: 6000
+    advanceSpeed: 8000
     timer: true
     directionalNav: false
 
