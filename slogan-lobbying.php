@@ -47,12 +47,12 @@
       <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
       <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
       <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">LOBBYING</a></li>
+      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
     </ul>
   </div>
   <div class="nine columns">
     <h3>MONITORAGGIO LEGISLATIVO E LOBBYING<small>&nbsp;</small></h3>
-    <p>Solo da pochi anni si è diffusa anche in Italia in modo strutturato la c.d. attività di intelligence politica, lobbying e public affairs (che per come era gestita, aveva precedentemente una accezione fortemente negativa): le aziende si rivolgono ad un professionista per seguire l’evoluzione di normative che le interessano e, ove possibile ed ammesso dalla legge, per partecipare alle procedure di consultazione degli operatori del settore e quindi al processo normativo in modo democratico.</p>
+    <p>Solo da pochi anni si è diffusa anche in Italia in modo strutturato la c.d. attività di intelligence politica, lobbying e public affairs: le aziende si rivolgono ad un professionista per seguire l’evoluzione di normative che le interessano e, ove possibile ed ammesso dalla legge, per partecipare alle procedure di consultazione degli operatori del settore e quindi al processo normativo in modo democratico.</p>
     <p>L’attività si basa sia sul c.d. monitoraggio legislativo, attraverso processi di documentazione delle attività parlamentari (comunitarie e nazionali) e ministeriali, che su percorsi di sensibilizzazione delle autorità, attraverso la redazione di ricerche, tavole sinottiche, position papers, sintesi, emendamenti, proposte per il legislatore.</p>
     <p>Da non trascurare è poi l’attività sempre più penetrante svolta dalle Authority, a livello di indagini di settore e regolamentazioni specialistiche: si tratta di processi che coinvolgono gli operatori industriali e commerciali, nei quali è sicuramente utile essere rappresentati da giuristi esperti, in grado di dialogare con le amministrazioni coinvolte.</p>
     <p>Inoltre, in settori imprenditoriali esposti a valutazioni pubbliche particolari, è importante concepire la strategia di comunicazione di un’azienda in linea con l’immagine pubblica che essa deve avere per generare consapevolezza sul proprio profilo e per garantirsi un ambiente normativo favorevole. In tale fase il contributo del giurista consente di evitare errori di posizionamento e contraddizioni di comunicazione che potrebbero avere effetti negativi, ed anzi aiuta a sviluppare un concept vincente.</p>

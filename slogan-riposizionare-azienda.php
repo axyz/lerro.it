@@ -47,7 +47,7 @@
       <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
       <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
       <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">LOBBYING</a></li>
+      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
     </ul>
   </div>
   <div class="nine columns">

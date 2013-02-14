@@ -49,19 +49,17 @@
           <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
           <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
           <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-          <li> <a href="slogan-lobbying.php">LOBBYING</a></li>
+          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
       <div class="ten columns">
         <h3>DA UN’IDEA A UN’IMPRESA<small>&nbsp;</small></h3>
         <p>Avere una buona idea imprenditoriale non è facile, farla diventare un’azienda ancora meno.</p>
-        <p>L’idea deve essere sviluppata, testata, confrontata con fornitori, potenziali clienti, esperti del settore. In molti casi l’idea può essere protetta, laddove l’ordinamento giuridico le attribuisca particolari caratteristiche; ad esempio: un’invenzione, un design, un’opera artistica, un marchio, un’idea pubblicitaria. In altri casi l’idea non è autonomamente proteggibile come bene immateriale; quindi deve essere difesa con una serie di cautele giuridiche che vincolino contrattualmente gli interlocutori a non divulgarla o utilizzarla.</p>
+        <L>’idea deve essere sviluppata, testata, confrontata con fornitori, potenziali clienti, esperti del settore. In molti casi l’idea può essere protetta, laddove l’ordinamento giuridico le attribuisca particolari caratteristiche; ad esempio: un’invenzione, un design, un’opera artistica, un marchio, un’idea pubblicitaria. In altri casi l’idea non è autonomamente proteggibile come bene immateriale; quindi deve essere difesa con una serie di cautele giuridiche che vincolino contrattualmente gli interlocutori a non divulgarla o utilizzarla.</L>
         <p>Poi si passa alla fase esecutiva: si costituisce un’impresa, generalmente in forma societaria, e si mettono nero su bianco gli accordi con i soci; è sempre bene chiarire prima quale sarà il futuro della società, onde evitare che una bella iniziativa imprenditoriale provochi la fine di un’amicizia o che il progetto naufraghi a causa di attriti personali dovuti a poca chiarezza iniziale.</p>
-        <p>In questa fase è frequente la ricerca di investitori che contribuiscano con capitale di rischio a fornire i necessari apporti finanziari, e la conclusione con essi di accordi che consentano alla società uno sviluppo sano. Parimenti, è possibile fare ricorso a diverse forme di incentivazione esistenti.</p>
-        <p>Poi si deve strutturare la contrattualistica dell’impresa nei confronti dei propri clienti, verificando i processi aziendali e le criticità, onde perfezionare l’allocazione dei rischi nel rispetto di quanto previsto dalla legge.</p>
-        <p>Sul fronte interno, occorre organizzare le risorse in modo coerente con il business model della società, in modo efficiente ed economico.</p>
-        <p>Quindi si negoziano i contratti con i fornitori: per grandi che siano, generalmente vi sono spazi di trattativa che consentano di adattare alle proprie necessità le condizioni che di norma vengono presentate come standard.</p>
-        <p>Le grandi aziende spesso si avvalgono, per questa fase, di consulenti di strategia e management, esperti di start up, posizionamento competitivo e gestione di processi. Le aziende più piccole cercano invece di fare da sole, anche per ragioni economiche. Non potendo disporre delle risorse per un consulente strategico è comunque importante consultarsi quantomeno con un esperto legale per evitare di commettere errori che possano rallentare o frenare la crescita o lo sviluppo del progetto.</p>
+        <p>In questa fase è frequente la ricerca di investitori che contribuiscano con capitale di rischio a fornire i necessari apporti finanziari, e la conclusione con essi di accordi che consentano alla società uno sviluppo sano. Parimenti, è possibile fare ricorso a diverse forme di incentivazione esistenti. Quindi si deve strutturare la contrattualistica dell’impresa nei confronti dei clienti, verificando i processi aziendali e le criticità, onde procedere all’allocazione dei rischi nel rispetto di quanto previsto dalla legge.</p>
+        <p>Sul fronte interno, occorre organizzare le risorse in modo coerente con il business model della società, in modo efficiente ed economico, e negoziare i rapporti con i fornitori.</p>
+        <p>Le grandi aziende spesso si avvalgono, per questa fase, di consulenti di strategia e management, esperti di start up, posizionamento competitivo e gestione di processi. Non potendo disporre delle risorse per un consulente strategico, per le aziende più piccole è comunque importante consultarsi quantomeno con un esperto legale per evitare di commettere errori che possano rallentare o frenare la crescita o lo sviluppo del progetto.</p>
       </div>
     </div>
   </div>
