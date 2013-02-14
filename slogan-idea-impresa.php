@@ -68,20 +68,13 @@
 </div><br><br><br>
 <footer class="row" id="footer">
 
-      <div class="six columns">
+      <div class="seven columns">
+        <img src="https://twitter.com/images/resources/twitter-bird-light-bgs.png" style="position:absolute;bottom:19px;left:-14px;height:70px"/>
         <div id="twitter">
         </div>
       </div>
 
-      <div class="two columns">
-        <ul id="social" class="link-list">
-            <li><a href="#" target="_blank"><i class="icon-facebook"></i></a></li>
-            <li><a href="#" target="_blank"><i class="icon-twitter"></i></a></li>
-            <li><a href="#" target="_blank"><i class="icon-linkedin"></i></a></li>
-          </ul>
-      </div>
-
-      <div class="four columns">
+      <div class="five columns">
         <ul class="button-group right">
           <li><a href="<?php echo $basedir;?>" class="tiny button" >Home</a></li>
           <li><a href="#" class="tiny button" data-reveal-id="legal">Legal</a></li>
