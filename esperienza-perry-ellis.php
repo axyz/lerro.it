@@ -52,21 +52,20 @@
       <div class="four columns">
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. CE</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
           <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
-          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">AZIONI CONTRO IL GRUPPO EFIM</a></li>
+          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
           <li> <a href="esperienza-biopolis.php">BIOPOLIS</a></li>
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>Abbiamo seguito numerosi casi di intellectual property relativi a marchi e creazioni della moda. Tra questi è stato particolarmente impegnativo il caso di Perry Ellis, un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, poi vanificato a causa di contraffazioni ed importazioni parallele, che ne hanno strozzato la possibilità di una corretta distribuzione commerciale.</p>
+        <p>Tra i molti casi di contraffazione di marchi e creazioni della moda, il caso di Perry Ellis è stato particolarmente impegnativo: si tratta di un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, pesantemente vittima di contraffazioni ed importazioni parallele.</p>
         <p>Siamo stati incaricati di eseguire in tutta Italia azioni cautelari (inibitorie e sequestri) e di seguire con le dogane i procedimenti previsti per arginare queste azioni illecite.</p>
-        <p>Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, affiancando costantemente il cliente per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza.</p>
-        <p>Alle azioni cautelari sono seguite le azioni risarcitorie. </p>
-        <p>Questo caso è emblematico di come sia importante una pianificazione legale già nella fase di concezione strategica di un’iniziativa imprenditoriale. Ove i rapporti tra proprietario del marchio, licenziatario, produttore e distributori avessero seguito una logica predeterminata sarebbe stato ben più difficile per i contraffattori o per concorrenti sleali trovare nel sistema delle piccole falle nelle quali insinuarsi. Invece, in altri casi occorre cercare di riparare i danni e non sempre è possibile salvare il progetto.</p>
+        <p>Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza. Alle azioni cautelari sono seguite le azioni risarcitorie. </p>
+        <p>Questo caso è emblematico di come sia importante una pianificazione legale già nella fase di concezione strategica di un’iniziativa imprenditoriale. Ove i rapporti tra proprietario del marchio, licenziatario, produttore e distributori avessero seguito una logica predeterminata sarebbe stato ben più difficile per i contraffattori o per concorrenti sleali trovare nel sistema delle piccole falle nelle quali insinuarsi. </p>
       </div>
     </div>
   </div>

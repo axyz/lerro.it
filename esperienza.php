@@ -52,18 +52,18 @@
       <div class="four columns">
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. CE</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
           <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
-          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">AZIONI CONTRO IL GRUPPO EFIM</a></li>
+          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
           <li> <a href="esperienza-biopolis.php">BIOPOLIS</a></li>
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
       <div class="eight columns">
         <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione e di alcune specifiche tematiche affrontate. Il curriculum professionale dei Partner è disponibile su richiesta, ma queste storie raccontano in concreto e meglio di ogni sintesi quale tipo di vicende siano state affrontate dallo Studio. Le storie possono essere selezionate sul menù a lato. </p>
-        <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende relative a privati e comunque che non siano divenute pubbliche.</p>
+        <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende ordinarie relative a privati o comunque che non siano divenute pubbliche.</p>
         <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
       </div>
     </div>

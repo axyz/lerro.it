@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Ciappetta vs. Ministero della Giustizia<small>&nbsp;</small></h3>
+      <h3>Agusta s.p.a.: responsabilità degli amministratori<small>&nbsp;</small></h3>
     </div>
   </div>
 </div>
@@ -62,9 +62,9 @@
         </ul>
       </div>
       <div class="eight columns">
-        <p>Fabrizio Ciappetta, deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.</p>
-        <p>Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza la superficialità, i gravi ritardi e la ingiustificabile negligenza di quanti avrebbero dovuto presiedere alla rieducazione del detenuto.</p>
-        <p>Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari (di colpa medica), quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.</p>
+        <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate. Ci siamo occupati di una di queste vicende, che vedevano la gestione liquidatoria dell’EFIM opposta a circa 30 dirigenti ed ex amministratori di Agusta s.p.a. (tra i quali i nostri assistiti) oltre alle società di revisione, con una pretesa risarcitoria di poco inferiore ai 2.000 miliardi di lire (cioè circa un miliardo di euro).</p>
+        <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, proprio dalla ricostruzione dei processi decisionali interni al sistema di holding dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
+        <p>Il contenzioso, innanzi al Tribunale di Busto Arsizio, si è concluso positivamente per i nostri assistiti, con la rinuncia di EFIM ad ogni pretesa risarcitoria.</p>
       </div>
     </div>
   </div>

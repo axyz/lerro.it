@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Proras vs. CE<small>&nbsp;</small></h3>
+      <h3>Proras vs. Unione Europea<small>&nbsp;</small></h3>
     </div>
   </div>
 </div>
@@ -52,11 +52,11 @@
       <div class="four columns">
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. CE</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
           <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
-          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">AZIONI CONTRO IL GRUPPO EFIM</a></li>
+          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
           <li> <a href="esperienza-biopolis.php">BIOPOLIS</a></li>
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
@@ -64,7 +64,7 @@
       <div class="eight columns">
         <p>Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
         <p>In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.</p>
-        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziaizione, abbiamo promosso un’azione civile (T-197/03) innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. All’esito di un complesso giudizio abbiamo ottenuto non solo la piena riabilitazione del Cliente, ma anche la prima condanna giudiziaria della Commissione Europea a pagare un risarcimento, peraltro piuttosto rilevante, in favore di una società privata.</p>
+        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile (T-197/03) innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. All’esito di un complesso giudizio abbiamo ottenuto non solo la piena riabilitazione del Cliente, ma anche la prima condanna giudiziaria della Commissione Europea a pagare un risarcimento, peraltro piuttosto rilevante, in favore di una società privata.</p>
       </div>
     </div>
   </div>

@@ -52,22 +52,21 @@
       <div class="four columns">
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. CE</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
           <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
-          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">AZIONI CONTRO IL GRUPPO EFIM</a></li>
+          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
           <li> <a href="esperienza-biopolis.php">BIOPOLIS</a></li>
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>Venture Consulting è un bellissimo progetto che ci ha impegnato nel ciclo completo di una nuova iniziativa imprenditoriale di successo. Si tratta di una società di management consulting nata da uno spin off di una celebre multinazionale della consulenza strategica, posizionata su mercati a forte discontinuità tecnologica e nel mondo bancario.</p>
+        <p>Venture Consulting è una società di management consulting nata da uno spin off di una celebre multinazionale della consulenza strategica, posizionata su mercati a forte discontinuità tecnologica e nel mondo bancario.</p>
         <p>Il progetto è nato da affermati professionisti della consulenza in collaborazione con due importanti fondi di investimento, 3i Group (uno dei più grandi fondi di investimento del mondo)  e Kiwi II (il fondo gestito dalla Pino Ventures di Elserino Piol) sulla base di un business model che coniugava consulenza strategica e venture capital, investendo parte delle fees nell’iniziativa del cliente.</p>
         <p>Per Venture Consulting abbiamo curato tutto lo start up societario, gli accordi con gli investitori, i patti parasociali. Poi siamo entrati nella gestione ordinaria, fornendo sia assistenza corporate (per il personale, la contrattualistica, le attività societarie, i rapporti  con i fornitori) che supporto consulenziale per i progetti dei clienti, mettendo sostanzialmente a disposizione un versatile desk legale, ben coordinato con i consulenti di VC. Il lavoro in team ci ha poi portato ad estendere il servizio legale a diversi start up creati dall’azienda.</p>
-        <p>In considerazione del particolare business model, siamo stati impegnati nell’organizzazione della gestione delle partecipazioni nelle iniziative dei clienti di VC tramite una apposita holding europea di partecipazione.</p>
-        <p>Abbiamo poi fornito il supporto per l’internazionalizzazione e per l’apertura di strutture satellite in Germania, Spagna ed Inghilterra, estendendo il servizio legale corporate alle nuove realtà.</p>
-        <p>Infine, abbiamo curato il trade sale dell’azienda, ceduta ad un primario Gruppo internazionale nel settore della consulenza strategica e quindi tutta la contrattualistica relativa all’acquisizione per conto dei venditori.</p>
+        <p>Siamo stati impegnati nell’organizzazione della gestione delle partecipazioni nelle iniziative dei clienti di VC tramite una apposita holding europea di partecipazione e abbiamo fornito il supporto per l’internazionalizzazione e per l’apertura di strutture satellite in Germania, Spagna ed Inghilterra, estendendo il servizio legale corporate alle nuove realtà.</p>
+        <p>Infine, abbiamo curato la vendita dell’azienda (che oggi ha cambiato nome) ad un primario Gruppo internazionale e quindi tutta la contrattualistica relativa all’acquisizione per conto dei venditori.</p>
       </div>
     </div>
   </div>

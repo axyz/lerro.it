@@ -52,17 +52,17 @@
       <div class="four columns">
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. CE</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
           <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
-          <li> <a href="esperienza-azioni-contro-gruppo-efim.php">AZIONI CONTRO IL GRUPPO EFIM</a></li>
+          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
           <li> <a href="esperienza-biopolis.php">BIOPOLIS</a></li>
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>In piena esplosione delle web company il progetto OK Salute, che ci ha impegnato per diversi anni, è stato una vera accademia della start up: la società, nata dall’iniziativa di diversi importanti esponenti dell’industria farmaceutica con il supporto del fondo di venture capital Kiwi II (gestito dalla Pino Ventures di Elserino Piol), intendeva fornire servizi web nel settore della salute generando un utile flusso in entrata ed in uscita di informazioni concernenti i propri utenti, proponendosi come centro di diffusione di informazione medica qualificata e segmentata.</p>
+        <p>In piena esplosione delle web company il progetto OK Salute, che ci ha impegnato per diversi anni, è stato una vera accademia della start up: la società, nata dall’iniziativa di diversi importanti esponenti dell’industria farmaceutica con il supporto del fondo di venture capital Kiwi II (gestito dalla Pino Ventures di Elserino Piol), intendeva fornire servizi web nel settore della salute generando un utile flusso in entrata ed in uscita di informazioni concernenti i propri utenti, proponendosi come centro di diffusione di informazione medica qualificata, profilata e segmentata.</p>
         <p>Abbiamo assistito i soci fondatori nella fase costitutiva e nelle operazioni di venture capital (ci sono stati più round di finanziamento per diversi milioni di euro) ed in tutta l’attività corporate. L’azienda ha terziarizzato su di noi tutta l’attività legale, l’organizzazione e la gestione dei rapporti con i fornitori e la contrattualistica, la gestione del personale, il contenzioso.</p>
         <p>La successiva crisi delle aziende internet ne ha quindi sospeso il piano di sviluppo, essendo venuta meno la disponibilità dei necessari ulteriori investimenti. Ci siamo quindi occupati della liquidazione degli asset (tra i quali il marchio, che oggi contraddistingue una nota testata del settore). </p>
       </div>
