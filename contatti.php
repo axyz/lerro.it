@@ -50,9 +50,8 @@
   <div class="four columns">
     <div class="twelve columns panel box-fluid">
       <h5><b>Lerro&Partners</b></h5>
-      <p> <b>Sede Legale:</b><br/>Roma, via G. Severano 5, 00161<br/><b>Sede Operativa:</b><br/>Roma, via Famiano Nardini 1/C, 00161<br/><a id="map-link" href="#"><img src="images/google-maps-icon.png" width="25"/></a><br/><b>Tel. </b>+39.06.833.69.086<br/><b>Fax </b>+39.06.833.69.087</p>
-      <p><a href="#" data-reveal-id="twitter-list"> 
-          <h3><i class="icon-twitter"></i></h3></a></p>
+      <p> <b>Sede Legale:</b><br/>Roma, via G. Severano 5, 00161<br/><b>Sede Operativa:</b><br/>Roma, via Famiano Nardini 1/C, 00161<a id="map-link" href="#"><img src="images/google-maps-icon.png" width="25" style="margin-left:3px;margin-bottom:-6px"/></a><br/><b>Tel. </b>+39.06.833.69.086<br/><b>Fax </b>+39.06.833.69.087<br/><br/><b>e-mail </b><a href="mailto:alessandro@lerro.it">alessandro@lerro.it</a><br/><b>p.e.c. </b><a href="mailto:lerro@pec.it">lerro@pec.it</a></p>
+      <p><a href="#" data-reveal-id="twitter-list"> <img src="images/twitter-icon.png" width="40" style="margin-right:3px;"/></a><a href="#" data-reveal-id="skype-etc"> <img src="images/whatsapp-icon.png" width="40" style="margin-right:3px;"/></a><a href="#" data-reveal-id="skype-etc"> <img src="images/viber-icon.png" width="40" style="margin-right:3px;"/></a><a href="#" data-reveal-id="skype-etc"> <img src="images/skype-icon.png" width="40" style="margin-right:3px;"/></a></p>
     </div>
   </div>
   <div id="map" class="seven columns hide">
@@ -63,6 +62,10 @@
 </div>
 <div id="twitter-list" class="reveal-modal small">
   <h3>Seguici su Twitter</h3><a href="https://twitter.com/avvocatwit" target="_blank">@avvocatwit</a><br/><br/><a href="https://twitter.com/lerroepartners" target="_blank">@lerroepartners</a><br/><br/><a href="https://twitter.com/alessandrolerro" target="_blank">@alessandrolerro</a><br/><br/><a href="https://twitter.com/liaruozi" target="_blank">@liaruozi</a><a class="close-reveal-modal">&#215;</a>
+</div>
+<div id="skype-etc" class="reveal-modal small">
+  <p>Saremo lieti di parlare con Voi a costo zero</p>
+  <p>Richiedeteci il contatto per <a href="mailto:alessandro@lerro.it">e-mail</a></p><a class="close-reveal-modal">&#215;</a>
 </div><br><br><br>
 <footer class="row" id="footer">
 
