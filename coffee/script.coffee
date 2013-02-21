@@ -16,12 +16,13 @@ twitterCB = (twitters) ->
 
   while i < twitters.length
     username = twitters[i].user.screen_name
+    avatar = twitters[i].user.profile_image_url
     status = twitters[i].text.replace(/((https?|s?ftp|ssh)\:\/\/[^"\s\<\>]*[^.,;'">\:\s\<\>\)\]\!])/g, (url) ->
       "<a target=\"_blank\" href=\"" + url + "\">" + url + "</a>"
     ).replace(/\B@([_a-z0-9]+)/g, (reply) ->
       reply.charAt(0) + "<a target=\"_blank\" href=\"http://twitter.com/" + reply.substring(1) + "\">" + reply.substring(1) + "</a>"
     )
-    statusHTML.push "<div style='height:50px;'><span>" + status + "\"</span> - <a target=\"_blank\" href=\"http://twitter.com/" + username + "/statuses/" + twitters[i].id_str + "\">" + username + "</a></div>"
+    statusHTML.push "<div style='height:50px;'><img style='float:left;margin-right:2px;height:40px;' src='" + avatar + "'><span>" + status + "\"</span> - <a target=\"_blank\" href=\"http://twitter.com/" + username + "/statuses/" + twitters[i].id_str + "\">" + username + "</a></div>"
     i++
   $("#twitter").html statusHTML.join("")
 
