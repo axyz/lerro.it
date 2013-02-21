@@ -32,8 +32,9 @@ $ ->
 	$('#maximage').maximage
 		cycleOptions:
 			after: (curr, next, opts) ->
-				$("#slogan h1").html "<a href ='"+ slogans[opts.currSlide][1] + "'>" + slogans[opts.currSlide][0] + "&nbsp;<i class='icon-circle-arrow-right'></i></a>"
-				return
+        $("#slogan h1").html "<a href ='"+ slogans[opts.currSlide][1] + "'>" + slogans[opts.currSlide][0] + "&nbsp;<i class='icon-circle-arrow-right'></i></a>"
+        $("#slogan h1").delay(100).fadeIn().delay(2500).fadeOut()
+        return
 
   rnd = Math.floor(Math.random()*testimonial.length)
   $('#testimonial-preview').html testimonial[rnd][0]
