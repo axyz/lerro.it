@@ -38,11 +38,18 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/05.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/05.jpg"/></div><br/><br/><br/>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>PROGETTI</h3>
+    </div>
+  </div>
+</div>
 <div id="content" class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns contact-box">
-      <div class="two columns"><br/><br/><br/>
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
         <ul class="side-nav">
           <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
           <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
@@ -52,8 +59,8 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="ten columns">
-        <h3>GESTISCI LA TUA VITA<small>&nbsp;</small></h3>
+      <div class="eight columns">
+        <h3>Gestisci La Tua Vita<small>&nbsp;</small></h3>
         <p>Molte volte ci si sente sopraffatti dagli adempimenti, dalla gestione dei fornitori, dai fastidi quotidiani che sembrano sempre più inevitabili e che è impossibile trascurare, onde evitare sanzioni, rinnovi di contratti, pregiudizi di ogni tipo.</p>
         <p>Ci si trova ad affrontare, in un delicatissimo equilibrio, questioni governate da principi che non si conoscono, da regole astruse difficili da individuare, in contesti spesso incomprensibili.</p>
         <p>Tanto più tale situazione si presenta opprimente in relazione a determinate attività professionali, che richiedono vite in continuo movimento, o in relazione a profili professionali molto lontani dalla tipologia di affari che richiedono attenzione, o comunque alla specifica capacità del singolo.</p>

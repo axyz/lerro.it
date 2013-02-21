@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -53,7 +53,7 @@
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
           <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
-          <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
+          <li> <a href="esperienza-ciappetta.php">CIAPPETTA VS. MIN. GIUSTIZIA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
           <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
@@ -62,7 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Agusta s.p.a.: responsabilità degli amministratori<small>&nbsp;</small></h3>
+        <h3>Agusta S.p.a.: Responsabilità Degli Amministratori<small>&nbsp;</small></h3>
         <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate. Ci siamo occupati di una di queste vicende, che vedevano la gestione liquidatoria dell’EFIM opposta a circa 30 dirigenti ed ex amministratori di Agusta s.p.a. (tra i quali i nostri assistiti) oltre alle società di revisione, con una pretesa risarcitoria di poco inferiore ai 2.000 miliardi di lire (cioè circa un miliardo di euro).</p>
         <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, proprio dalla ricostruzione dei processi decisionali interni al sistema di holding dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
         <p>Il contenzioso, innanzi al Tribunale di Busto Arsizio, si è concluso positivamente per i nostri assistiti, con la rinuncia di EFIM ad ogni pretesa risarcitoria.</p>
@@ -75,7 +75,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -83,8 +83,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

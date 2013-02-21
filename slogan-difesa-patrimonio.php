@@ -38,11 +38,18 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/03.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/03.jpg"/></div><br/><br/><br/>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>PROGETTI</h3>
+    </div>
+  </div>
+</div>
 <div id="content" class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns contact-box">
-      <div class="two columns"><br/><br/><br/>
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
         <ul class="side-nav">
           <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
           <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
@@ -52,8 +59,8 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="ten columns">
-        <h3>LA DIFESA DI UN PATRIMONIO<small>&nbsp;</small></h3>
+      <div class="eight columns">
+        <h3>La Difesa Di Un Patrimonio<small>&nbsp;</small></h3>
         <p>Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali.</p>
         <p>Per evitare queste evenienze l’ordinamento giuridico mette a disposizione degli strumenti che consentono una valida protezione patrimoniale nel pieno rispetto della legge e di fondamentali principi quali la responsabilità patrimoniale, la tutela dell’affidamento, la protezione degli incapaci o la salvaguardia dei diritti successori. Nel mondo moderno, peraltro, gli ordinamenti giuridici internazionali spesso aiutano la disciplina nazionale, integrandola con esperienze testate in altri contesti (ad esempio, è il caso del Trust, che in Inghilterra ed USA ha consentito la conservazione dei grandi patrimoni familiari).</p>
         <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale.</p>

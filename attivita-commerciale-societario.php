@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-commerciale-societario.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-commerciale-societario.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -63,7 +63,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Commerciale e Societario<small>&nbsp;</small></h3>
+        <h3>Commerciale E Societario<small>&nbsp;</small></h3>
         <p>La Corporate Governance è una tradizionale area di attività di L&P, attento al dibattito internazionale in materia di trasparenza nella gestione dell'impresa. Oltre a seguire problematiche societarie di gruppi internazionali e imprese di tipo tradizionale, lo Studio ha analizzato e implementato strutture di joint venture, società e gruppi, con l'obiettivo di garantire la massima efficienza e tutela dell'interesse degli azionisti e degli investitori. </p>
         <p>Seguendo i propri Clienti dal momento genetico dell'impresa fino alla eventuale fase di liquidazione, L&P cura ogni aspetto dell'organizzazione societaria e le problematiche connesse con i necessari adempimenti. In particolare, lo Studio ha consolidato una rilevante esperienza nella redazione e successiva gestione di accordi parasociali, contribuendo alla corretta allocazione dei poteri decisionali e di controllo, curando le regolamentazioni degli equilibri partecipativi e disegnando strategie di uscita programmata.</p>
         <p>Nei rapporti dell'impresa con il mercato, l'esperienza maturata consente a L&P di prestare completa assistenza nei diversi settori della contrattualistica commerciale, nelle problematiche di carattere giuslavoristico e nell'intellectual property, impiegando strumenti contrattuali atipici e innovativi.</p>
@@ -76,7 +76,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -84,8 +84,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

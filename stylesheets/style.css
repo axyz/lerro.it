@@ -51,6 +51,7 @@ body {
   border-radius: 0px 0px 10px 10px;
   -webkit-box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
   box-shadow: 3px 3px 5px 1px rgba(5,5,5,0.4);
+  background-color: rgba(240,240,240,0.9);
 }
 .box-fluid p {
   text-align: justify;

@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-internet-new-media.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-internet-new-media.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -63,12 +63,11 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Internet e new media<small>&nbsp;</small></h3>
+        <h3>Internet E New Media<small>&nbsp;</small></h3>
         <p>Nel periodo dell’esplosione della new economy abbiamo assistito diverse società che hanno approcciato internet come unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
         <p>L’esperienza in materia di brevetti e copyright ci ha consentito di affrontare con le giuste competenze questo nuovo mondo e la componente societaria/finanziaria è stata il complemento ideale agli strumenti del mestiere necessari per assistere le aziende del settore, dal momento che quasi tutti i progetti vengono affrontati con supporto di venture capital.</p>
         <p>L’evoluzione dei media ha portato con sé la disciplina della privacy, con la moltitudine di diritti, cautele, adempimenti imposti nella gestione dei dati personali.</p>
-        <p>Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business. </p>
-        <p>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. </p>
+        <p>Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business.<br>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. </p>
         <p>L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.</p>
       </div>
     </div>
@@ -79,7 +78,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -87,8 +86,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

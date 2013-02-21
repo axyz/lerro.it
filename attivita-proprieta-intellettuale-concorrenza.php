@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-proprieta-intellettuale-concorrenza.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-proprieta-intellettuale-concorrenza.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -63,7 +63,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Proprietà intellettuale e Concorrenza<small>&nbsp;</small></h3>
+        <h3>Proprietà Intellettuale E Concorrenza<small>&nbsp;</small></h3>
         <p>Marchi, brevetti, copyright, database e i differenti tipi di proprietà intellettuale sono parte essenziale del processo di creazione del valore. Con questa consapevolezza, lo Studio è stato coinvolto in importanti negoziazioni, risolvendo problematiche relative ai vari livelli della catena distributiva. </p>
         <p>Nel settore dei marchi, L&P è frequentemente impegnato in progetti relativi a prodotti commerciali e del settore della moda, inclusi contratti pubblicitari e relativi a testimonial provenienti dal mondo dello spettacolo e dello sport, con le relative esigenze di protezione dell’identità personale.</p>
         <p>L’assistenza può comprendere registrazione e protezione internazionale di marchi e nomi a dominio.</p>
@@ -78,7 +78,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -86,8 +86,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

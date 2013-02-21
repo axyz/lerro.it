@@ -38,11 +38,18 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/06.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/06.jpg"/></div><br/><br/><br/>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>PROGETTI</h3>
+    </div>
+  </div>
+</div>
 <div id="content" class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns contact-box">
-      <div class="two columns"><br/><br/><br/>
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
         <ul class="side-nav">
           <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
           <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
@@ -52,8 +59,8 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="ten columns">
-        <h3>MONITORAGGIO LEGISLATIVO E LOBBYING<small>&nbsp;</small></h3>
+      <div class="eight columns">
+        <h3>Monitoraggio Legislativo E Lobbying<small>&nbsp;</small></h3>
         <p>Solo da pochi anni si è diffusa anche in Italia in modo strutturato la c.d. attività di intelligence politica, lobbying e public affairs: le aziende si rivolgono ad un professionista per seguire l’evoluzione di normative che le interessano e, ove possibile ed ammesso dalla legge, per partecipare alle procedure di consultazione degli operatori del settore e quindi al processo normativo in modo democratico.</p>
         <p>L’attività si basa sia sul c.d. monitoraggio legislativo, attraverso processi di documentazione delle attività parlamentari (comunitarie e nazionali) e ministeriali, che su percorsi di sensibilizzazione delle autorità, attraverso la redazione di ricerche, tavole sinottiche, position papers, sintesi, emendamenti, proposte per il legislatore.</p>
         <p>Da non trascurare è poi l’attività sempre più penetrante svolta dalle Authority, a livello di indagini di settore e regolamentazioni specialistiche: si tratta di processi che coinvolgono gli operatori industriali e commerciali, nei quali è sicuramente utile essere rappresentati da giuristi esperti, in grado di dialogare con le amministrazioni coinvolte.</p>

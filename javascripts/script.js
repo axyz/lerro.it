@@ -3,7 +3,7 @@ var slogans, testimonial, twitterCB;
 
 slogans = [["DA UN'IDEA A UN'IMPRESA", "slogan-idea-impresa.php"], ["RIPOSIZIONARE UN'AZIENDA", "slogan-riposizionare-azienda.php"], ["LA DIFESA DI UN PATRIMONIO", "slogan-difesa-patrimonio.php"], ["ASSISTERE UN DISABILE", "slogan-assistere-disabile.php"], ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"], ["LOBBYING", "slogan-lobbying.php"]];
 
-testimonial = [["Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma", "Gabriele Brustenghi"], ["Da molti anni ricorro all’Avvocato Lerro e nel tempo ho osservato che gli interventi richiesti hanno regolarmente portato a risultati molto positivi", "Ettore Pietrabissa"]];
+testimonial = [["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi"], ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa"]];
 
 twitterCB = function(twitters) {
   var avatar, i, status, statusHTML, username;

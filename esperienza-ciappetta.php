@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -53,7 +53,7 @@
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
           <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
-          <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
+          <li> <a href="esperienza-ciappetta.php">CIAPPETTA VS. MIN. GIUSTIZIA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
           <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
@@ -62,7 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Ciappetta vs. Ministero della Giustizia<small>&nbsp;</small></h3>
+        <h3>Ciappetta vs. Ministero Della Giustizia<small>&nbsp;</small></h3>
         <p>Fabrizio Ciappetta, deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.</p>
         <p>Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza la superficialità, i gravi ritardi e la ingiustificabile negligenza di quanti avrebbero dovuto presiedere alla rieducazione del detenuto.</p>
         <p>Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari (di colpa medica), quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.</p>
@@ -75,7 +75,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -83,8 +83,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

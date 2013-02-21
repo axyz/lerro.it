@@ -38,11 +38,18 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/01.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/01.jpg"/></div><br/><br/><br/>
+<div class="row">
+  <div class="eleven columns centered">
+    <div class="twelve columns panel box-title-fluid">
+      <h3>PROGETTI</h3>
+    </div>
+  </div>
+</div>
 <div id="content" class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns contact-box">
-      <div class="two columns"><br/><br/><br/>
+    <div class="twelve columns panel box-fluid">
+      <div class="four columns">
         <ul class="side-nav">
           <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
           <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
@@ -52,10 +59,9 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="ten columns">
-        <h3>DA UN’IDEA A UN’IMPRESA<small>&nbsp;</small></h3>
-        <p>Avere una buona idea imprenditoriale non è facile, farla diventare un’azienda ancora meno.</p>
-        <L>’idea deve essere sviluppata, testata, confrontata con fornitori, potenziali clienti, esperti del settore. In molti casi l’idea può essere protetta, laddove l’ordinamento giuridico le attribuisca particolari caratteristiche; ad esempio: un’invenzione, un design, un’opera artistica, un marchio, un’idea pubblicitaria. In altri casi l’idea non è autonomamente proteggibile come bene immateriale; quindi deve essere difesa con una serie di cautele giuridiche che vincolino contrattualmente gli interlocutori a non divulgarla o utilizzarla.</L>
+      <div class="eight columns">
+        <h3>Da Un’idea A Un’impresa<small>&nbsp;</small></h3>
+        <p>Avere una buona idea imprenditoriale non è facile, farla diventare un’azienda ancora meno.<br>L’idea deve essere sviluppata, testata, confrontata con fornitori, potenziali clienti, esperti del settore. In molti casi l’idea può essere protetta, laddove l’ordinamento giuridico le attribuisca particolari caratteristiche; ad esempio: un’invenzione, un design, un’opera artistica, un marchio, un’idea pubblicitaria. In altri casi l’idea non è autonomamente proteggibile come bene immateriale; quindi deve essere difesa con una serie di cautele giuridiche che vincolino contrattualmente gli interlocutori a non divulgarla o utilizzarla.</p>
         <p>Poi si passa alla fase esecutiva: si costituisce un’impresa, generalmente in forma societaria, e si mettono nero su bianco gli accordi con i soci; è sempre bene chiarire prima quale sarà il futuro della società, onde evitare che una bella iniziativa imprenditoriale provochi la fine di un’amicizia o che il progetto naufraghi a causa di attriti personali dovuti a poca chiarezza iniziale.</p>
         <p>In questa fase è frequente la ricerca di investitori che contribuiscano con capitale di rischio a fornire i necessari apporti finanziari, e la conclusione con essi di accordi che consentano alla società uno sviluppo sano. Parimenti, è possibile fare ricorso a diverse forme di incentivazione esistenti. Quindi si deve strutturare la contrattualistica dell’impresa nei confronti dei clienti, verificando i processi aziendali e le criticità, onde procedere all’allocazione dei rischi nel rispetto di quanto previsto dalla legge.</p>
         <p>Sul fronte interno, occorre organizzare le risorse in modo coerente con il business model della società, in modo efficiente ed economico, e negoziare i rapporti con i fornitori.</p>

@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -53,7 +53,7 @@
         <ul class="side-nav">
           <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
           <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
-          <li> <a href="esperienza-ciappetta.php">CIAPPETTA</a></li>
+          <li> <a href="esperienza-ciappetta.php">CIAPPETTA VS. MIN. GIUSTIZIA</a></li>
           <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
           <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
           <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
@@ -62,7 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Ministero dell’ambiente<small>&nbsp;</small></h3>
+        <h3>Ministero Dell’ambiente<small>&nbsp;</small></h3>
         <p>Per circa dieci anni, fino al limite massimo di legge, l’avv. Lerro è stato consulente esterno del Ministero dell’ambiente con la qualifica di “esperto giuridico” e componente della Segreteria Tecnica. In tale veste si è occupato di aree naturali protette, acque e difesa del suolo.</p>
         <p>L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.</p>
       </div>
@@ -74,7 +74,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -82,8 +82,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

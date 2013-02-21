@@ -38,11 +38,11 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Profilo<small>&nbsp;</small></h3>
+      <h3>PROFILO<small>&nbsp;</small></h3>
     </div>
   </div>
 </div>
@@ -53,8 +53,7 @@
       <p>L&P si fonda sulla ultraventennale esperienza del Senior Partner, che dopo circa dieci anni di lavoro in importanti studi ha creato la propria struttura professionale, portando con sé significative esperienze maturate nell’assistenza sia di privati che di noti personaggi e multinazionali.</p>
       <p>Punti di forza di L&P sono la visione strategica, l'alta preparazione tecnica, la rapidità e l'efficienza nella gestione degli incarichi, la capacità di dialogare con le più diverse competenze professionali; caratteristiche che hanno determinato lo sviluppo di elevate capacità negoziali e strategiche nelle diverse aree di attività.</p>
       <p>Oltre ad una consistente attività stragiudiziale e negoziale, lo Studio patrocina il contenzioso in sede ordinaria, arbitrale e davanti alle Magistrature Superiori e alla Corte di Giustizia dell’Unione Europea. </p>
-      <p>L’esperienza ci ha dimostrato che una problematica legale, a prescindere dall’importanza economica o dalla difficoltà giuridica, può incidere seriamente sulla vita del Cliente.</p>
-      <p>Lo spirito di lavoro è pertanto improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente con serenità, immedesimazione, sincerità e chiarezza nella discussione di tutti i profili del caso, per trovare soluzioni chiare e condivise anche laddove ciò sembra impossibile.</p>
+      <p>L’esperienza ci ha dimostrato che una problematica legale, a prescindere dall’importanza economica o dalla difficoltà giuridica, può incidere seriamente sulla vita del Cliente.<br>Lo spirito di lavoro è pertanto improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente con serenità, immedesimazione, sincerità e chiarezza nella discussione di tutti i profili del caso, per trovare soluzioni chiare e condivise anche laddove ciò sembra impossibile.</p>
     </div>
   </div>
 </div>
@@ -63,7 +62,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -71,8 +70,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

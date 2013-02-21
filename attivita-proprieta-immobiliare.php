@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-proprieta-immobiliare.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-proprieta-immobiliare.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -63,7 +63,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
+        <h3>Propriet&agrave; Immobiliare<small>&nbsp;</small></h3>
         <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali. </p>
         <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
         <p>Il settore delle locazioni, abitative e commerciali, occupa lo Studio sia sul fronte negoziale che su quello gestionale, con la presa in carico dell’ordinaria amministrazione di immobili a reddito.</p>
@@ -78,7 +78,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -86,8 +86,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>

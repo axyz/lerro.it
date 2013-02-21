@@ -7,8 +7,8 @@ slogans = [
   ["LOBBYING", "slogan-lobbying.php"]]
 
 testimonial = [
-  ["Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma", "Gabriele Brustenghi"]
-  ["Da molti anni ricorro all’Avvocato Lerro e nel tempo ho osservato che gli interventi richiesti hanno regolarmente portato a risultati molto positivi", "Ettore Pietrabissa"]]
+  ["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi"]
+  ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa"]]
 
 twitterCB = (twitters) ->
   statusHTML = []

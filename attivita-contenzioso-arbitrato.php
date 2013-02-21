@@ -38,7 +38,7 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/attivita-contenzioso-arbitrato.jpg"/></div><br/><br/><br/><br/><br/>
+<div id="maximage"><img src="images/bg/attivita-contenzioso-arbitrato.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
@@ -63,11 +63,9 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Contenzioso e Arbitrato<small>&nbsp;</small></h3>
+        <h3>Contenzioso E Arbitrato<small>&nbsp;</small></h3>
         <p>Caratteristica distintiva dello Studio è l'abilità nell'individuare la strategia più idonea alla risoluzione delle questioni controverse. La tenacia, l'approfondimento, un'accurata attività istruttoria e la completezza dello studio del caso costituiscono la miglior formula per difendere e sostenere gli interessi del Cliente.</p>
-        <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni classiche di diritto privato ed in materie specialistiche quali la colpa medica, il diritto industriale, il diritto societario e la responsabilità degli amministratori, gli appalti, gli immobili. </p>
-        <p>Lo Studio è spesso officiato della cura di rilevanti questioni di natura ereditaria o personale e segue con frequenza tematiche concernenti l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici.</p>
-        <p>Particolare esperienza è stata maturata anche nel giudizio risarcitorio innanzi alla Corte dei Conti, in materia di responsabilità per fatto illecito del pubblico dipendente.</p>
+        <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni classiche di diritto privato ed in materie specialistiche quali la colpa medica, il diritto industriale, il diritto societario e la responsabilità degli amministratori, gli appalti, gli immobili.<br>Lo Studio è spesso officiato della cura di rilevanti questioni di natura ereditaria o personale e segue con frequenza tematiche concernenti l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici.<br>Particolare esperienza è stata maturata anche nel giudizio risarcitorio innanzi alla Corte dei Conti, in materia di responsabilità per fatto illecito del pubblico dipendente.</p>
         <p>Il contenzioso è patrocinato sia in sede ordinaria che arbitrale, innanzi alle Giurisdizioni Superiori e alla Corte di Giustizia dell’Unione Europea.</p>
         <p>Nel settore penale, lo Studio si occupa di alcune materie avvalendosi di specialisti esterni (prevalentemente reati societari e contraffazione).</p>
       </div>
@@ -79,7 +77,7 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
             <cite id="testimonial-preview-cite"></cite>
           </blockquote>
         </div>
@@ -87,8 +85,8 @@
     </div>
     <div style="width:39.5%; height:152px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h3>Blog</h3>
-        <p>Avvocati.net</p>
+        <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
+        <p>Il Blog <br>di Lerro&Partners</p>
       </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
     </div>
   </div>
