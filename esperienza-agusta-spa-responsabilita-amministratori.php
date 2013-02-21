@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Agusta s.p.a.: responsabilità degli amministratori<small>&nbsp;</small></h3>
+      <h3>STORIE</h3>
     </div>
   </div>
 </div>
@@ -62,6 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Agusta s.p.a.: responsabilità degli amministratori<small>&nbsp;</small></h3>
         <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate. Ci siamo occupati di una di queste vicende, che vedevano la gestione liquidatoria dell’EFIM opposta a circa 30 dirigenti ed ex amministratori di Agusta s.p.a. (tra i quali i nostri assistiti) oltre alle società di revisione, con una pretesa risarcitoria di poco inferiore ai 2.000 miliardi di lire (cioè circa un miliardo di euro).</p>
         <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, proprio dalla ricostruzione dei processi decisionali interni al sistema di holding dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
         <p>Il contenzioso, innanzi al Tribunale di Busto Arsizio, si è concluso positivamente per i nostri assistiti, con la rinuncia di EFIM ad ogni pretesa risarcitoria.</p>
@@ -74,7 +75,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

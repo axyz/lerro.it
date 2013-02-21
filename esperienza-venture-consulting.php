@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Venture Consulting<small>&nbsp;</small></h3>
+      <h3>STORIE</h3>
     </div>
   </div>
 </div>
@@ -62,6 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Venture Consulting<small>&nbsp;</small></h3>
         <p>Venture Consulting è una società di management consulting nata da uno spin off di una celebre multinazionale della consulenza strategica, posizionata su mercati a forte discontinuità tecnologica e nel mondo bancario.</p>
         <p>Il progetto è nato da affermati professionisti della consulenza in collaborazione con due importanti fondi di investimento, 3i Group (uno dei più grandi fondi di investimento del mondo)  e Kiwi II (il fondo gestito dalla Pino Ventures di Elserino Piol) sulla base di un business model che coniugava consulenza strategica e venture capital, investendo parte delle fees nell’iniziativa del cliente.</p>
         <p>Per Venture Consulting abbiamo curato tutto lo start up societario, gli accordi con gli investitori, i patti parasociali. Poi siamo entrati nella gestione ordinaria, fornendo sia assistenza corporate (per il personale, la contrattualistica, le attività societarie, i rapporti  con i fornitori) che supporto consulenziale per i progetti dei clienti, mettendo sostanzialmente a disposizione un versatile desk legale, ben coordinato con i consulenti di VC. Il lavoro in team ci ha poi portato ad estendere il servizio legale a diversi start up creati dall’azienda.</p>
@@ -76,7 +77,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

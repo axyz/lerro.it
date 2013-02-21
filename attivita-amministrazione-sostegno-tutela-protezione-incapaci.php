@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Amministrazione di sostegno, tutela e protezione degli incapaci<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,20 +52,24 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Protezione degli incapaci<small>&nbsp;</small></h3>
         <p>Lo Studio ha sviluppato un’ampia esperienza nelle procedure di competenza del giudice tutelare: assistenza di minori ed interdetti, amministrazioni di sostegno, tutele.</p>
-        <p>Vengono curati sia gli aspetti di gestione ordinaria della vita dell’amministrato, che i profili straordinari o contenziosi, con il massimo supporto alle famiglie nella interazione con Tribunale ed uffici amministrativi.</p>
+        <p>La fase introduttiva riguarda l’accertamento dello stato e del livello di incapacità, l’analisi delle esigenze di gestione, sia sotto il profilo personale (cura, assistenza, educazione, ecc.) che patrimoniale.</p>
+        <p>Vengono poi curati sia gli aspetti di gestione ordinaria della vita dell’amministrato, che i profili straordinari o contenziosi, con il massimo supporto alle famiglie nella interazione con Tribunale ed uffici amministrativi.</p>
+        <p>Gli aspetti successori completano la programmazione dell’attività, con l’obiettivo di trovare soluzioni corrette e concrete ed evitare contenziosi infiniti tra parenti.</p>
         <p>L&P ha maturato una specifica esperienza nel supporto gestionale, che può essere espresso anche tramite la costituzione di Trust e la creazione di “family office” in grado di gestire patrimoni personali in supporto alle figure professionali designate dalla famiglia dell’amministrato e dal Tribunale.</p>
+        <p>In questa materia siamo spesso coinvolti in convegni specialistici e divulgativi ed eventi di formazione professionale.</p>
       </div>
     </div>
   </div>
@@ -75,7 +79,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

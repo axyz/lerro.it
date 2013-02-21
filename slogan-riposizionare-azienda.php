@@ -38,25 +38,29 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/bw/02.jpg"/></div>
+<div id="maximage"><img src="images/bg/02.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns"><br/><br/><br/>
-    <ul class="side-nav">
-      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
-      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
-      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
-      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
-      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>RIPOSIZIONARE UN'AZIENDA<small>&nbsp;</small></h3>
-    <p>L’apertura di una rete commerciale estera, l’ingresso nella grande distribuzione, la progettazione di un franchising sono alcuni dei più frequenti esempi di riposizionamento aziendale che richiedono non solo la competenza di validi manager, ma anche la collaborazione di giuristi esperti che partecipino alla progettazione strategica, prima ancora che alla fase esecutiva. </p>
-    <p>Infatti, può capitare che il più bel progetto imprenditoriale debba essere ripensato a causa di ostacoli normativi, o che una diversa strategia sia più efficiente proprio per ragioni regolatorie.</p>
-    <p>In particolare, quando si cambia mercato, sia che si tratti di un nuovo prodotto che di una estensione geografica del business, non si può fare pienamente conto sul bagaglio di esperienza che ha accompagnato l’impresa fino a quel momento. Il miglior imprenditore rischia di commettere errori dettati dall’inesperienza o di trovarsi a formulare strategie non realizzabili o a prendere decisioni inadeguate.</p>
-    <p>Anni fa abbiamo assistito un’azienda che effettuava forniture aeronautiche e che ha deciso di proporre allo stesso mercato prodotti diversi, con un maggior impatto tecnologico. La diversificazione ha richiesto all’azienda di sviluppare competenze nuove e di creare una apposita business unit, nella quale il contributo del consulente legale (coinvolto nelle tematiche di intellectual property, discipline regolatorie, contrattualistica con i fornitori) è stato fondamentale per il successo che l’azienda ha poi meritatamente raggiunto.</p>
-    <p>La delicatezza del riposizionamento aziendale richiede la transitoria acquisizione di competenze specialistiche che una qualificata competenza professionale può garantire, allo scopo di superare con competenza la fase critica e di far partire il progetto nel modo migliore.</p>
+  <div class="eleven columns centered">
+    <div class="twelve columns contact-box">
+      <div class="two columns"><br/><br/><br/>
+        <ul class="side-nav">
+          <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+          <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+          <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+          <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+          <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
+        </ul>
+      </div>
+      <div class="ten columns">
+        <h3>RIPOSIZIONARE UN'AZIENDA<small>&nbsp;</small></h3>
+        <p>L’apertura di una rete commerciale estera, l’ingresso nella grande distribuzione, la progettazione di un franchising sono alcuni dei più frequenti esempi di riposizionamento aziendale che richiedono non solo la competenza di validi manager, ma anche la collaborazione di giuristi esperti che partecipino alla progettazione strategica, prima ancora che alla fase esecutiva. </p>
+        <p>Infatti, può capitare che il più bel progetto imprenditoriale debba essere ripensato a causa di ostacoli normativi, o che una diversa strategia sia più efficiente proprio per ragioni regolatorie.</p>
+        <p>In particolare, quando si cambia mercato, sia che si tratti di un nuovo prodotto che di una estensione geografica del business, non si può fare pienamente conto sul bagaglio di esperienza che ha accompagnato l’impresa fino a quel momento. Il miglior imprenditore rischia di commettere errori dettati dall’inesperienza o di trovarsi a formulare strategie non realizzabili o a prendere decisioni inadeguate.</p>
+        <p>Anni fa abbiamo assistito un’azienda che effettuava forniture aeronautiche e che ha deciso di proporre allo stesso mercato prodotti diversi, con un maggior impatto tecnologico. La diversificazione ha richiesto all’azienda di sviluppare competenze nuove e di creare una apposita business unit, nella quale il contributo del consulente legale (coinvolto nelle tematiche di intellectual property, discipline regolatorie, contrattualistica con i fornitori) è stato fondamentale per il successo che l’azienda ha poi meritatamente raggiunto.</p>
+        <p>La delicatezza del riposizionamento aziendale richiede la transitoria acquisizione di competenze specialistiche che una qualificata competenza professionale può garantire, allo scopo di superare con competenza la fase critica e di far partire il progetto nel modo migliore.</p>
+      </div>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

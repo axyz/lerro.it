@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>M&amp;A, Venture Capital, Management Buy Out <small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,21 +52,22 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria. </p>
-        <p>L&amp;P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
-        <p>Lo Studio assiste inoltre i propri Clienti, tra i quali alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri.</p>
-        <p>L&amp;P ha costituito o ristrutturato reti distributive e di franchising, in alcuni casi con interlocutori europei e statunitensi.</p>
+        <h3>M&A, Venture Capital, M.B.O.<small>&nbsp;</small></h3>
+        <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria.</p>
+        <p>L&P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
+        <p>Lo Studio assiste inoltre i propri Clienti, tra i quali vi sono stati alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri. </p>
+        <p>In alcuni casi la ristrutturazione è meramente societaria, ma spesso essa riguarda il posizionamento finanziario, i rapporti col personale, le politiche commerciali, tutti fattori che influiscono sul raggiungimento della missione aziendale.</p>
       </div>
     </div>
   </div>
@@ -76,7 +77,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

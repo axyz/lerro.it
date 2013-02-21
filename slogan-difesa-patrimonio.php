@@ -38,25 +38,29 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/bw/03.jpg"/></div>
+<div id="maximage"><img src="images/bg/03.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns"><br/><br/><br/>
-    <ul class="side-nav">
-      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
-      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
-      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
-      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
-      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>LA DIFESA DI UN PATRIMONIO<small>&nbsp;</small></h3>
-    <p>Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali.</p>
-    <p>Per evitare queste evenienze l’ordinamento giuridico mette a disposizione degli strumenti che consentono una valida protezione patrimoniale nel pieno rispetto della legge e di fondamentali principi quali la responsabilità patrimoniale, la tutela dell’affidamento, la protezione degli incapaci o la salvaguardia dei diritti successori. Nel mondo moderno, peraltro, gli ordinamenti giuridici internazionali spesso aiutano la disciplina nazionale, integrandola con esperienze testate in altri contesti (ad esempio, è il caso del Trust, che in Inghilterra ed USA ha consentito la conservazione dei grandi patrimoni familiari).</p>
-    <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale.</p>
-    <p>Occorre poi differenziare strategie ed azioni in relazione alla natura del patrimonio (immobiliare, mobiliare o misto), alle esigenze  del Cliente e alle opportunità che concretamente si manifestano.</p>
-    <p>L’analisi del problema, la valutazione delle alternative e la programmazione del futuro consentono una difesa efficace del patrimonio, la riduzione dei rischi e significativi risparmi.</p>
+  <div class="eleven columns centered">
+    <div class="twelve columns contact-box">
+      <div class="two columns"><br/><br/><br/>
+        <ul class="side-nav">
+          <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+          <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+          <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+          <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+          <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
+        </ul>
+      </div>
+      <div class="ten columns">
+        <h3>LA DIFESA DI UN PATRIMONIO<small>&nbsp;</small></h3>
+        <p>Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali.</p>
+        <p>Per evitare queste evenienze l’ordinamento giuridico mette a disposizione degli strumenti che consentono una valida protezione patrimoniale nel pieno rispetto della legge e di fondamentali principi quali la responsabilità patrimoniale, la tutela dell’affidamento, la protezione degli incapaci o la salvaguardia dei diritti successori. Nel mondo moderno, peraltro, gli ordinamenti giuridici internazionali spesso aiutano la disciplina nazionale, integrandola con esperienze testate in altri contesti (ad esempio, è il caso del Trust, che in Inghilterra ed USA ha consentito la conservazione dei grandi patrimoni familiari).</p>
+        <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale.</p>
+        <p>Occorre poi differenziare strategie ed azioni in relazione alla natura del patrimonio (immobiliare, mobiliare o misto), alle esigenze  del Cliente e alle opportunità che concretamente si manifestano.</p>
+        <p>L’analisi del problema, la valutazione delle alternative e la programmazione del futuro consentono una difesa efficace del patrimonio, la riduzione dei rischi e significativi risparmi.</p>
+      </div>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Perry Ellis<small>&nbsp;</small></h3>
+      <h3>STORIE</h3>
     </div>
   </div>
 </div>
@@ -62,6 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Perry Ellis<small>&nbsp;</small></h3>
         <p>Tra i molti casi di contraffazione di marchi e creazioni della moda, il caso di Perry Ellis è stato particolarmente impegnativo: si tratta di un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, pesantemente vittima di contraffazioni ed importazioni parallele.</p>
         <p>Siamo stati incaricati di eseguire in tutta Italia azioni cautelari (inibitorie e sequestri) e di seguire con le dogane i procedimenti previsti per arginare queste azioni illecite.</p>
         <p>Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza. Alle azioni cautelari sono seguite le azioni risarcitorie. </p>
@@ -75,7 +76,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

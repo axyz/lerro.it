@@ -41,9 +41,7 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>Storie<small>&nbsp;</small></h3>
-    </div>
+    <div class="twelve columns panel box-title-fluid"></div>
   </div>
 </div>
 <div id="content" class="row">
@@ -62,6 +60,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Storie<small>&nbsp;</small></h3>
         <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione e di alcune specifiche tematiche affrontate. Il curriculum professionale dei Partner è disponibile su richiesta, ma queste storie raccontano in concreto e meglio di ogni sintesi quale tipo di vicende siano state affrontate dallo Studio. Le storie possono essere selezionate sul menù a lato. </p>
         <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende ordinarie relative a privati o comunque che non siano divenute pubbliche.</p>
         <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
@@ -74,7 +73,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

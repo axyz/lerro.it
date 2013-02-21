@@ -3,7 +3,7 @@ var slogans, testimonial, twitterCB;
 
 slogans = [["DA UN'IDEA A UN'IMPRESA", "slogan-idea-impresa.php"], ["RIPOSIZIONARE UN'AZIENDA", "slogan-riposizionare-azienda.php"], ["LA DIFESA DI UN PATRIMONIO", "slogan-difesa-patrimonio.php"], ["ASSISTERE UN DISABILE", "slogan-assistere-disabile.php"], ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"], ["LOBBYING", "slogan-lobbying.php"]];
 
-testimonial = ["Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma", "Da molti anni ricorro all’Avvocato Lerro e nel tempo ho osservato che gli interventi richiesti hanno regolarmente portato a risultati molto positivi"];
+testimonial = [["Ho conosciuto Alessandro nel 1995 : mi serviva il supporto di un legale per una delicatissima ed importante azione legale da svolgere su Roma", "Gabriele Brustenghi"], ["Da molti anni ricorro all’Avvocato Lerro e nel tempo ho osservato che gli interventi richiesti hanno regolarmente portato a risultati molto positivi", "Ettore Pietrabissa"]];
 
 twitterCB = function(twitters) {
   var i, status, statusHTML, username;
@@ -23,13 +23,14 @@ twitterCB = function(twitters) {
 };
 
 $(function() {
+  var rnd;
   $('#maximage').maximage({
     cycleOptions: {
       after: function(curr, next, opts) {
         $("#slogan h1").html("<a href ='" + slogans[opts.currSlide][1] + "'>" + slogans[opts.currSlide][0] + "&nbsp;<i class='icon-circle-arrow-right'></i></a>");
       }
     }
-  }, $('#testimonial-preview').html(testimonial[Math.floor(Math.random() * testimonial.length)]), $('#twitter').orbit({
+  }, rnd = Math.floor(Math.random() * testimonial.length), $('#testimonial-preview').html(testimonial[rnd][0]), $('#testimonial-preview-cite').html(testimonial[rnd][1]), $('#twitter').orbit({
     fluid: '',
     pauseOnHover: false,
     advanceSpeed: 8000,

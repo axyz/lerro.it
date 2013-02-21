@@ -52,14 +52,14 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
@@ -74,7 +74,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Gestioni patrimoniali, Trust, Successioni<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,20 +52,22 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>L&amp;P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
+        <h3>Patrimoni, Trust, Successioni<small>&nbsp;</small></h3>
+        <p>L&P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
         <p>L&P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.</p>
         <p>Inoltre, L&P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.</p>
+        <p>Dal punto di vista del contenzioso, siamo stati coinvolti in questioni ereditarie, divisioni, impugnazioni di testamenti, contestazione di atti gestori. In tali esperienze abbiamo sempre suggerito al Cliente vie alternative al contenzioso, valorizzando il fattore tempo e cercando di esplorare ogni possibile soluzione che garantisse un buon rapporto tra costo e beneficio.</p>
       </div>
     </div>
   </div>
@@ -75,7 +77,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

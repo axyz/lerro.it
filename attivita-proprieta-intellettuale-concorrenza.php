@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Proprietà intellettuale e Concorrenza<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,22 +52,23 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>Marchi, brevetti, copyright, database e i differenti tipi di proprietà intellettuale sono parte essenziale del processo di creazione del valore. Con questa consapevolezza, lo Studio è stato coinvolto in importanti negoziazioni, risolvendo problematiche relative ai vari livelli della catena distributiva.</p>
-        <p>Nel settore dei marchi, L&P è frequentemente impegnato in progetti relativi a prodotti commerciali e a prodotti del settore della moda; in questa area lo Studio si occupa anche dei contratti pubblicitari e del coinvolgimento di testimonial provenienti dal mondo dello spettacolo e dello sport, con le relative esigenze di protezione dell’identità personale.</p>
-        <p>Inoltre, L&P si occupa di registrazione e protezione internazionale di marchi e nomi a dominio, garantendo in proposito tutto il supporto amministrativo.</p>
-        <p>L'information technology, i brevetti industriali, le biotecnologie e le nanotecnologie sono trattate correntemente con notevole approfondimento e competenza scientifica. Inoltre, nell'information technology, L&P rappresenta un qualificato interlocutore di importanti amministrazioni pubbliche ed aziende private. </p>
-        <p>Lo Studio segue poi delicati e complessi contenziosi aventi ad oggetto proprietà intellettuale e concorrenza. In particolare, L&P ha seguito rilevanti questioni innanzi all'Autorità Garante della Concorrenza e del Mercato concernenti concentrazioni ed intese restrittive, prevalentemente aventi ad oggetto i settori della grande distribuzione e della radiotelevisione. Lo Studio presta piena tutela e assistenza nei procedimenti innanzi all'Autorità Garante della Concorrenza e del Mercato, ivi compresi i procedimenti dell'Autorità in materia di pubblicità ingannevole.</p>
+        <h3>Proprietà intellettuale e Concorrenza<small>&nbsp;</small></h3>
+        <p>Marchi, brevetti, copyright, database e i differenti tipi di proprietà intellettuale sono parte essenziale del processo di creazione del valore. Con questa consapevolezza, lo Studio è stato coinvolto in importanti negoziazioni, risolvendo problematiche relative ai vari livelli della catena distributiva. </p>
+        <p>Nel settore dei marchi, L&P è frequentemente impegnato in progetti relativi a prodotti commerciali e del settore della moda, inclusi contratti pubblicitari e relativi a testimonial provenienti dal mondo dello spettacolo e dello sport, con le relative esigenze di protezione dell’identità personale.</p>
+        <p>L’assistenza può comprendere registrazione e protezione internazionale di marchi e nomi a dominio.</p>
+        <p>L'information technology, i brevetti industriali, le biotecnologie e le nanotecnologie sono trattate con approfondimento e competenza scientifica. </p>
+        <p>Siamo stati incaricati di delicati e complessi contenziosi aventi ad oggetto proprietà intellettuale e concorrenza. In particolare, abbiamo seguito rilevanti questioni innanzi all'Autorità Garante della Concorrenza e del Mercato concernenti concentrazioni ed intese restrittive, prevalentemente aventi ad oggetto i settori della grande distribuzione e della radiotelevisione. Lo Studio presta piena tutela e assistenza nei procedimenti innanzi all'Autorità Antitrust, ivi compresi i procedimenti in materia di pubblicità ingannevole.</p>
       </div>
     </div>
   </div>
@@ -77,7 +78,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

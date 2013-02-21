@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Proras vs. Unione Europea<small>&nbsp;</small></h3>
+      <h3>STORIE</h3>
     </div>
   </div>
 </div>
@@ -62,6 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Proras vs. Unione Europea<small>&nbsp;</small></h3>
         <p>Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
         <p>In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.</p>
         <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile (T-197/03) innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. All’esito di un complesso giudizio abbiamo ottenuto non solo la piena riabilitazione del Cliente, ma anche la prima condanna giudiziaria della Commissione Europea a pagare un risarcimento, peraltro piuttosto rilevante, in favore di una società privata.</p>
@@ -74,7 +75,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

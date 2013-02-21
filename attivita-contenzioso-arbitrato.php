@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Contenzioso e Arbitrato<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,22 +52,24 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Contenzioso e Arbitrato<small>&nbsp;</small></h3>
         <p>Caratteristica distintiva dello Studio è l'abilità nell'individuare la strategia più idonea alla risoluzione delle questioni controverse. La tenacia, l'approfondimento, un'accurata attività istruttoria e la completezza dello studio del caso costituiscono la miglior formula per difendere e sostenere gli interessi del Cliente.</p>
-        <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni classiche di diritto privato ed in materie specialistiche quali la colpa medica, il diritto industriale, il diritto societario e la responsabilità degli amministratori, gli appalti, gli immobili.p Lo Studio è spesso officiato della cura di rilevanti questioni, anche di carattere contenzioso, di natura ereditaria o personale e segue con particolare frequenza tematiche concernenti la privacy, l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici e società.</p>
+        <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni classiche di diritto privato ed in materie specialistiche quali la colpa medica, il diritto industriale, il diritto societario e la responsabilità degli amministratori, gli appalti, gli immobili. </p>
+        <p>Lo Studio è spesso officiato della cura di rilevanti questioni di natura ereditaria o personale e segue con frequenza tematiche concernenti l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici.</p>
         <p>Particolare esperienza è stata maturata anche nel giudizio risarcitorio innanzi alla Corte dei Conti, in materia di responsabilità per fatto illecito del pubblico dipendente.</p>
-        <p>Il contenzioso è patrocinato sia in sede ordinaria che arbitrale, in tutte le sedi, incluse le Giurisdizioni Superiori e la Corte di Giustizia dell’Unione Europea.</p>
-        <p>Nel settore penale, lo Studio si occupa di procedimenti relativi a reati commerciali e di diffamazione, seguendo altre materie con il supporto di specialisti esterni. Inoltre, è stata maturata una consolidata esperienza nel perseguimento della contraffazione di marchi, di opere intellettuali e di creazioni di moda.</p>
+        <p>Il contenzioso è patrocinato sia in sede ordinaria che arbitrale, innanzi alle Giurisdizioni Superiori e alla Corte di Giustizia dell’Unione Europea.</p>
+        <p>Nel settore penale, lo Studio si occupa di alcune materie avvalendosi di specialisti esterni (prevalentemente reati societari e contraffazione).</p>
       </div>
     </div>
   </div>
@@ -77,7 +79,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

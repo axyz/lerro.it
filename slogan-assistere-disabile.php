@@ -38,24 +38,28 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/bw/04.jpg"/></div>
+<div id="maximage"><img src="images/bg/04.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns"><br/><br/><br/>
-    <ul class="side-nav">
-      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
-      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
-      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
-      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
-      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>ASSISTERE UN DISABILE<small>&nbsp;</small></h3>
-    <p>Troppo spesso la disabilità, fisica o mentale, è vista come un problema da nascondere e non come una situazione da affrontare, con la conseguenza che ci si ritrova a cercare risposte transitorie e puntuali per l’incidente del momento, invece che soluzioni complessive che consentano di affrontare il futuro con maggior serenità. I familiari di un disabile si trovano dinanzi ad un muro, a chiedersi come faranno ad assisterlo, per quanto tempo, come combinare i propri impegni con le esigenze assistenziali.</p>
-    <p>L’assistenza del disabile è oggi agevolata dalla figura dell’amministratore di sostegno, oltre a quella tradizionale del tutore. Tuttavia si tratta di una figura non professionale, affettivamente vicina al disabile ed in grado di interpretarne al meglio desideri ed aspirazioni.</p>
-    <p>Accanto all’amministratore di sostegno è spesso necessaria una figura professionalmente qualificata, per assisterlo nella esecuzione del suo compito al meglio. Per molti atti è necessario comunque interloquire con il Giudice Tutelare o il Tribunale; per molti altri è opportuna un’assistenza qualificata che metta al riparo l’amministratore di sostegno e l’assistito da errori o incidenti di percorso, assicurando la miglior collaborazione nel perseguimento degli interessi del disabile.</p>
-    <p>La consapevolezza del legislatore nei confronti delle problematiche della disabilità ha fatto passi importanti ed oggi sono disponibili molte soluzioni che rendono migliore la vita dell’assistito e dei familiari, garantendo la massima efficienza delle misure di protezione e la loro continuità nel tempo.</p>
+  <div class="eleven columns centered">
+    <div class="twelve columns contact-box">
+      <div class="two columns"><br/><br/><br/>
+        <ul class="side-nav">
+          <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+          <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+          <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+          <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+          <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
+        </ul>
+      </div>
+      <div class="ten columns">
+        <h3>ASSISTERE UN DISABILE<small>&nbsp;</small></h3>
+        <p>Troppo spesso la disabilità, fisica o mentale, è vista come un problema da nascondere e non come una situazione da affrontare, con la conseguenza che ci si ritrova a cercare risposte transitorie e puntuali per l’incidente del momento, invece che soluzioni complessive che consentano di affrontare il futuro con maggior serenità. I familiari di un disabile si trovano dinanzi ad un muro, a chiedersi come faranno ad assisterlo, per quanto tempo, come combinare i propri impegni con le esigenze assistenziali.</p>
+        <p>L’assistenza del disabile è oggi agevolata dalla figura dell’amministratore di sostegno, oltre a quella tradizionale del tutore. Tuttavia si tratta di una figura non professionale, affettivamente vicina al disabile ed in grado di interpretarne al meglio desideri ed aspirazioni.</p>
+        <p>Accanto all’amministratore di sostegno è spesso necessaria una figura professionalmente qualificata, per assisterlo nella esecuzione del suo compito al meglio. Per molti atti è necessario comunque interloquire con il Giudice Tutelare o il Tribunale; per molti altri è opportuna un’assistenza qualificata che metta al riparo l’amministratore di sostegno e l’assistito da errori o incidenti di percorso, assicurando la miglior collaborazione nel perseguimento degli interessi del disabile.</p>
+        <p>La consapevolezza del legislatore nei confronti delle problematiche della disabilità ha fatto passi importanti ed oggi sono disponibili molte soluzioni che rendono migliore la vita dell’assistito e dei familiari, garantendo la massima efficienza delle misure di protezione e la loro continuità nel tempo.</p>
+      </div>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

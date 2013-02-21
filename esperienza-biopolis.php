@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Biopolis<small>&nbsp;</small></h3>
+      <h3>STORIE</h3>
     </div>
   </div>
 </div>
@@ -62,6 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Biopolis<small>&nbsp;</small></h3>
         <p>Biopolis è una società nata a Siena grazie anche ad un significativo investimento in venture capital da parte di 3i Group plc., con l’obiettivo di sviluppare tecnologie brevettate nel settore farmaceutico, targetizzarle, portarle alla fase II e metterle sul mercato.</p>
         <p>Abbiamo assistito l’azienda in tutte le attività corporate, dai contratti di investimento agli accordi parasociali, alla gestione delle attività del consiglio di amministrazione. Ci siamo occupati inoltre della contrattualistica generale, dei rapporti di lavoro e delle relazioni con i fornitori.</p>
         <p>Con il nostro supporto, la società ha quindi acquisito o preso in licenza brevetti internazionali già parzialmente sviluppati, per i quali fosse possibile sviluppare un business model ambizioso. Per lo più abbiamo negoziato licenze con strutture universitarie e relativi spin off, curando la fase di due diligence brevettuale, la negoziazione e la stipulazione degli accordi contrattuali.</p>
@@ -75,7 +76,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

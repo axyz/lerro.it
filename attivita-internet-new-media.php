@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Internet e new media<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,19 +52,21 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>Nel periodo dell’esplosione della new economy abbiamo avuto la fortuna di poter assistere diverse società che hanno approcciato internet come loro unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste società non solo operavano unicamente via internet, ma avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
+        <h3>Internet e new media<small>&nbsp;</small></h3>
+        <p>Nel periodo dell’esplosione della new economy abbiamo assistito diverse società che hanno approcciato internet come unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
         <p>L’esperienza in materia di brevetti e copyright ci ha consentito di affrontare con le giuste competenze questo nuovo mondo e la componente societaria/finanziaria è stata il complemento ideale agli strumenti del mestiere necessari per assistere le aziende del settore, dal momento che quasi tutti i progetti vengono affrontati con supporto di venture capital.</p>
+        <p>L’evoluzione dei media ha portato con sé la disciplina della privacy, con la moltitudine di diritti, cautele, adempimenti imposti nella gestione dei dati personali.</p>
         <p>Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business. </p>
         <p>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. </p>
         <p>L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.</p>
@@ -77,7 +79,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

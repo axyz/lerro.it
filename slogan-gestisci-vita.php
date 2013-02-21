@@ -38,26 +38,30 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/bw/05.jpg"/></div>
+<div id="maximage"><img src="images/bg/05.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns"><br/><br/><br/>
-    <ul class="side-nav">
-      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
-      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
-      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
-      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
-      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>GESTISCI LA TUA VITA<small>&nbsp;</small></h3>
-    <p>Molte volte ci si sente sopraffatti dagli adempimenti, dalla gestione dei fornitori, dai fastidi quotidiani che sembrano sempre più inevitabili e che è impossibile trascurare, onde evitare sanzioni, rinnovi di contratti, pregiudizi di ogni tipo.</p>
-    <p>Ci si trova ad affrontare, in un delicatissimo equilibrio, questioni governate da principi che non si conoscono, da regole astruse difficili da individuare, in contesti spesso incomprensibili.</p>
-    <p>Tanto più tale situazione si presenta opprimente in relazione a determinate attività professionali, che richiedono vite in continuo movimento, o in relazione a profili professionali molto lontani dalla tipologia di affari che richiedono attenzione, o comunque alla specifica capacità del singolo.</p>
-    <P>Ad esempio, è frequente che un medico, già abbondantemente preso da impegni professionali di ogni tipo, debba combattere con la gestione di immobili locati, con inquilini morosi, ristrutturazioni, grane condominiali, adempimenti amministrativi. Oppure capita che il pensionato non riesca a dedicarsi come vorrebbe ai nipoti e ai propri hobby, trovandosi costretto ad interagire con uffici pubblici, affari di famiglia, gestioni patrimoniali.</P>
-    <P>In tutti questi casi è utile avere un “family office” che gestisca professionalmente tutta la burocrazia, gli adempimenti, i rapporti con i fornitori, le relazioni con gli enti, lasciando la persona libera di vivere serenamente, selezionando le questioni di cui voglia effettivamente occuparsi.</P>
-    <p>Il supporto consulenziale consente di usufruire di una guida nella gestione delle problematiche quotidiane o addirittura di delegarle totalmente ad un professionista di fiducia.</p>
+  <div class="eleven columns centered">
+    <div class="twelve columns contact-box">
+      <div class="two columns"><br/><br/><br/>
+        <ul class="side-nav">
+          <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+          <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+          <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+          <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+          <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
+        </ul>
+      </div>
+      <div class="ten columns">
+        <h3>GESTISCI LA TUA VITA<small>&nbsp;</small></h3>
+        <p>Molte volte ci si sente sopraffatti dagli adempimenti, dalla gestione dei fornitori, dai fastidi quotidiani che sembrano sempre più inevitabili e che è impossibile trascurare, onde evitare sanzioni, rinnovi di contratti, pregiudizi di ogni tipo.</p>
+        <p>Ci si trova ad affrontare, in un delicatissimo equilibrio, questioni governate da principi che non si conoscono, da regole astruse difficili da individuare, in contesti spesso incomprensibili.</p>
+        <p>Tanto più tale situazione si presenta opprimente in relazione a determinate attività professionali, che richiedono vite in continuo movimento, o in relazione a profili professionali molto lontani dalla tipologia di affari che richiedono attenzione, o comunque alla specifica capacità del singolo.</p>
+        <P>Ad esempio, è frequente che un medico, già abbondantemente preso da impegni professionali di ogni tipo, debba combattere con la gestione di immobili locati, con inquilini morosi, ristrutturazioni, grane condominiali, adempimenti amministrativi. Oppure capita che il pensionato non riesca a dedicarsi come vorrebbe ai nipoti e ai propri hobby, trovandosi costretto ad interagire con uffici pubblici, affari di famiglia, gestioni patrimoniali.</P>
+        <P>In tutti questi casi è utile avere un “family office” che gestisca professionalmente tutta la burocrazia, gli adempimenti, i rapporti con i fornitori, le relazioni con gli enti, lasciando la persona libera di vivere serenamente, selezionando le questioni di cui voglia effettivamente occuparsi.</P>
+        <p>Il supporto consulenziale consente di usufruire di una guida nella gestione delle problematiche quotidiane o addirittura di delegarle totalmente ad un professionista di fiducia.</p>
+      </div>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

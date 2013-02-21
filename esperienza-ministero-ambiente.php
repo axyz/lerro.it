@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Ministero dell’ambiente<small>&nbsp;</small></h3>
+      <h3>STORIE</h3>
     </div>
   </div>
 </div>
@@ -62,6 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
+        <h3>Ministero dell’ambiente<small>&nbsp;</small></h3>
         <p>Per circa dieci anni, fino al limite massimo di legge, l’avv. Lerro è stato consulente esterno del Ministero dell’ambiente con la qualifica di “esperto giuridico” e componente della Segreteria Tecnica. In tale veste si è occupato di aree naturali protette, acque e difesa del suolo.</p>
         <p>L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.</p>
       </div>
@@ -73,7 +74,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

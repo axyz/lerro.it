@@ -38,27 +38,31 @@
       </ul>
     </section>
   </nav>
-<div id="maximage"><img src="images/bg/bw/06.jpg"/></div>
+<div id="maximage"><img src="images/bg/06.jpg"/></div><br/><br/><br/><br/><br/>
 <div id="content" class="row">
-  <div class="three columns"><br/><br/><br/>
-    <ul class="side-nav">
-      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
-      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
-      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
-      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
-      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
-    </ul>
-  </div>
-  <div class="nine columns">
-    <h3>MONITORAGGIO LEGISLATIVO E LOBBYING<small>&nbsp;</small></h3>
-    <p>Solo da pochi anni si è diffusa anche in Italia in modo strutturato la c.d. attività di intelligence politica, lobbying e public affairs: le aziende si rivolgono ad un professionista per seguire l’evoluzione di normative che le interessano e, ove possibile ed ammesso dalla legge, per partecipare alle procedure di consultazione degli operatori del settore e quindi al processo normativo in modo democratico.</p>
-    <p>L’attività si basa sia sul c.d. monitoraggio legislativo, attraverso processi di documentazione delle attività parlamentari (comunitarie e nazionali) e ministeriali, che su percorsi di sensibilizzazione delle autorità, attraverso la redazione di ricerche, tavole sinottiche, position papers, sintesi, emendamenti, proposte per il legislatore.</p>
-    <p>Da non trascurare è poi l’attività sempre più penetrante svolta dalle Authority, a livello di indagini di settore e regolamentazioni specialistiche: si tratta di processi che coinvolgono gli operatori industriali e commerciali, nei quali è sicuramente utile essere rappresentati da giuristi esperti, in grado di dialogare con le amministrazioni coinvolte.</p>
-    <p>Inoltre, in settori imprenditoriali esposti a valutazioni pubbliche particolari, è importante concepire la strategia di comunicazione di un’azienda in linea con l’immagine pubblica che essa deve avere per generare consapevolezza sul proprio profilo e per garantirsi un ambiente normativo favorevole. In tale fase il contributo del giurista consente di evitare errori di posizionamento e contraddizioni di comunicazione che potrebbero avere effetti negativi, ed anzi aiuta a sviluppare un concept vincente.</p>
-    <p>Si tratta di un utile investimento se si pensa che Tony Blair ebbe modo di dire: “se faccio qualcosa che danneggia i vostri interessi perché non lo sapevo, la colpa è vostra, non mia”.</p>
-    <p>Questo tipo di attività in molti Paesi esteri è gestita prevalentemente da avvocati (è noto, ad es. l’impegno in materia dei maggiori studi legali di Washington), ma è spesso svolta anche da società più focalizzate sulla comunicazione e sull’organizzazione di eventi.</p>
-    <p>Il nostro approccio, basato tra l’altro su 10 anni di servizi giuridici svolti per il Ministero dell’ambiente, vuole essere fortemente tecnico-giuridico, per dare all’impresa e alla politica i migliori strumenti tecnici per comprendere ciò che spesso viene fortemente complicato da discipline specialistiche  o da contingenze di settore.</p>
+  <div class="eleven columns centered">
+    <div class="twelve columns contact-box">
+      <div class="two columns"><br/><br/><br/>
+        <ul class="side-nav">
+          <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+          <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+          <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+          <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+          <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
+        </ul>
+      </div>
+      <div class="ten columns">
+        <h3>MONITORAGGIO LEGISLATIVO E LOBBYING<small>&nbsp;</small></h3>
+        <p>Solo da pochi anni si è diffusa anche in Italia in modo strutturato la c.d. attività di intelligence politica, lobbying e public affairs: le aziende si rivolgono ad un professionista per seguire l’evoluzione di normative che le interessano e, ove possibile ed ammesso dalla legge, per partecipare alle procedure di consultazione degli operatori del settore e quindi al processo normativo in modo democratico.</p>
+        <p>L’attività si basa sia sul c.d. monitoraggio legislativo, attraverso processi di documentazione delle attività parlamentari (comunitarie e nazionali) e ministeriali, che su percorsi di sensibilizzazione delle autorità, attraverso la redazione di ricerche, tavole sinottiche, position papers, sintesi, emendamenti, proposte per il legislatore.</p>
+        <p>Da non trascurare è poi l’attività sempre più penetrante svolta dalle Authority, a livello di indagini di settore e regolamentazioni specialistiche: si tratta di processi che coinvolgono gli operatori industriali e commerciali, nei quali è sicuramente utile essere rappresentati da giuristi esperti, in grado di dialogare con le amministrazioni coinvolte.</p>
+        <p>Inoltre, in settori imprenditoriali esposti a valutazioni pubbliche particolari, è importante concepire la strategia di comunicazione di un’azienda in linea con l’immagine pubblica che essa deve avere per generare consapevolezza sul proprio profilo e per garantirsi un ambiente normativo favorevole. In tale fase il contributo del giurista consente di evitare errori di posizionamento e contraddizioni di comunicazione che potrebbero avere effetti negativi, ed anzi aiuta a sviluppare un concept vincente.</p>
+        <p>Si tratta di un utile investimento se si pensa che Tony Blair ebbe modo di dire: “se faccio qualcosa che danneggia i vostri interessi perché non lo sapevo, la colpa è vostra, non mia”.</p>
+        <p>Questo tipo di attività in molti Paesi esteri è gestita prevalentemente da avvocati (è noto, ad es. l’impegno in materia dei maggiori studi legali di Washington), ma è spesso svolta anche da società più focalizzate sulla comunicazione e sull’organizzazione di eventi.</p>
+        <p>Il nostro approccio, basato tra l’altro su 10 anni di servizi giuridici svolti per il Ministero dell’ambiente, vuole essere fortemente tecnico-giuridico, per dare all’impresa e alla politica i migliori strumenti tecnici per comprendere ciò che spesso viene fortemente complicato da discipline specialistiche  o da contingenze di settore.</p>
+      </div>
+    </div>
   </div>
 </div><br><br><br>
 <footer class="row" id="footer">

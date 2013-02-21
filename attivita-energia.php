@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Energia<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,19 +52,21 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di posizionamento importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.</p>
+        <h3>Energia<small>&nbsp;</small></h3>
+        <p>L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di strategia importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.</p>
         <p>L&P ha esplorato le nuove prospettive offerte da questo importante mercato, con attenzione ai profili regolatori e a quelli gestionali, predisponendo analisi e studi ed offrendo il proprio supporto consulenziale alle aziende del settore.</p>
+        <p>In questa materia è di fondamentale importanza la fase di due diligence, atteso che il valore degli assets è strettamente legato alla compliance degli impianti. Per questo, nelle aree tecniche, ci avvaliamo di consulenti altamente qualificati in grado di certificare al meglio l’attività di analisi e garantire al cliente tempi e costi adeguati.</p>
       </div>
     </div>
   </div>
@@ -74,7 +76,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>

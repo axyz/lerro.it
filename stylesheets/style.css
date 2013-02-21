@@ -94,7 +94,7 @@ ul.side-nav li {
   font-size: 16px;
 }
 .testimonial blockquote:before {
-  color: #ccc;
+  color: #931e07;
   content: "“";
   float: left;
   font-family: 'Cardo';
@@ -137,7 +137,7 @@ ul.side-nav li {
 }
 @media (min-width: 767px) {
   .box {
-    height: 150px;
+    height: 160px;
   }
 }
 @media (min-width: 1024px) {

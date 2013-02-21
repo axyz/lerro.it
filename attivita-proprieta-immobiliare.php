@@ -42,7 +42,7 @@
 <div class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-title-fluid">
-      <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
+      <h3>ATTIVIT&Agrave;</h3>
     </div>
   </div>
 </div>
@@ -52,20 +52,23 @@
       <div class="four columns">	
         <ul class="side-nav">
           <li> <a href="attivita-commerciale-societario.php">COMMERCIALE E SOCIETARIO</a></li>
-          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&amp;A, VENTURE CAPITAL E MANAGEMENT BUY OUT</a></li>
+          <li> <a href="attivita-ma-management-buy-out-venture-capital.php">M&A, VENTURE CAPITAL, M.B.O.</a></li>
           <li> <a href="attivita-proprieta-intellettuale-concorrenza.php">PROPRIETÀ INTELLETTUALE E CONCORRENZA</a></li>
           <li> <a href="attivita-internet-new-media.php">INTERNET E NEW MEDIA</a></li>
           <li> <a href="attivita-proprieta-immobiliare.php">PROPRIETÀ IMMOBILIARE</a></li>
-          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">GESTIONI PATRIMONIALI, TRUST, SUCCESSIONI</a></li>
+          <li> <a href="attivita-gestioni-patrimoniali-trust-successioni.php">PATRIMONI, TRUST, SUCCESSIONI</a></li>
           <li> <a href="attivita-contenzioso-arbitrato.php">CONTENZIOSO E ARBITRATO</a></li>
           <li> <a href="attivita-energia.php">ENERGIA</a></li>
-          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">AMMINISTRAZIONE DI SOSTEGNO, TUTELA E PROTEZIONE DEGLI INCAPACI</a></li>
+          <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali.</p>
+        <h3>Propriet&agrave; immobiliare<small>&nbsp;</small></h3>
+        <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali. </p>
         <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
-        <p>Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali e di due diligence.</p>
+        <p>Il settore delle locazioni, abitative e commerciali, occupa lo Studio sia sul fronte negoziale che su quello gestionale, con la presa in carico dell’ordinaria amministrazione di immobili a reddito.</p>
+        <p>Dal punto di vista del contenzioso abbiamo altresì maturato una significativa esperienza in tutti i tipi di controversie immobiliari e nelle questioni condominiali (danni, ripartizioni spese, godimento aree comuni ecc.), anche particolarmente complesse per numero di parti in causa e diversità di posizioni. </p>
+        <p>Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali, finanziarie e di due diligence.</p>
       </div>
     </div>
   </div>
@@ -75,7 +78,9 @@
     <div style="height:152px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a></blockquote>
+          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:3em;line-height:0;font-weight:bold;margin-left:2px;">...</a>
+            <cite id="testimonial-preview-cite"></cite>
+          </blockquote>
         </div>
       </div>
     </div>
