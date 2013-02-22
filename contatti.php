@@ -22,13 +22,14 @@
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>titolo</title><nav class="top-bar fixed">
+<title>Contatti - Studio Legale - Lerro&amp;Partners - Roma - Alessandro Lerro</title><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" class="hide-for-small"/><img src="images/logo.png" id="logo" class="show-for-small"/></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
       <ul class="right" id="main-menu">
+        <li><a href="<?php echo $basedir;?>">HOME</a></li>
         <li><a href="profilo.php">PROFILO</a></li>
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
@@ -60,12 +61,11 @@
     </div>
   </div>
 </div>
-<div id="twitter-list" class="reveal-modal small">
+<div id="twitter-list" style="text-align:center;" class="reveal-modal small">
   <h3>Seguici su Twitter</h3><a href="https://twitter.com/avvocatwit" target="_blank">@avvocatwit</a><br/><br/><a href="https://twitter.com/lerroepartners" target="_blank">@lerroepartners</a><br/><br/><a href="https://twitter.com/alessandrolerro" target="_blank">@alessandrolerro</a><br/><br/><a href="https://twitter.com/liaruozi" target="_blank">@liaruozi</a><a class="close-reveal-modal">&#215;</a>
 </div>
-<div id="skype-etc" class="reveal-modal small">
-  <p>Saremo lieti di parlare con Voi a costo zero</p>
-  <p>Richiedeteci il contatto per <a href="mailto:alessandro@lerro.it">e-mail</a></p><a class="close-reveal-modal">&#215;</a>
+<div id="skype-etc" style="text-align:center;" class="reveal-modal small"><b>SAREMO LIETI DI PARLARE CON VOI A COSTO ZERO</b><br/><br/>
+  <p>Richiedeteci il contatto Whatsapp, Viber o Skype per <a href="mailto:alessandro@lerro.it">e-mail</a></p><img src="images/whatsapp-icon.png" width="40" style="margin-right:3px;"/><img src="images/viber-icon.png" width="40" style="margin-right:3px;"/><img src="images/skype-icon.png" width="40" style="margin-right:3px;"/><a class="close-reveal-modal">&#215;</a>
 </div><br><br><br>
 <footer class="row" id="footer">
 

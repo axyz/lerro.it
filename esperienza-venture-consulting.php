@@ -22,13 +22,14 @@
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>titolo</title><nav class="top-bar fixed">
+<title>Venture Consulting - Studio Legale - Lerro&amp;Partners - Roma</title><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" class="hide-for-small"/><img src="images/logo.png" id="logo" class="show-for-small"/></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
       <ul class="right" id="main-menu">
+        <li><a href="<?php echo $basedir;?>">HOME</a></li>
         <li><a href="profilo.php">PROFILO</a></li>
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
@@ -66,15 +67,14 @@
         <p>Venture Consulting è una società di management consulting nata da uno spin off di una celebre multinazionale della consulenza strategica, posizionata su mercati a forte discontinuità tecnologica e nel mondo bancario.</p>
         <p>Il progetto è nato da affermati professionisti della consulenza in collaborazione con due importanti fondi di investimento, 3i Group (uno dei più grandi fondi di investimento del mondo)  e Kiwi II (il fondo gestito dalla Pino Ventures di Elserino Piol) sulla base di un business model che coniugava consulenza strategica e venture capital, investendo parte delle fees nell’iniziativa del cliente.</p>
         <p>Per Venture Consulting abbiamo curato tutto lo start up societario, gli accordi con gli investitori, i patti parasociali. Poi siamo entrati nella gestione ordinaria, fornendo sia assistenza corporate (per il personale, la contrattualistica, le attività societarie, i rapporti  con i fornitori) che supporto consulenziale per i progetti dei clienti, mettendo sostanzialmente a disposizione un versatile desk legale, ben coordinato con i consulenti di VC. Il lavoro in team ci ha poi portato ad estendere il servizio legale a diversi start up creati dall’azienda.</p>
-        <p>Siamo stati impegnati nell’organizzazione della gestione delle partecipazioni nelle iniziative dei clienti di VC tramite una apposita holding europea di partecipazione e abbiamo fornito il supporto per l’internazionalizzazione e per l’apertura di strutture satellite in Germania, Spagna ed Inghilterra, estendendo il servizio legale corporate alle nuove realtà.</p>
-        <p>Infine, abbiamo curato la vendita dell’azienda (che oggi ha cambiato nome) ad un primario Gruppo internazionale e quindi tutta la contrattualistica relativa all’acquisizione per conto dei venditori.</p>
+        <p>Siamo stati impegnati nell’organizzazione della gestione delle partecipazioni nelle iniziative dei clienti di VC tramite una apposita holding europea di partecipazione e abbiamo fornito il supporto per l’internazionalizzazione e per l’apertura di strutture satellite in Germania, Spagna ed Inghilterra, estendendo il servizio legale corporate alle nuove realtà.<br>Infine, abbiamo curato la vendita dell’azienda (che oggi ha cambiato nome) ad un primario Gruppo internazionale e quindi tutta la contrattualistica relativa all’acquisizione per conto dei venditori.</p>
       </div>
     </div>
   </div>
 </div>
 <div class="row">
   <div class="eleven columns centered">
-    <div style="height:156px;" class="panel contact-box seven columns">
+    <div style="height:200px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
           <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
@@ -83,11 +83,11 @@
         </div>
       </div>
     </div>
-    <div style="width:39.5%; height:156px;" class="panel contact-box columns">
+    <div style="width:39.5%; height:200px;" class="panel contact-box columns">
       <div id="blog-text" style="margin-top:-24px;" class="left">
         <h5> <a href="http://avvocati.net"><b>Avvocati.net</b></a></h5>
-        <p>Il Blog <br>di Lerro&Partners</p>
-      </div><img id="blog-picture" src="http://placehold.it/100x130" style="margin-top:-10px;" class="th right"/>
+        <p><b>IL BLOG DI</b><br>Lerro&Partners</p>
+      </div><img id="blog-picture" src="images/avvocato-lerro.jpg" style="margin-top:0px;" class="th right"/>
     </div>
   </div>
 </div><br/><br><br><br>

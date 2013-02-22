@@ -5,6 +5,7 @@
     </ul>
     <section>
       <ul class="right" id="main-menu">
+        <li><a href="<?php echo $basedir;?>">HOME</a></li>
         <li><a href="profilo.php">PROFILO</a></li>
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>

@@ -22,13 +22,14 @@
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>titolo</title><nav class="top-bar fixed">
+<title>Lerro&amp;Partners - Studio Legale - Roma</title><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" class="hide-for-small"/><img src="images/logo.png" id="logo" class="show-for-small"/></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
     </ul>
     <section>
       <ul class="right" id="main-menu">
+        <li><a href="<?php echo $basedir;?>">HOME</a></li>
         <li><a href="profilo.php">PROFILO</a></li>
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
@@ -58,7 +59,7 @@
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Il nostro profilo professionale è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.</p>
+        <p>Il profilo professionale di Lerro&Partners è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.</p>
       </div>
     </div>
     <div class="four columns">
@@ -69,7 +70,7 @@
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Ci occupiamo di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p>
+        <p>Lerro&Partners si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p>
       </div>
     </div>
     <div class="four columns">
