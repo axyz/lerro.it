@@ -3,7 +3,7 @@ var slogans, testimonial, twitterCB;
 
 slogans = [["DA UN'IDEA A UN'IMPRESA", "slogan-idea-impresa.php"], ["RIPOSIZIONARE UN'AZIENDA", "slogan-riposizionare-azienda.php"], ["LA DIFESA DI UN PATRIMONIO", "slogan-difesa-patrimonio.php"], ["ASSISTERE UN DISABILE", "slogan-assistere-disabile.php"], ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"], ["MONITORAGGIO LEGISLATIVO", "slogan-lobbying.php"]];
 
-testimonial = [["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi"], ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa"]];
+testimonial = [["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi<br/>Fondatore del Festival del Fitness"], ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa<br/>Direttore Generale Arcus s.p.a."], ["…una delle migliori caratteristiche dello Studio Legale L&P è la rapiditá nella formulazione della strategia e nell’esecuzione degli incarichi…", "Domenico Bizzoco<br/>CEO Glovax Asia-Pacific ltd."]];
 
 twitterCB = function(twitters) {
   var avatar, i, status, statusHTML, username;
@@ -36,15 +36,23 @@ $(function() {
         });
       }
     }
-  }, rnd = Math.floor(Math.random() * testimonial.length), $('#testimonial-preview').html(testimonial[rnd][0]), $('#testimonial-preview-cite').html(testimonial[rnd][1]), $('#twitter').orbit({
+  });
+  rnd = Math.floor(Math.random() * (testimonial.length + 1));
+  $('#testimonial-preview').html(testimonial[rnd][0]);
+  $('#testimonial-preview-cite').html(testimonial[rnd][1]);
+  $('#twitter').orbit({
     fluid: '',
     pauseOnHover: false,
     advanceSpeed: 8000,
     timer: true,
     directionalNav: false
-  }), $('body').show(), $("#map-link").toggle((function() {
+  });
+  $('body').show();
+  return $("#map-link").toggle((function() {
     return $("#map").show();
   }), function() {
     return $("#map").hide();
-  }));
+  });
 });
+
+return;

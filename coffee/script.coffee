@@ -7,8 +7,9 @@ slogans = [
   ["MONITORAGGIO LEGISLATIVO", "slogan-lobbying.php"]]
 
 testimonial = [
-  ["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi"]
-  ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa"]]
+  ["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi<br/>Fondatore del Festival del Fitness"]
+  ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa<br/>Direttore Generale Arcus s.p.a."]
+  ["…una delle migliori caratteristiche dello Studio Legale L&P è la rapiditá nella formulazione della strategia e nell’esecuzione degli incarichi…", "Domenico Bizzoco<br/>CEO Glovax Asia-Pacific ltd."]]
 
 twitterCB = (twitters) ->
   statusHTML = []
@@ -29,14 +30,14 @@ twitterCB = (twitters) ->
 
 
 $ ->
-	$('#maximage').maximage
-		cycleOptions:
-			after: (curr, next, opts) ->
+  $('#maximage').maximage
+    cycleOptions:
+      after: (curr, next, opts) ->
         $("#slogan h1").html "<a href ='"+ slogans[opts.currSlide][1] + "'>" + slogans[opts.currSlide][0] + "&nbsp;<i class='icon-circle-arrow-right'></i></a>"
         $("#slogan h1").delay(100).animate({opacity:1}).delay(3500).animate({opacity:0})
         return
 
-  rnd = Math.floor(Math.random()*testimonial.length)
+  rnd = Math.floor(Math.random()*(testimonial.length+1))
   $('#testimonial-preview').html testimonial[rnd][0]
   $('#testimonial-preview-cite').html testimonial[rnd][1]
 

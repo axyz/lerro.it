@@ -163,6 +163,12 @@
     <cite>Ettore Pietrabissa<br/>Direttore Generale Arcus s.p.a.</cite>
   </blockquote>
 
+  <blockquote>
+    <p><i>Napoleone diceva: ‘Lo spazio puó essere recuperato, il tempo mai’.</i></p>
+    <p><i>Questa citazione sottolinea bene l'importanza di una delle migliori caratteristiche dello Studio Legale L&P, cioé la rapiditá nella formulazione della strategia e nell’esecuzione degli incarichi. Questa dote forma un connubio perfetto con la competenza e l’efficacia dei professionisti vi lavorano.</i></p>
+    <cite>Domenico Bizzoco<br/>CEO Glovax Asia-Pacific ltd</cite>
+  </blockquote>
+
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
 	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.js"></script>
