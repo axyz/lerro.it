@@ -45,7 +45,7 @@
   </div>
   <div style="padding-bottom:55%;" class="show-for-portrait"></div>
 </div>
-<div class="row hide-for-small">
+<div class="row">
   <div style="padding-bottom:27%;" class="show-for-landscape"></div>
 </div>
 <div id="content" class="row">
