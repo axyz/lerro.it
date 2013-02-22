@@ -4,7 +4,7 @@ slogans = [
   ["LA DIFESA DI UN PATRIMONIO", "slogan-difesa-patrimonio.php"]
   ["ASSISTERE UN DISABILE", "slogan-assistere-disabile.php"]
   ["GESTISCI LA TUA VITA", "slogan-gestisci-vita.php"]
-  ["LOBBYING", "slogan-lobbying.php"]]
+  ["MONITORAGGIO LEGISLATIVO", "slogan-lobbying.php"]]
 
 testimonial = [
   ["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi"]
