@@ -74,7 +74,7 @@
 </div>
 <div class="row">
   <div class="eleven columns centered">
-    <div style="height:152px;" class="panel contact-box seven columns">
+    <div style="height:156px;" class="panel contact-box seven columns">
       <div id="testimonial" class="testimonial">
         <div>
           <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>

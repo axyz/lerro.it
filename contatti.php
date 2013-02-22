@@ -39,7 +39,7 @@
     </section>
   </nav>
 <div id="maximage"><img src="images/bg/contacts.jpg"/></div>
-<div style="margin-top:18%;" class="row">
+<div style="margin-top:12%;" class="row">
   <div class="four columns">
     <div class="twelve columns panel box-title-fluid">
       <h3>Contatti</h3>
