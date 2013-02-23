@@ -37,7 +37,7 @@ $(function() {
       }
     }
   });
-  rnd = Math.floor(Math.random() * (testimonial.length + 1));
+  rnd = Math.floor(Math.random() * testimonial.length);
   $('#testimonial-preview').html(testimonial[rnd][0]);
   $('#testimonial-preview-cite').html(testimonial[rnd][1]);
   $('#twitter').orbit({
@@ -47,7 +47,6 @@ $(function() {
     timer: true,
     directionalNav: false
   });
-  $('body').show();
   return $("#map-link").toggle((function() {
     return $("#map").show();
   }), function() {

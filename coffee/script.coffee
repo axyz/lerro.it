@@ -37,7 +37,7 @@ $ ->
         $("#slogan h1").delay(100).animate({opacity:1}).delay(3500).animate({opacity:0})
         return
 
-  rnd = Math.floor(Math.random()*(testimonial.length+1))
+  rnd = Math.floor(Math.random()*(testimonial.length))
   $('#testimonial-preview').html testimonial[rnd][0]
   $('#testimonial-preview-cite').html testimonial[rnd][1]
 
@@ -47,8 +47,6 @@ $ ->
     advanceSpeed: 8000
     timer: true
     directionalNav: false
-
-  $('body').show()
 
   $("#map-link").toggle (->
     $("#map").show()
