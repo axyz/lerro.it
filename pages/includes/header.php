@@ -11,12 +11,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/font-awesome.css">
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/jquery.maximage.css">
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/app.css">
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/style.css">
+	<link rel="stylesheet" href="stylesheets/font-awesome.css">
+	<link rel="stylesheet" href="stylesheets/jquery.maximage.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
 
-	<script src="<?php echo $basedir;?>javascripts/foundation/modernizr.foundation.js"></script>
+	<script src="javascripts/foundation/modernizr.foundation.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>

@@ -11,7 +11,7 @@
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
         <li><a href="#">BLOG</a></li>
-        <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
+        <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>
   </nav>

@@ -11,18 +11,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 	<!-- Included CSS Files -->
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/font-awesome.css">
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/jquery.maximage.css">
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/app.css">
-	<link rel="stylesheet" href="<?php echo $basedir;?>stylesheets/style.css">
+	<link rel="stylesheet" href="stylesheets/font-awesome.css">
+	<link rel="stylesheet" href="stylesheets/jquery.maximage.css">
+	<link rel="stylesheet" href="stylesheets/app.css">
+	<link rel="stylesheet" href="stylesheets/style.css">
 
-	<script src="<?php echo $basedir;?>javascripts/foundation/modernizr.foundation.js"></script>
+	<script src="javascripts/foundation/modernizr.foundation.js"></script>
 
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Gestioni Patrimoniali, Trust, Successioni - Studio Legale - Lerro&amp;Partners - Roma</title><nav class="top-bar fixed">
+<title>Gestioni Patrimoniali, Trust, Successioni - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" class="hide-for-small"/><img src="images/logo.png" id="logo" class="show-for-small"/></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -35,7 +36,7 @@
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
         <li><a href="#">BLOG</a></li>
-        <li><a href="<?php echo $basedir;?>contatti.php">CONTATTI</a></li>
+        <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>
   </nav>
@@ -170,52 +171,52 @@
 
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.js"></script>
+	<script src="javascripts/foundation/jquery.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.forms.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.forms.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.topbar.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.topbar.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.event.move.js"></script>
+	<script src="javascripts/foundation/jquery.event.move.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.magellan.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.magellan.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.clearing.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.clearing.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.tooltips.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.tooltips.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.reveal.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.reveal.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.tabs.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.tabs.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.buttons.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.buttons.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.placeholder.js"></script>
+	<script src="javascripts/foundation/jquery.placeholder.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.navigation.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.navigation.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.mediaQueryToggle.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.accordion.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.accordion.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.alerts.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.alerts.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.cookie.js"></script>
+	<script src="javascripts/foundation/jquery.cookie.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.orbit.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.orbit.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.event.swipe.js"></script>
+	<script src="javascripts/foundation/jquery.event.swipe.js"></script>
 	
-	<script src="<?php echo $basedir;?>javascripts/foundation/jquery.foundation.joyride.js"></script>
+	<script src="javascripts/foundation/jquery.foundation.joyride.js"></script>
 	
 
   <!-- Application Javascript, safe to override -->
-  <script src="<?php echo $basedir;?>javascripts/jquery.cycle.all.js"></script>
-  <script src="<?php echo $basedir;?>javascripts/jquery.grid-a-licious.min.js"></script>
-  <script src="<?php echo $basedir;?>javascripts/jquery.maximage.js"></script>
-  <script src="<?php echo $basedir;?>javascripts/foundation/app.js"></script>
+  <script src="javascripts/jquery.cycle.all.js"></script>
+  <script src="javascripts/jquery.grid-a-licious.min.js"></script>
+  <script src="javascripts/jquery.maximage.js"></script>
+  <script src="javascripts/foundation/app.js"></script>
 
-  <script src="<?php echo $basedir;?>javascripts/script.js"></script>
+  <script src="javascripts/script.js"></script>
   <script src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=avvocatwit&include_rts=true&count=4&callback=twitterCB" type="text/javascript"></script> 
 </body>
 </html>
