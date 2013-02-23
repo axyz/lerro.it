@@ -53,4 +53,4 @@ $ ->
   ), ->
     $("#map").hide()
 
-	return
+  return

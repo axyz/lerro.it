@@ -47,11 +47,9 @@ $(function() {
     timer: true,
     directionalNav: false
   });
-  return $("#map-link").toggle((function() {
+  $("#map-link").toggle((function() {
     return $("#map").show();
   }), function() {
     return $("#map").hide();
   });
 });
-
-return;
