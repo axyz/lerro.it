@@ -53,4 +53,6 @@ $ ->
   ), ->
     $("#map").hide()
 
+  $('#maximage').css({"visibility": "visible"})
+
   return

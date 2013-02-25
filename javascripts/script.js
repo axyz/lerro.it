@@ -52,4 +52,7 @@ $(function() {
   }), function() {
     return $("#map").hide();
   });
+  $('#maximage').css({
+    "visibility": "visible"
+  });
 });

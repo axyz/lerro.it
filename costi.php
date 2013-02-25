@@ -51,7 +51,7 @@
 <div id="content" class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-fluid">
-      <p>I nostri servizi professionali sono sempre concordati in un Contratto (scaricabile) e i compensi sono pattuiti prima dell’inizio del lavoro, sulla base di un preventivo scritto, che forma parte integrante del Contratto. Ciò avviene anche per servizi professionali di modesta entità.</p>
+      <p>I nostri servizi professionali sono sempre concordati in un Contratto e i compensi sono pattuiti prima dell’inizio del lavoro, sulla base di un preventivo scritto, che forma parte integrante del Contratto. Ciò avviene anche per servizi professionali di modesta entità.</p>
       <p>Talora per redigere un preventivo è necessaria un’analisi preliminare del caso che, salvo diversi accordi, non viene addebitata al cliente.</p>
       <p>In considerazione dell’abolizione delle tariffe professionali obbligatorie (art. 9 del decreto legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27) i compensi sono concordati con il cliente secondo una delle seguenti formule:</p>
       <div style="padding-left:4em;">

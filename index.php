@@ -60,7 +60,7 @@
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Il profilo professionale di Lerro&Partners è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.</p>
+        <p>Il profilo professionale di <b>Lerro&Partners</b> è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.</p>
       </div>
     </div>
     <div class="four columns">
@@ -71,7 +71,7 @@
             &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
       </div>
       <div class="box panel">
-        <p>Lerro&Partners si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p>
+        <p><b>Lerro&Partners</b> si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p>
       </div>
     </div>
     <div class="four columns">

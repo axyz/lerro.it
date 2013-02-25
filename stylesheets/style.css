@@ -1,3 +1,6 @@
+#maximage {
+  visibility: hidden;
+}
 #main-menu {
   background-color: rgba(2,2,2,0);
 }
