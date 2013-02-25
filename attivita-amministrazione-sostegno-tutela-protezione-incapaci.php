@@ -219,6 +219,6 @@
   <script src="javascripts/foundation/app.js"></script>
 
   <script src="javascripts/script.js"></script>
-  <script src="http://api.twitter.com/1/statuses/user_timeline.json?screen_name=avvocatwit&include_rts=true&count=4&callback=twitterCB" type="text/javascript"></script> 
+  <script src="http://api.twitter.com/1/lists/statuses.json?slug=lerro-it&owner_screen_name=lerro_it&count=5&callback=twitterCB" type="text/javascript"></script> 
 </body>
 </html>
