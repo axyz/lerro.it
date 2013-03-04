@@ -24,7 +24,7 @@ twitterCB = function(twitters) {
 };
 
 $(function() {
-  var rnd;
+  var currentPage, rnd;
   $('#maximage').maximage({
     cycleOptions: {
       after: function(curr, next, opts) {
@@ -55,4 +55,6 @@ $(function() {
   $('#maximage').css({
     "visibility": "visible"
   });
+  currentPage = window.location.pathname.substring(window.location.pathname.lastIndexOf('/') + 1);
+  $('a[href="' + currentPage + '"]').addClass("selected-item");
 });

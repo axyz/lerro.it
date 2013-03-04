@@ -55,4 +55,8 @@ $ ->
 
   $('#maximage').css({"visibility": "visible"})
 
+  currentPage = window.location.pathname.substring(window.location.pathname.lastIndexOf('/') + 1)
+
+  $('a[href="' + currentPage + '"]').addClass "selected-item"
+
   return

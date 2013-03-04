@@ -15,7 +15,7 @@
   top: 0;
 }
 .top-bar.expanded {
-  background-color: rgba(20,20,20,0.85);
+  background-color: rgba(70,70,70,0.85);
 }
 .top-bar.expanded section {
   -webkit-box-shadow: 3px;
@@ -85,6 +85,12 @@
 ul.side-nav li {
   border-bottom: 2px solid #ccc;
 }
+ul.side-nav li .selected-item {
+  font-weight: bold;
+}
+ul.side-nav li .selected-item:before {
+  content: "> ";
+}
 .testimonial blockquote {
   line-height: 1.5em;
 }
@@ -120,7 +126,7 @@ ul.side-nav li {
   margin-top: -9.4%;
 }
 #footer {
-  background-color: rgba(2,2,2,0.8);
+  background-color: rgba(70,70,70,0.85);
   color: #fafafa;
   padding-top: 10px;
   position: fixed;
@@ -143,6 +149,9 @@ ul.side-nav li {
   .box {
     height: 160px;
   }
+  #logo2 {
+    left: 3em;
+  }
 }
 @media (min-width: 1024px) {
   .top-bar ul li a:not(.button) {
@@ -153,6 +162,9 @@ ul.side-nav li {
   }
 }
 @media (max-width: 1024px) {
+  .top-bar {
+    background-color: rgba(70,70,70,0.85);
+  }
   #logo {
     height: 66%;
     margin-top: 10px;

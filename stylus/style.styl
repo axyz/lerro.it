@@ -18,7 +18,7 @@
 	top 0
 
 .top-bar.expanded
-	background-color rgba(20, 20, 20, 0.85)
+	background-color palette-dark-transparent
 	section
 		ul
 			margin-top 1em
@@ -77,6 +77,11 @@ ul.side-nav
 	li
 		border-bottom 2px solid #CCCCCC
 
+		.selected-item
+			&:before
+				content "> "
+			font-weight bold
+
 .testimonial
 	blockquote
 		line-height 1.5em
@@ -131,6 +136,9 @@ ul.side-nav
 	.box
 		height 160px
 
+	#logo2
+		left 3em
+
 @media (min-width: 1024px)
 	.top-bar
 		ul
@@ -142,6 +150,9 @@ ul.side-nav
 		height 110px
 
 @media (max-width: 1024px)
+	.top-bar
+		background-color palette-dark-transparent
+
 	#logo
 		height 66%
 		margin-top 10px
