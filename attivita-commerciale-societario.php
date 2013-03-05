@@ -35,7 +35,7 @@
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
-        <li><a href="#">BLOG</a></li>
+        <li><a href="http://avvocati.net">BLOG</a></li>
         <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>
@@ -65,7 +65,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Commerciale E Societario<small>&nbsp;</small></h3>
+        <h3>Commerciale e Societario<small>&nbsp;</small></h3>
         <p>La Corporate Governance è una tradizionale area di attività di L&P, attento al dibattito internazionale in materia di trasparenza nella gestione dell'impresa. Oltre a seguire problematiche societarie di gruppi internazionali e imprese di tipo tradizionale, lo Studio ha analizzato e implementato strutture di joint venture, società e gruppi, con l'obiettivo di garantire la massima efficienza e tutela dell'interesse degli azionisti e degli investitori. </p>
         <p>Seguendo i propri Clienti dal momento genetico dell'impresa fino alla eventuale fase di liquidazione, L&P cura ogni aspetto dell'organizzazione societaria e le problematiche connesse con i necessari adempimenti. In particolare, lo Studio ha consolidato una rilevante esperienza nella redazione e successiva gestione di accordi parasociali, contribuendo alla corretta allocazione dei poteri decisionali e di controllo, curando le regolamentazioni degli equilibri partecipativi e disegnando strategie di uscita programmata.</p>
         <p>Nei rapporti dell'impresa con il mercato, l'esperienza maturata consente a L&P di prestare completa assistenza nei diversi settori della contrattualistica commerciale, nelle problematiche di carattere giuslavoristico e nell'intellectual property, impiegando strumenti contrattuali atipici e innovativi.</p>

@@ -35,7 +35,7 @@
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
-        <li><a href="#">BLOG</a></li>
+        <li><a href="http://avvocati.net">BLOG</a></li>
         <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>

@@ -35,7 +35,7 @@
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
-        <li><a href="#">BLOG</a></li>
+        <li><a href="http://avvocati.net">BLOG</a></li>
         <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>
@@ -51,7 +51,7 @@
 <div id="content" class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-fluid">
-      <p>Lo studio legale Lerro&Partners ha sede a Roma ed intrattiene stabili relazioni con validi professionisti in Italia ed in Europa, in modo da poter offrire al Cliente la massima copertura nazionale ed estera consentendo una ottimizzazione dei costi. L’italiano e l’inglese sono le lingue di lavoro correnti dello Studio, che ha sempre avuto una forte vocazione internazionale.</p>
+      <p>Lo Studio legale Lerro&Partners ha sede a Roma ed intrattiene stabili relazioni con validi professionisti in Italia ed in Europa, in modo da poter offrire al Cliente la massima copertura nazionale ed estera consentendo una ottimizzazione dei costi. L’italiano e l’inglese sono le lingue di lavoro correnti dello Studio, che ha sempre avuto una forte vocazione internazionale.</p>
       <p>L&P si fonda sulla ultraventennale esperienza del Senior Partner, che dopo circa dieci anni di lavoro in importanti studi ha creato la propria struttura professionale, portando con sé significative esperienze maturate nell’assistenza sia di privati che di noti personaggi e multinazionali.</p>
       <p>Punti di forza di L&P sono la visione strategica, l'alta preparazione tecnica, la rapidità e l'efficienza nella gestione degli incarichi, la capacità di dialogare con le più diverse competenze professionali; caratteristiche che hanno determinato lo sviluppo di elevate capacità negoziali e strategiche nelle diverse aree di attività.</p>
       <p>Oltre ad una consistente attività stragiudiziale e negoziale, lo Studio patrocina il contenzioso in sede ordinaria, arbitrale e davanti alle Magistrature Superiori e alla Corte di Giustizia dell’Unione Europea. </p>

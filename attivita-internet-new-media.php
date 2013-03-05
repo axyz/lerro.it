@@ -35,7 +35,7 @@
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
-        <li><a href="#">BLOG</a></li>
+        <li><a href="http://avvocati.net">BLOG</a></li>
         <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>
@@ -65,7 +65,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Internet E New Media<small>&nbsp;</small></h3>
+        <h3>Internet e New Media<small>&nbsp;</small></h3>
         <p>Nel periodo dell’esplosione della new economy abbiamo assistito diverse società che hanno approcciato internet come unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
         <p>L’esperienza in materia di brevetti e copyright ci ha consentito di affrontare con le giuste competenze questo nuovo mondo e la componente societaria/finanziaria è stata il complemento ideale agli strumenti del mestiere necessari per assistere le aziende del settore, dal momento che quasi tutti i progetti vengono affrontati con supporto di venture capital.</p>
         <p>L’evoluzione dei media ha portato con sé la disciplina della privacy, con la moltitudine di diritti, cautele, adempimenti imposti nella gestione dei dati personali.</p>

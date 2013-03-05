@@ -35,7 +35,7 @@
         <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
         <li><a href="esperienza.php">STORIE</a></li>
         <li><a href="costi.php">COSTI</a></li>
-        <li><a href="#">BLOG</a></li>
+        <li><a href="http://avvocati.net">BLOG</a></li>
         <li><a href="contatti.php">CONTATTI</a></li>
       </ul>
     </section>
@@ -65,7 +65,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Proprietà Intellettuale E Concorrenza<small>&nbsp;</small></h3>
+        <h3>Proprietà Intellettuale e Concorrenza<small>&nbsp;</small></h3>
         <p>Marchi, brevetti, copyright, database e i differenti tipi di proprietà intellettuale sono parte essenziale del processo di creazione del valore. Con questa consapevolezza, lo Studio è stato coinvolto in importanti negoziazioni, risolvendo problematiche relative ai vari livelli della catena distributiva. </p>
         <p>Nel settore dei marchi, L&P è frequentemente impegnato in progetti relativi a prodotti commerciali e del settore della moda, inclusi contratti pubblicitari e relativi a testimonial provenienti dal mondo dello spettacolo e dello sport, con le relative esigenze di protezione dell’identità personale.</p>
         <p>L’assistenza può comprendere registrazione e protezione internazionale di marchi e nomi a dominio.</p>
