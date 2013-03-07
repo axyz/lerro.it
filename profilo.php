@@ -154,6 +154,11 @@
     <cite>Domenico Bizzoco<br/>CEO Glovax Asia-Pacific ltd</cite>
   </blockquote>
 
+  <blockquote>
+    <p><i>L’avv. Lerro si è guadagnato nel tempo la mia grande stima e fiducia, dimostrando in molteplici occasioni di non gestire mai il caso prospettato con un approccio limitato al proprio ruolo istituzionale, ma fornendomi sempre un chiaro e preciso dettaglio di tutte le possibili implicazioni per ogni scenario di soluzione presentatomi. La notevole esperienza, la competenza nell’affrontare anche materie estremamente tecniche e complesse, unitamente alla sua personale attitudine ad un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive e di sentirmi sempre protetto ed in buone mani. Le soluzioni presentate ed i risultati ottenuti, hanno sempre dimostrato la sua cura ed attenzione ad una valutazione a 360° del problema, senza mai trascurare gli aspetti economici e fiscali.  La percezione e la dimostrazione che il “mio” problema era un “suo” problema e che il mio caso e la mia Azienda non erano solo “un caso da trattare”, mi hanno portato ad affidargli i miei casi aziendali con fiducia.</i></p>
+    <cite>Vincenzo Santoni<br/>Fondatore Proras s.r.l.</cite>
+  </blockquote>
+
   <a class="close-reveal-modal">&#215;</a>
 </div><!-- Included JS Files (Uncompressed) -->
 	<script src="javascripts/foundation/jquery.js"></script>
