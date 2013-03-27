@@ -10,7 +10,7 @@ testimonial = [
   ["…sicurezza, determinazione e chiara visione  di come affrontare la situazione in un perfetto equilibrio fra ‘fatto’ e ‘diritto’…", "Gabriele Brustenghi<br/>Fondatore del Festival del Fitness"]
   ["…una evidente, profonda competenza legale; assoluta prontezza di intervento, che conferisce grande e immediata affidabilità alla sua azione…", "Ettore Pietrabissa<br/>Direttore Generale Arcus s.p.a."]
   ["…una delle migliori caratteristiche dello Studio Legale L&P è la rapiditá nella formulazione della strategia e nell’esecuzione degli incarichi…", "Domenico Bizzoco<br/>CEO Glovax Asia-Pacific ltd."]
-  ["…La sua personale attitudine ad un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive…","Vincenzo Santoni<br/>Fondatore Proras s.r.l."]]
+  ["…La sua personale attitudine ed un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive…","Vincenzo Santoni<br/>Fondatore Proras s.r.l."]]
 
 twitterCB = (twitters) ->
   statusHTML = []

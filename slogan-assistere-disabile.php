@@ -62,7 +62,7 @@
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Assistere Un Disabile<small>&nbsp;</small></h3>
+        <h3>Assistere un disabile<small>&nbsp;</small></h3>
         <p>Troppo spesso la disabilità, fisica o mentale, è vista come un problema da nascondere e non come una situazione da affrontare, con la conseguenza che ci si ritrova a cercare risposte transitorie e puntuali per l’incidente del momento, invece che soluzioni complessive che consentano di affrontare il futuro con maggior serenità. I familiari di un disabile si trovano dinanzi ad un muro, a chiedersi come faranno ad assisterlo, per quanto tempo, come combinare i propri impegni con le esigenze assistenziali.</p>
         <p>L’assistenza del disabile è oggi agevolata dalla figura dell’amministratore di sostegno, oltre a quella tradizionale del tutore. Tuttavia si tratta di una figura non professionale, affettivamente vicina al disabile ed in grado di interpretarne al meglio desideri ed aspirazioni.</p>
         <p>Accanto all’amministratore di sostegno è spesso necessaria una figura professionalmente qualificata, per assisterlo nella esecuzione del suo compito al meglio. Per molti atti è necessario comunque interloquire con il Giudice Tutelare o il Tribunale; per molti altri è opportuna un’assistenza qualificata che metta al riparo l’amministratore di sostegno e l’assistito da errori o incidenti di percorso, assicurando la miglior collaborazione nel perseguimento degli interessi del disabile.</p>
@@ -92,7 +92,7 @@
 
 <div id="legal" class="reveal-modal large">
   <h3>Legal</h3>
-  <p>Lerro&amp;Partners (di seguito, “L&amp;P”) è un’associazione professionale con sede legale in Roma, via G. Severano 5, e sede operativa in Roma, via Famiano Nardini 1/C, iscritta presso il Consiglio dell’Ordine degli Avvocati di Roma P. IVA 08009971006 soggetta al Codice Deontologico Forense e alla Legge Professionale vigente.</p>
+  <p>Lerro&amp;Partners (di seguito, “L&amp;P”) è un’associazione professionale con sede legale in Roma, via G. Severano 5, e sede operativa in Roma, via Famiano Nardini 1/C, iscritta presso il Consiglio dell’Ordine degli Avvocati di Roma P. IVA 08009971006 soggetta al Codice Deontologico Forense e alla Legge Professionale vigente. I professionisti associati, titolari dello Studio, sono l'avv. ALessandro Maria Lerro e l'avv. Lia Ruozi Berretta.</p>
   <p>I contenuti disponibili sul Sito non costituiscono in alcun modo consulenza legale e non si sostituiscono in alcun modo alla necessaria consulenza e assistenza legale.</p>
   <p>I casi riportati sono pubblici ed i relativi fatti e nomi sono apparsi sulla stampa o su pubblicazioni specialistiche, o i soggetti coinvolti hanno espressamente autorizzato la relativa menzione sul Sito.</p>
   <p>Il sito www.lerro.it ed i contenuti relativi  sono di proprietà esclusiva di Lerro&amp;Partners e sono protetti dalla normativa vigente in materia di tutela del diritto d’autore.</p>
@@ -148,7 +148,7 @@
   </blockquote>
 
   <blockquote>
-    <p><i>L’avv. Lerro si è guadagnato nel tempo la mia grande stima e fiducia, dimostrando in molteplici occasioni di non gestire mai il caso prospettato con un approccio limitato al proprio ruolo istituzionale, ma fornendomi sempre un chiaro e preciso dettaglio di tutte le possibili implicazioni per ogni scenario di soluzione presentatomi. La notevole esperienza, la competenza nell’affrontare anche materie estremamente tecniche e complesse, unitamente alla sua personale attitudine ad un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive e di sentirmi sempre protetto ed in buone mani. Le soluzioni presentate ed i risultati ottenuti, hanno sempre dimostrato la sua cura ed attenzione ad una valutazione a 360° del problema, senza mai trascurare gli aspetti economici e fiscali.  La percezione e la dimostrazione che il “mio” problema era un “suo” problema e che il mio caso e la mia Azienda non erano solo “un caso da trattare”, mi hanno portato ad affidargli i miei casi aziendali con fiducia.</i></p>
+    <p><i>L’avv. Lerro si è guadagnato nel tempo la mia grande stima e fiducia, dimostrando in molteplici occasioni di non gestire mai il caso prospettato con un approccio limitato al proprio ruolo istituzionale, ma fornendomi sempre un chiaro e preciso dettaglio di tutte le possibili implicazioni per ogni scenario di soluzione presentatomi. La notevole esperienza, la competenza nell’affrontare anche materie estremamente tecniche e complesse, unitamente alla sua personale attitudine ed un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive e di sentirmi sempre protetto ed in buone mani. Le soluzioni presentate ed i risultati ottenuti, hanno sempre dimostrato la sua cura ed attenzione ad una valutazione a 360° del problema, senza mai trascurare gli aspetti economici e fiscali.  La percezione e la dimostrazione che il “mio” problema era un “suo” problema e che il mio caso e la mia Azienda non erano solo “un caso da trattare”, mi hanno portato ad affidargli i miei casi aziendali con fiducia.</i></p>
     <cite>Vincenzo Santoni<br/>Fondatore Proras s.r.l.</cite>
   </blockquote>
 
@@ -201,5 +201,20 @@
 
   <script src="javascripts/script.js"></script>
   <script src="http://api.twitter.com/1/lists/statuses.json?slug=lerro-it&owner_screen_name=lerro_it&count=5&callback=twitterCB" type="text/javascript"></script> 
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38746985-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script>
+
 </body>
 </html>

@@ -53,21 +53,21 @@
     <div class="twelve columns panel box-fluid">
       <div class="four columns">
         <ul class="side-nav">
-          <li> <a href="esperienza-venture-consulting.php">VENTURE CONSULTING</a></li>
-          <li> <a href="esperienza-proras-vs-ce.php">PRORAS VS. UNIONE EUROPEA</a></li>
-          <li> <a href="esperienza-ciappetta.php">CIAPPETTA VS. MIN. GIUSTIZIA</a></li>
-          <li> <a href="esperienza-perry-ellis.php">PERRY ELLIS</a></li>
-          <li> <a href="esperienza-ok-salute.php">OK SALUTE</a></li>
-          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">AGUSTA S.P.A.</a></li>
-          <li> <a href="esperienza-biopolis.php">BIOPOLIS</a></li>
+          <li> <a href="esperienza-venture-consulting.php">GRUPPO DI MANAGEMENT CONSULTING</a></li>
+          <li> <a href="esperienza-proras-vs-ce.php">AZIENDA VS. UNIONE EUROPEA</a></li>
+          <li> <a href="esperienza-ciappetta.php">DETENUTO VS. MIN. GIUSTIZIA</a></li>
+          <li> <a href="esperienza-perry-ellis.php">AZIENDA SPORTIVA</a></li>
+          <li> <a href="esperienza-ok-salute.php">AZIENDA WEB</a></li>
+          <li> <a href="esperienza-agusta-spa-responsabilita-amministratori.php">RESPONSABILITÀ AMMINISTRATORI</a></li>
+          <li> <a href="esperienza-biopolis.php">START UP BIOTECH</a></li>
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
       <div class="eight columns">
-        <h3>Proras vs. Unione Europea<small>&nbsp;</small></h3>
-        <p>Proras s.r.l. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
+        <h3>Azienda vs. Unione Europea<small>&nbsp;</small></h3>
+        <p>P. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
         <p>In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.</p>
-        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile (T-197/03) innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. All’esito di un complesso giudizio abbiamo ottenuto non solo la piena riabilitazione del Cliente, ma anche la prima condanna giudiziaria della Commissione Europea a pagare un risarcimento, peraltro piuttosto rilevante, in favore di una società privata.</p>
+        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. Nelle more del giudizio abbiamo ottenuto un risarcimento, peraltro piuttosto rilevante.</p>
       </div>
     </div>
   </div>
@@ -112,7 +112,7 @@
 
 <div id="legal" class="reveal-modal large">
   <h3>Legal</h3>
-  <p>Lerro&amp;Partners (di seguito, “L&amp;P”) è un’associazione professionale con sede legale in Roma, via G. Severano 5, e sede operativa in Roma, via Famiano Nardini 1/C, iscritta presso il Consiglio dell’Ordine degli Avvocati di Roma P. IVA 08009971006 soggetta al Codice Deontologico Forense e alla Legge Professionale vigente.</p>
+  <p>Lerro&amp;Partners (di seguito, “L&amp;P”) è un’associazione professionale con sede legale in Roma, via G. Severano 5, e sede operativa in Roma, via Famiano Nardini 1/C, iscritta presso il Consiglio dell’Ordine degli Avvocati di Roma P. IVA 08009971006 soggetta al Codice Deontologico Forense e alla Legge Professionale vigente. I professionisti associati, titolari dello Studio, sono l'avv. ALessandro Maria Lerro e l'avv. Lia Ruozi Berretta.</p>
   <p>I contenuti disponibili sul Sito non costituiscono in alcun modo consulenza legale e non si sostituiscono in alcun modo alla necessaria consulenza e assistenza legale.</p>
   <p>I casi riportati sono pubblici ed i relativi fatti e nomi sono apparsi sulla stampa o su pubblicazioni specialistiche, o i soggetti coinvolti hanno espressamente autorizzato la relativa menzione sul Sito.</p>
   <p>Il sito www.lerro.it ed i contenuti relativi  sono di proprietà esclusiva di Lerro&amp;Partners e sono protetti dalla normativa vigente in materia di tutela del diritto d’autore.</p>
@@ -168,7 +168,7 @@
   </blockquote>
 
   <blockquote>
-    <p><i>L’avv. Lerro si è guadagnato nel tempo la mia grande stima e fiducia, dimostrando in molteplici occasioni di non gestire mai il caso prospettato con un approccio limitato al proprio ruolo istituzionale, ma fornendomi sempre un chiaro e preciso dettaglio di tutte le possibili implicazioni per ogni scenario di soluzione presentatomi. La notevole esperienza, la competenza nell’affrontare anche materie estremamente tecniche e complesse, unitamente alla sua personale attitudine ad un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive e di sentirmi sempre protetto ed in buone mani. Le soluzioni presentate ed i risultati ottenuti, hanno sempre dimostrato la sua cura ed attenzione ad una valutazione a 360° del problema, senza mai trascurare gli aspetti economici e fiscali.  La percezione e la dimostrazione che il “mio” problema era un “suo” problema e che il mio caso e la mia Azienda non erano solo “un caso da trattare”, mi hanno portato ad affidargli i miei casi aziendali con fiducia.</i></p>
+    <p><i>L’avv. Lerro si è guadagnato nel tempo la mia grande stima e fiducia, dimostrando in molteplici occasioni di non gestire mai il caso prospettato con un approccio limitato al proprio ruolo istituzionale, ma fornendomi sempre un chiaro e preciso dettaglio di tutte le possibili implicazioni per ogni scenario di soluzione presentatomi. La notevole esperienza, la competenza nell’affrontare anche materie estremamente tecniche e complesse, unitamente alla sua personale attitudine ed un approccio approfondito e personalizzato, mi hanno permesso di valutare il problema da inaspettate prospettive e di sentirmi sempre protetto ed in buone mani. Le soluzioni presentate ed i risultati ottenuti, hanno sempre dimostrato la sua cura ed attenzione ad una valutazione a 360° del problema, senza mai trascurare gli aspetti economici e fiscali.  La percezione e la dimostrazione che il “mio” problema era un “suo” problema e che il mio caso e la mia Azienda non erano solo “un caso da trattare”, mi hanno portato ad affidargli i miei casi aziendali con fiducia.</i></p>
     <cite>Vincenzo Santoni<br/>Fondatore Proras s.r.l.</cite>
   </blockquote>
 
@@ -221,5 +221,20 @@
 
   <script src="javascripts/script.js"></script>
   <script src="http://api.twitter.com/1/lists/statuses.json?slug=lerro-it&owner_screen_name=lerro_it&count=5&callback=twitterCB" type="text/javascript"></script> 
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38746985-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+	</script>
+
 </body>
 </html>
