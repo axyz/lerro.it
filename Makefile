@@ -3,7 +3,7 @@ ACTIVE_MODULES=jade compass stylus coffee
 all: $(ACTIVE_MODULES)
 
 jade: 
-	for file in pages/*.jade; do jade $$file --pretty; done
+	for file in pages/*.jade; do node_modules/.bin/jade $$file --pretty; done
 	for file in pages/*.html; do mv "$$file" "$${file/%.html/.php}"; done
 	for file in pages/*.php; do mv $$file .; done
 
@@ -11,10 +11,10 @@ compass:
 	bundle exec compass compile
 
 stylus:
-	stylus stylus/style.styl -o stylesheets/
+	node_modules/.bin/stylus stylus/style.styl -o stylesheets/
 
 coffee:
-	coffee --bare -o javascripts/ -c coffee/*.coffee
+	node_modules/.bin/coffee --bare -o javascripts/ -c coffee/*.coffee
 
 clean:
 	-for file in pages/*.jade; do f=$${file#*/}; rm $${f%.*}.php; done
