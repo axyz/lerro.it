@@ -8,7 +8,7 @@ jade:
 	for file in pages/*.php; do mv $$file .; done
 
 compass:
-	compass compile
+	bundle exec compass compile
 
 stylus:
 	stylus stylus/style.styl -o stylesheets/
