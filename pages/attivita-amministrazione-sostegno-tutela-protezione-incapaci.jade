@@ -1,6 +1,16 @@
 include includes/header.php
 include mixins/meta-tags
+
+<?php if($_GET['lang'] == "en") { ?>
+
+mixin meta-tags("Protection of Minors and Non Compos Mentis - Law Firm - Rome")
+
+<?php } else { ?>
+
 mixin meta-tags("Protezione Degli Incapaci - Studio Legale - Lerro&Partners - Roma")
+
+<?php } ?>
+
 include includes/nav.php
 
 #maximage
