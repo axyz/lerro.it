@@ -24,12 +24,20 @@ br
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			p Lerro&Partners is a law firm based in Rome and maintains stable relationships with accomplished professionals in Italy and Europe, in order to offer the client maximum national and foreign coverage thereby facilitating cost optimization. Italian and English are the working languages ​​of our practice, which has always had a strong international vocation.
+			p Lerro&Partners relies on the more than twenty years of experience of the senior partner, who after ten years of working with major firms has created his own professional structure, enriched by his significant experience in representing well-known private as well as multinational clients.
+			p Our strengths are our strategic perspective, highly technical skills, speed and efficiency in the management of assignments and the ability to communicate with professionals in several fields other than legal; these characteristics have led to the development of high strategic and negotiation skills in different areas of activity.
+			p In addition to substantial extra-judicial and negotiation activities, Lerro&Partners attends to litigation before ordinary instances, arbitration and before the High Courts and the Court of Justice of the European Union.
+			p Experience has shown that, regardless of the economic importance or the legal difficulty, a legal issue can seriously affect the life of the client.
+			p Therefore, our approach is proactive and of outstanding quality, in order to achieve a perfect understanding of the client’s needs with calm, empathy, honesty and clarity discussing all aspects of the case, to identify clear and shared solutions even where it seems impossible.
+			<?php } else { ?>
 			p Lo Studio legale Lerro&Partners ha sede a Roma ed intrattiene stabili relazioni con validi professionisti in Italia ed in Europa, in modo da poter offrire al Cliente la massima copertura nazionale ed estera consentendo una ottimizzazione dei costi. L’italiano e l’inglese sono le lingue di lavoro correnti dello Studio, che ha sempre avuto una forte vocazione internazionale.
 			p L&P si fonda sulla ultraventennale esperienza del Senior Partner, che dopo circa dieci anni di lavoro in importanti studi ha creato la propria struttura professionale, portando con sé significative esperienze maturate nell’assistenza sia di privati che di noti personaggi e multinazionali.
 			p Punti di forza di L&P sono la visione strategica, l'alta preparazione tecnica, la rapidità e l'efficienza nella gestione degli incarichi, la capacità di dialogare con le più diverse competenze professionali; caratteristiche che hanno determinato lo sviluppo di elevate capacità negoziali e strategiche nelle diverse aree di attività.
 			p Oltre ad una consistente attività stragiudiziale e negoziale, lo Studio patrocina il contenzioso in sede ordinaria, arbitrale e davanti alle Magistrature Superiori e alla Corte di Giustizia dell’Unione Europea. 
 			p L’esperienza ci ha dimostrato che una problematica legale, a prescindere dall’importanza economica o dalla difficoltà giuridica, può incidere seriamente sulla vita del Cliente.<br>Lo spirito di lavoro è pertanto improntato alla proattività e all'eccellenza qualitativa, al fine di raggiungere la perfetta comprensione delle esigenze del Cliente con serenità, immedesimazione, sincerità e chiarezza nella discussione di tutti i profili del caso, per trovare soluzioni chiare e condivise anche laddove ciò sembra impossibile.
-
+			<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial
