@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Directors' Responsibility - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Augusta S.p.a. - Responsabilità Degli Amministratori - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,11 +66,15 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Directors' Responsibility<small>&nbsp;</small></h3>
+        <p>Following the liquidation of a large public industrial Group, the Liquidator initiated an action for damages in civil responsibility of the top management of the Group and of some of the associated companies. We have dealt with one of these cases, which saw the liquidation management of the Company opposed to about 30 former directors and executives of A. spa (including our clients) as well as the independent auditors, with a claim for damages of just under 2000 billion lire (i.e. approximately one billion euro).</p>
+        <p>It was an extremely delicate dispute both with respect to the very considerable amount of damages requested as well as for the need to reconstruct, after many years, the decision-making and governance of one of the largest Italian public entities and its subsidiaries, leaders in their respective markets. Indeed, the existence of the profiles of guilt attributed to the management depended on the reconstruction of the decision-making processes within the holding system.</p>
+        <p>The litigation before the Court of Busto Arsizio, was successfully completed for our clients, with the renunciation of all claims by the Plaintiff.</p><?php } else { ?>
         <h3>Responsabilità Amministratori<small>&nbsp;</small></h3>
         <p>In seguito alla liquidazione di un grande gruppo industriale pubblico, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate. Ci siamo occupati di una di queste vicende, che vedevano la gestione liquidatoria dell’Ente opposta a circa 30 dirigenti ed ex amministratori di A. s.p.a. (tra i quali i nostri assistiti) oltre alle società di revisione, con una pretesa risarcitoria di poco inferiore ai 2.000 miliardi di lire (cioè circa un miliardo di euro).</p>
         <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, proprio dalla ricostruzione dei processi decisionali interni al sistema di holding dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
-        <p>Il contenzioso, innanzi al Tribunale di Busto Arsizio, si è concluso positivamente per i nostri assistiti, con la rinuncia dell'Ente ad ogni pretesa risarcitoria.</p>
+        <p>Il contenzioso, innanzi al Tribunale di Busto Arsizio, si è concluso positivamente per i nostri assistiti, con la rinuncia dell'Ente ad ogni pretesa risarcitoria.</p><?php } ?>
       </div>
     </div>
   </div>

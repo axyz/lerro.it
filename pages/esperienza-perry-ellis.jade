@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
-mixin meta-tags("Perry Ellis - Studio Legale - Lerro&Partners - Roma")
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Sports Company - Law Firm - Rome")
+<?php } else { ?>
+mixin meta-tags("Azienda Sportiva - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,20 +18,32 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 CASE HISTORIES
+			<?php } else { ?>
 			h3 STORIE
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/esperienza-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Sports Company
+					small &nbsp;
+				p Among the many cases of counterfeiting of fashion trademarks and creations, the case of P. was particularly challenging. It is a brand of sports shoes which has experienced a period of strong growth in Italy, before falling victim to serious amounts of counterfeiting and parallel importation.
+				p We were instructed to carry out precautionary measures (injunctions and seizures) throughout Italy and to follow the procedures laid down by Customs to stem these illicit activities.
+				p We also coordinated a team of consultants who were responsible for tracing the sources of counterfeiting in order to ensure immediate action along with the valuable support of the Emergency Operation Command of the Guardia di Finanza. Precautionary measures were followed by suits to demand damages.
+				p This case is emblematic of how important a pre-existing legal structure is in the planning phase of the strategic conceptualization of an entrepreneurial venture. Had the relationship between the brand owner, licensee, producer and distributor followed a predetermined logic, it would have been much more difficult for counterfeiters or unfair competitors to insinuate themselves.
+				<?php } else { ?>
 				h3 Azienda Sportiva
 					small &nbsp;
 				p Tra i molti casi di contraffazione di marchi e creazioni della moda, il caso di P. è stato particolarmente impegnativo: si tratta di un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, pesantemente vittima di contraffazioni ed importazioni parallele.
 				p Siamo stati incaricati di eseguire in tutta Italia azioni cautelari (inibitorie e sequestri) e di seguire con le dogane i procedimenti previsti per arginare queste azioni illecite.
 				p Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza. Alle azioni cautelari sono seguite le azioni risarcitorie. 
 				p Questo caso è emblematico di come sia importante una pianificazione legale già nella fase di concezione strategica di un’iniziativa imprenditoriale. Ove i rapporti tra proprietario del marchio, licenziatario, produttore e distributori avessero seguito una logica predeterminata sarebbe stato ben più difficile per i contraffattori o per concorrenti sleali trovare nel sistema delle piccole falle nelle quali insinuarsi. 
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

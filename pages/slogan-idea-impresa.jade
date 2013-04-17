@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Turning ideas into business - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Da Un’idea A Un’impresa - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,13 +18,26 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 PROJECTS
+			<?php } else { ?>
 			h3 PROGETTI
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/slogan-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Turning ideas into business
+					small &nbsp;
+				p Having a good business idea is not easy, turning it into an enterprise is even harder. The idea must be developed, tested, compared with suppliers, potential clients, industry experts. In many cases, the idea can be protected, where the legal system confers particular characteristics to it, for example: an invention, a design, a work of art, a brand, an advertising idea. In other cases, the idea is not independently protectable as an intangible asset, then it must be protected with a series of legal safeguards that oblige the parties to the contract not to disclose or use it.
+				p Then one moves to the execution phase: you set up and enterprise, usually a company, and the agreements with the shareholders are reached in writing: it is always good to first clarify what will be the future of the company, to ensure that a good business venture does not cause the end of a friendship or the ruin of the proposal due to personal friction resulting from an initial lack of clarity.
+				p At this stage it is common to find investors who contribute risk capital to provide the necessary financial contributions, and the conclusion of agreements with them, which will allow the healthy development of the company. Likewise, you may make use of various forms of existing incentives. You have to structure the company contracts for clients, verifying business and critical processes, in order to proceed to the allocation of risks in accordance with the provisions of the law.
+				p On the internal front, you need to organize resources in a manner consistent with the company's business model, efficiently and economically, and negotiate relationships with suppliers.
+				p Large companies often use, strategy and management consultants, experts in start-ups, competitive positioning and management of processes for this phase. If unable to have the resources for a strategic advisor for smaller companies, it is still important to at least consult with a legal expert to avoid making mistakes that can slow or stop the growth or development of the project.
+				<?php } else { ?>
 				h3 Da un’idea a un’impresa
 					small &nbsp;
 				p Avere una buona idea imprenditoriale non è facile, farla diventare un’azienda ancora meno.<br>L’idea deve essere sviluppata, testata, confrontata con fornitori, potenziali clienti, esperti del settore. In molti casi l’idea può essere protetta, laddove l’ordinamento giuridico le attribuisca particolari caratteristiche; ad esempio: un’invenzione, un design, un’opera artistica, un marchio, un’idea pubblicitaria. In altri casi l’idea non è autonomamente proteggibile come bene immateriale; quindi deve essere difesa con una serie di cautele giuridiche che vincolino contrattualmente gli interlocutori a non divulgarla o utilizzarla.
@@ -28,7 +45,7 @@ br
 				p In questa fase è frequente la ricerca di investitori che contribuiscano con capitale di rischio a fornire i necessari apporti finanziari, e la conclusione con essi di accordi che consentano alla società uno sviluppo sano. Parimenti, è possibile fare ricorso a diverse forme di incentivazione esistenti. Quindi si deve strutturare la contrattualistica dell’impresa nei confronti dei clienti, verificando i processi aziendali e le criticità, onde procedere all’allocazione dei rischi nel rispetto di quanto previsto dalla legge.
 				p Sul fronte interno, occorre organizzare le risorse in modo coerente con il business model della società, in modo efficiente ed economico, e negoziare i rapporti con i fornitori.
 				p Le grandi aziende spesso si avvalgono, per questa fase, di consulenti di strategia e management, esperti di start up, posizionamento competitivo e gestione di processi. Non potendo disporre delle risorse per un consulente strategico, per le aziende più piccole è comunque importante consultarsi quantomeno con un esperto legale per evitare di commettere errori che possano rallentare o frenare la crescita o lo sviluppo del progetto.
-	
+				<?php } ?>
 
 include includes/footer.php
 include includes/tail.php

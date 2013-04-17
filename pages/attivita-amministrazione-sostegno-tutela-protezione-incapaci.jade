@@ -24,13 +24,29 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 ACTIVITIES
+			<?php } else { ?>
 			h3 ATTIVIT&Agrave;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+
+				h3 Protection of Minors and Non Compos Mentis 
+					small &nbsp;
+				p Lerro&Partners has developed extensive experience in procedures pertaining to probate courts: childcare, and non compos mentis assistance, guardianship and protection.
+				p The preliminary phase concerns the assessment of status and level of disability, the analysis of management needs, both in terms of personal needs (treatment, care, education, etc.) as well as property.
+				p Then both the aspects of ordinary life under administration, as well as extraordinary circumstances or litigation, are taken care of with maximum support to families interacting with the Court and administrative offices.
+				p Business planning for inheritance aspects is completed with the aim of finding the best practical solutions and avoids endless disputes between relatives.
+				p Lerro&Partners has gained specific experience in management support, which can also be expressed through the establishment of a Trust and the creation of a "family office" that can handle personal assets with the support of the professionals designated by the family under administration and the Court.
+				p In these matters we are often involved in specialized conferences and information and training events. 
+
+				<?php } else { ?>
 				h3 Protezione degli Incapaci
 					small &nbsp;
 				p Lo Studio ha sviluppato un’ampia esperienza nelle procedure di competenza del giudice tutelare: assistenza di minori ed interdetti, amministrazioni di sostegno, tutele.
@@ -39,7 +55,7 @@ br
 				p Gli aspetti successori completano la programmazione dell’attività, con l’obiettivo di trovare soluzioni corrette e concrete ed evitare contenziosi infiniti tra parenti.
 				p L&P ha maturato una specifica esperienza nel supporto gestionale, che può essere espresso anche tramite la costituzione di Trust e la creazione di “family office” in grado di gestire patrimoni personali in supporto alle figure professionali designate dalla famiglia dell’amministrato e dal Tribunale.
 				p In questa materia siamo spesso coinvolti in convegni specialistici e divulgativi ed eventi di formazione professionale.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

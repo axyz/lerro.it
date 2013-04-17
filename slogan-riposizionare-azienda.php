@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Repositioning of a company - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Riposizionare Un'azienda - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/02.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>PROGETTI</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>PROJECTS</h3><?php } else { ?>
+      <h3>PROGETTI</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -61,13 +64,19 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Repositioning of a company<small>&nbsp;</small></h3>
+        <p>The opening of a foreign trade network, the entry into large-scale distribution, the design of a franchise are some of the most frequent examples of corporate repositioning that require not only the expertise of effective managers, but also the cooperation of legal experts who participate in strategic planning, even before the execution phase.</p>
+        <p>In fact, it may occur that the most attractive business project must be reconsidered due to regulatory barriers, or that a different strategy is more efficient due to regulatory reasons.</p>
+        <p>In particular, when changing the market, whether it is a new product or a geographical extension of business, you cannot fully account for the wealth of experience that has accompanied the business up to that time. Even the best entrepreneur is likely to make mistakes due to inexperience or formulating strategies that are not feasible or make inappropriate decisions.</p>
+        <p>Years ago we assisted a company that was an aeronautical supplier and had decided to propose different products to the same market, with a greater technological impact. Diversification prompted the company to develop new skills and create a special business unit, in which the contribution of legal counsel (involved in the issues of intellectual property, regulatory framework, contracts with suppliers) had been critical to the success that the company then deservedly achieved. </p>
+        <p>The complex corporate repositioning requires the temporary acquisition of specialized skills, which can be guaranteed by qualified professionals, in order to complete a critical phase with competence and start the project in the best way.</p><?php } else { ?>
         <h3>Riposizionare un'azienda<small>&nbsp;</small></h3>
         <p>L’apertura di una rete commerciale estera, l’ingresso nella grande distribuzione, la progettazione di un franchising sono alcuni dei più frequenti esempi di riposizionamento aziendale che richiedono non solo la competenza di validi manager, ma anche la collaborazione di giuristi esperti che partecipino alla progettazione strategica, prima ancora che alla fase esecutiva. </p>
         <p>Infatti, può capitare che il più bel progetto imprenditoriale debba essere ripensato a causa di ostacoli normativi, o che una diversa strategia sia più efficiente proprio per ragioni regolatorie.</p>
         <p>In particolare, quando si cambia mercato, sia che si tratti di un nuovo prodotto che di una estensione geografica del business, non si può fare pienamente conto sul bagaglio di esperienza che ha accompagnato l’impresa fino a quel momento. Il miglior imprenditore rischia di commettere errori dettati dall’inesperienza o di trovarsi a formulare strategie non realizzabili o a prendere decisioni inadeguate.</p>
         <p>Anni fa abbiamo assistito un’azienda che effettuava forniture aeronautiche e che ha deciso di proporre allo stesso mercato prodotti diversi, con un maggior impatto tecnologico. La diversificazione ha richiesto all’azienda di sviluppare competenze nuove e di creare una apposita business unit, nella quale il contributo del consulente legale (coinvolto nelle tematiche di intellectual property, discipline regolatorie, contrattualistica con i fornitori) è stato fondamentale per il successo che l’azienda ha poi meritatamente raggiunto.</p>
-        <p>La delicatezza del riposizionamento aziendale richiede la transitoria acquisizione di competenze specialistiche che una qualificata competenza professionale può garantire, allo scopo di superare con competenza la fase critica e di far partire il progetto nel modo migliore.</p>
+        <p>La delicatezza del riposizionamento aziendale richiede la transitoria acquisizione di competenze specialistiche che una qualificata competenza professionale può garantire, allo scopo di superare con competenza la fase critica e di far partire il progetto nel modo migliore.</p><?php } ?>
       </div>
     </div>
   </div>

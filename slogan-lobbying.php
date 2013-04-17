@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Legislative monitoring and lobbying - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Monitoraggio Legislativo E Lobbying - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/06.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>PROGETTI</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>PROJECTS</h3><?php } else { ?>
+      <h3>PROGETTI</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -61,7 +64,15 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Legislative monitoring and lobbying<small>&nbsp;</small></h3>
+        <p>Only in recent years has the political intelligence activity known as lobbying and public affairs spread in Italy in a structured way. Companies now turn to professionals to follow the evolution of regulations that affect them and, whenever possible and permitted by law, to participate in a democratic way in the consultation procedures of the operators in that sector and then in the regulatory process.</p>
+        <p>The activity is based on both the so called legislative monitoring, through documentation of parliamentary and ministerial activities (EU and national) and on the awareness of authorities, through research, synoptic tables, position papers, summaries, amendments and proposals to the legislator.</p>
+        <p>The increasingly penetrating activity carried out by the Authorities, concerning sector inquiries and specialist regulations is not to be disregarded: these are processes involving industrial and commercial operators, in which it is certainly useful to be represented by legal experts, who are able to converse with the administrations involved.</p>
+        <p>Moreover, in sectors exposed to particular public assessments, it is important to conceive the communications strategy of a company aligned with the public image that it must have in order to generate awareness of their profile and to ensure a supportive regulatory environment. At this stage, the contribution of the jurist can avoid positioning errors and contradictions in communication that could have negative effects, and even helps to develop a winning concept.</p>
+        <p>It is a worthwhile investment if you remember that Tony Blair once said "if I do something that harms your interests because I did not know, the fault is yours, not mine."</p>
+        <p>In many foreign countries this type of activity is run mainly by lawyers (i.e. in this regard the activities  of the largest law firms in Washington are well known), but is often also carried out by companies more focused on communications and organisation of events.</p>
+        <p>Our approach, based inter alia on a decade of legal services performed for the Ministry of Environment, aims to be highly technical and legal, to give the company the best policy and technical tools to understand what is often highly complicated by specialist disciplines or by sector contingencies. </p><?php } else { ?>
         <h3>Monitoraggio legislativo e lobbying<small>&nbsp;</small></h3>
         <p>Solo da pochi anni si è diffusa anche in Italia in modo strutturato la c.d. attività di intelligence politica, lobbying e public affairs: le aziende si rivolgono ad un professionista per seguire l’evoluzione di normative che le interessano e, ove possibile ed ammesso dalla legge, per partecipare alle procedure di consultazione degli operatori del settore e quindi al processo normativo in modo democratico.</p>
         <p>L’attività si basa sia sul c.d. monitoraggio legislativo, attraverso processi di documentazione delle attività parlamentari (comunitarie e nazionali) e ministeriali, che su percorsi di sensibilizzazione delle autorità, attraverso la redazione di ricerche, tavole sinottiche, position papers, sintesi, emendamenti, proposte per il legislatore.</p>
@@ -69,7 +80,7 @@
         <p>Inoltre, in settori imprenditoriali esposti a valutazioni pubbliche particolari, è importante concepire la strategia di comunicazione di un’azienda in linea con l’immagine pubblica che essa deve avere per generare consapevolezza sul proprio profilo e per garantirsi un ambiente normativo favorevole. In tale fase il contributo del giurista consente di evitare errori di posizionamento e contraddizioni di comunicazione che potrebbero avere effetti negativi, ed anzi aiuta a sviluppare un concept vincente.</p>
         <p>Si tratta di un utile investimento se si pensa che Tony Blair ebbe modo di dire: “se faccio qualcosa che danneggia i vostri interessi perché non lo sapevo, la colpa è vostra, non mia”.</p>
         <p>Questo tipo di attività in molti Paesi esteri è gestita prevalentemente da avvocati (è noto, ad es. l’impegno in materia dei maggiori studi legali di Washington), ma è spesso svolta anche da società più focalizzate sulla comunicazione e sull’organizzazione di eventi.</p>
-        <p>Il nostro approccio, basato tra l’altro su 10 anni di servizi giuridici svolti per il Ministero dell’ambiente, vuole essere fortemente tecnico-giuridico, per dare all’impresa e alla politica i migliori strumenti tecnici per comprendere ciò che spesso viene fortemente complicato da discipline specialistiche  o da contingenze di settore.</p>
+        <p>Il nostro approccio, basato tra l’altro su 10 anni di servizi giuridici svolti per il Ministero dell’ambiente, vuole essere fortemente tecnico-giuridico, per dare all’impresa e alla politica i migliori strumenti tecnici per comprendere ciò che spesso viene fortemente complicato da discipline specialistiche  o da contingenze di settore.</p><?php } ?>
       </div>
     </div>
   </div>

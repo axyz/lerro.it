@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>M&amp;A, Venture Capital, MBO - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>MA Management, Buy Out, Venture Capital - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-ma-management-buy-out-venture-capital.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,12 +67,17 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>M&A, Venture Capital, MBO<small>&nbsp;</small></h3>
+        <p>Lerro&Partners assists its clients in transfers of equity interests, purchases, sales and rentals of both commercial and industrial businesses or subsidiaries, mergers and spin-offs, leveraged buy-outs, management buy-outs and buy-ins, establishment of joint ventures and other forms of partnerships between businesses and, in general, any extraordinary corporate transaction.</p>
+        <p>We take part in the preliminary negotiations, carrying out the due diligence, we prepare and negotiate contracts and shareholder agreements, assist the governing bodies in the preparation of corporate documentation, follow tax issues, take part in trade union negotiations and, where necessary, we take care of the constitution of new investment vehicles.</p>
+        <p>Lerro&Partners also assists its clients, among whom there have been some of the leading private investment funds and industrial groups, in the conception of new businesses, in the creation of spin-offs (even by public bodies and universities), in the restructuring of groups with domestic and foreign shareholders.</p>
+        <p>In some cases, the restructuring is merely a corporate matter, but often it affects the financial position, relationships with staff, trade policies, all factors that affect the achievement of the corporate mission.</p><?php } else { ?>
         <h3>M&A, Venture Capital, M.B.O.<small>&nbsp;</small></h3>
         <p>Lo Studio assiste i propri Clienti in operazioni di trasferimento di partecipazioni sociali, acquisti, cessioni e affitti di azienda o di rami d'azienda, sia commerciali che industriali, operazioni di fusione e scissione, leveraged buy-out, management buy-out e buy-in, costituzione di joint venture e altre forme di associazione tra imprese e, in generale, in ogni operazione societaria straordinaria.</p>
         <p>L&P partecipa alle trattative preliminari, effettua la due diligence legale, predispone e negozia i contratti e gli eventuali patti parasociali, redige la documentazione societaria assistendo gli organi sociali, segue le problematiche fiscali, prende parte alla trattativa sindacale e, ove necessario, cura la costituzione di nuovi veicoli societari.</p>
         <p>Lo Studio assiste inoltre i propri Clienti, tra i quali vi sono stati alcuni tra i principali fondi d'investimento privati ed importanti gruppi industriali, nella costituzione di nuove imprese, nella realizzazione di spin-off (anche da enti pubblici e università), nella ristrutturazione di gruppi con azionisti nazionali ed esteri. </p>
-        <p>In alcuni casi la ristrutturazione è meramente societaria, ma spesso essa riguarda il posizionamento finanziario, i rapporti col personale, le politiche commerciali, tutti fattori che influiscono sul raggiungimento della missione aziendale.</p>
+        <p>In alcuni casi la ristrutturazione è meramente societaria, ma spesso essa riguarda il posizionamento finanziario, i rapporti col personale, le politiche commerciali, tutti fattori che influiscono sul raggiungimento della missione aziendale.</p><?php } ?>
       </div>
     </div>
   </div>

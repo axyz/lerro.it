@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Real Estate Property - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Proprietà Immobiliare - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,13 +18,26 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 ACTIVITIES
+			<?php } else { ?>
 			h3 ATTIVIT&Agrave;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Real Estate Property
+					small &nbsp;
+				p Lerro&Partners has been consistently active in real estate, one of the classic areas of investment. We have consolidated a vast experience in property and real rights, and advices on the acquisition and disposal of property as well as national and international tenders.
+				p In particular, Lerro&Partners represents its clients in the legal assessment of the purchase of real estate and issues related to financing, planning or construction, expropriation procedures, and in the drafting and negotiation of contracts.
+				p Our practice specializes in the residential and commercial leasing sector both in terms of negotiation and management and with assignments of ordinary administration of income-producing properties.
+				p From the point of view of litigation, we have also gained significant experience in all types of real estate disputes and condominium issues (damages, expense allocations, enjoyment of common areas etc..), even those complicated by the number of stakeholders and diversity of positions.
+				p Furthermore, Lerro&Partners has followed construction projects, acquisitions and disposal of urban settlements dealing with the administrative, contractual, financial aspects as well as due diligence on behalf of public authorities, private entrepreneurs and international joint ventures.
+				<?php } else { ?>
 				h3 Propriet&agrave; Immobiliare
 					small &nbsp;
 				p Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali. 
@@ -28,7 +45,7 @@ br
 				p Il settore delle locazioni, abitative e commerciali, occupa lo Studio sia sul fronte negoziale che su quello gestionale, con la presa in carico dell’ordinaria amministrazione di immobili a reddito.
 				p Dal punto di vista del contenzioso abbiamo altresì maturato una significativa esperienza in tutti i tipi di controversie immobiliari e nelle questioni condominiali (danni, ripartizioni spese, godimento aree comuni ecc.), anche particolarmente complesse per numero di parti in causa e diversità di posizioni. 
 				p Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali, finanziarie e di due diligence.
-	
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

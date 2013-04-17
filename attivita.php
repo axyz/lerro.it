@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Activities - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Attività - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>Attivit&agrave;<small>&nbsp;</small></h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>Activities</h3><?php } else { ?>
+      <h3>Attivit&agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,9 +67,11 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <p>Lerro&Partners law firm focuses on civil and commercial cases. In the menu on the left you can navigate among the sectors in which  our practice has acquired ample and recognised experience.</p>
+        <p>Our policy is to undertake only the cases in the fields we specialise in. When we consider that it lacks sufficient experience, with the agreement of the client, outside professionals with proven experience and ability may be involved, to form a multidisciplinary team to better support the defence of the client.</p><?php } else { ?>
         <p>Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.</p>
-        <p>La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.</p>
+        <p>La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.</p><?php } ?>
       </div>
     </div>
   </div>

@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Venture Consulting - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Management Consulting Group - Law Firm - Rome</title></head>
+<body><?php } else { ?>
+<title>Gruppo di Management Consulting - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,12 +66,17 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Management Consulting Group<small>&nbsp;</small></h3>
+        <p>VC is a management consulting company founded as a spin-off of a famous multinational strategic consulting group and positioned in markets with strong technological discontinuity and in the banking world.</p>
+        <p>The project was created by renowned consulting professionals in collaboration with two leading investment funds. These are the 3i Group (one of the largest investment funds in the world) and Kiwi II (the fund managed by Pine Ventures of Elserino Piol). These groups were formed on the basis of a business model that combined strategic consulting and venture capital, while investing part of the fees in client initiatives.</p>
+        <p>For VC we have followed all the start-up companies, investor agreements and shareholder agreements. Then we assisted VC in the ordinary management, providing both corporate assistance (for staff, contracts, corporate activities and relationships with suppliers) and consulting support for client projects. Basically, we provided a versatile legal desk which is well-coordinated with VC consultants. Team work has also led us to extend legal services to several start-ups created by the company.</p>
+        <p>We have been engaged in the organization of investment management in client initiatives of VC through a special European holding firm  and have provided support for internationalization and for the opening of satellite facilities in Germany, Spain and England, thereby extending corporate level legal services to these new areas. Finally, we have managed the sale of the business (which has now changed its name) to a leading international group and subsequently we managed all the contracts relating to the acquisition on behalf of the sellers.</p><?php } else { ?>
         <h3>Gruppo di Management Consulting<small>&nbsp;</small></h3>
         <p>VC è una società di management consulting nata da uno spin off di una celebre multinazionale della consulenza strategica, posizionata su mercati a forte discontinuità tecnologica e nel mondo bancario.</p>
         <p>Il progetto è nato da affermati professionisti della consulenza in collaborazione con due importanti fondi di investimento, 3i Group (uno dei più grandi fondi di investimento del mondo)  e Kiwi II (il fondo gestito dalla Pino Ventures di Elserino Piol) sulla base di un business model che coniugava consulenza strategica e venture capital, investendo parte delle fees nell’iniziativa del cliente.</p>
         <p>Per VC abbiamo curato tutto lo start up societario, gli accordi con gli investitori, i patti parasociali. Poi siamo entrati nella gestione ordinaria, fornendo sia assistenza corporate (per il personale, la contrattualistica, le attività societarie, i rapporti  con i fornitori) che supporto consulenziale per i progetti dei clienti, mettendo sostanzialmente a disposizione un versatile desk legale, ben coordinato con i consulenti di VC. Il lavoro in team ci ha poi portato ad estendere il servizio legale a diversi start up creati dall’azienda.</p>
-        <p>Siamo stati impegnati nell’organizzazione della gestione delle partecipazioni nelle iniziative dei clienti di VC tramite una apposita holding europea di partecipazione e abbiamo fornito il supporto per l’internazionalizzazione e per l’apertura di strutture satellite in Germania, Spagna ed Inghilterra, estendendo il servizio legale corporate alle nuove realtà.<br>Infine, abbiamo curato la vendita dell’azienda (che oggi ha cambiato nome) ad un primario Gruppo internazionale e quindi tutta la contrattualistica relativa all’acquisizione per conto dei venditori.</p>
+        <p>Siamo stati impegnati nell’organizzazione della gestione delle partecipazioni nelle iniziative dei clienti di VC tramite una apposita holding europea di partecipazione e abbiamo fornito il supporto per l’internazionalizzazione e per l’apertura di strutture satellite in Germania, Spagna ed Inghilterra, estendendo il servizio legale corporate alle nuove realtà.<br>Infine, abbiamo curato la vendita dell’azienda (che oggi ha cambiato nome) ad un primario Gruppo internazionale e quindi tutta la contrattualistica relativa all’acquisizione per conto dei venditori.</p><?php } ?>
       </div>
     </div>
   </div>

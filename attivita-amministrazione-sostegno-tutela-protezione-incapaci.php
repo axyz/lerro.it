@@ -45,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-protezione-incapaci.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -66,14 +67,21 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Protection of Minors and Non Compos Mentis <small>&nbsp;</small></h3>
+        <p>Lerro&Partners has developed extensive experience in procedures pertaining to probate courts: childcare, and non compos mentis assistance, guardianship and protection.</p>
+        <p>The preliminary phase concerns the assessment of status and level of disability, the analysis of management needs, both in terms of personal needs (treatment, care, education, etc.) as well as property.</p>
+        <p>Then both the aspects of ordinary life under administration, as well as extraordinary circumstances or litigation, are taken care of with maximum support to families interacting with the Court and administrative offices.</p>
+        <p>Business planning for inheritance aspects is completed with the aim of finding the best practical solutions and avoids endless disputes between relatives.</p>
+        <p>Lerro&Partners has gained specific experience in management support, which can also be expressed through the establishment of a Trust and the creation of a "family office" that can handle personal assets with the support of the professionals designated by the family under administration and the Court.</p>
+        <p>In these matters we are often involved in specialized conferences and information and training events. </p><?php } else { ?>
         <h3>Protezione degli Incapaci<small>&nbsp;</small></h3>
         <p>Lo Studio ha sviluppato un’ampia esperienza nelle procedure di competenza del giudice tutelare: assistenza di minori ed interdetti, amministrazioni di sostegno, tutele.</p>
         <p>La fase introduttiva riguarda l’accertamento dello stato e del livello di incapacità, l’analisi delle esigenze di gestione, sia sotto il profilo personale (cura, assistenza, educazione, ecc.) che patrimoniale.</p>
         <p>Vengono poi curati sia gli aspetti di gestione ordinaria della vita dell’amministrato, che i profili straordinari o contenziosi, con il massimo supporto alle famiglie nella interazione con Tribunale ed uffici amministrativi.</p>
         <p>Gli aspetti successori completano la programmazione dell’attività, con l’obiettivo di trovare soluzioni corrette e concrete ed evitare contenziosi infiniti tra parenti.</p>
         <p>L&P ha maturato una specifica esperienza nel supporto gestionale, che può essere espresso anche tramite la costituzione di Trust e la creazione di “family office” in grado di gestire patrimoni personali in supporto alle figure professionali designate dalla famiglia dell’amministrato e dal Tribunale.</p>
-        <p>In questa materia siamo spesso coinvolti in convegni specialistici e divulgativi ed eventi di formazione professionale.</p>
+        <p>In questa materia siamo spesso coinvolti in convegni specialistici e divulgativi ed eventi di formazione professionale.</p><?php } ?>
       </div>
     </div>
   </div>

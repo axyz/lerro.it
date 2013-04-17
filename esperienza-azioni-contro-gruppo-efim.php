@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title> - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Azioni Contro Il Gruppo EFIM - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,12 +66,13 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>ENG</h3><?php } else { ?>
         <h3>Azioni Contro Il Gruppo EFIM<small>&nbsp;</small></h3>
         <p>In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate (Agusta, Aviofer Breda, Alumix, ecc.).</p>
         <p>La pretesa risarcitoria esposta in citazione contro circa 50 dirigenti raggiungeva l’incredibile somma di 30.000 miliardi di lire.</p>
         <p>Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, dalla ricostruzione dei processi decisionali dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.</p>
-        <p>Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.</p>
+        <p>Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.</p><?php } ?>
       </div>
     </div>
   </div>

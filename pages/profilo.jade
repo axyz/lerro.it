@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Profile - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Profilo Aziendale - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage

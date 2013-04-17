@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Litigation and Arbitration - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Contenzioso Arbitrato - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,20 +18,33 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 ACTIVITIES
+			<?php } else { ?>
 			h3 ATTIVIT&Agrave;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Litigation and Arbitration
+					small &nbsp;
+				p A distinctive feature of Lerro&Partners is the ability to identify the most appropriate strategy to resolve controversial issues. Tenacity, in-depth analysis, thorough preliminary investigation and the completeness of the case study create the best formula to defend and support our client’s interests.
+				p In the civil sector, our practice has successfully defended its clients in traditional issues of private law and in specialized areas such as medical negligence, industrial law, corporate law and directors' liability, contracts, real estate.
+				p Lerro&Partners is often requested to advise on hereditary or personal issues, and is frequently instructed to follow issues relating to the image and personal identity, also in the interest of artists, athletes and politicians.
+				p We assist our clients in ordinary litigation, before arbitration panels, before the High Courts and the Court of Justice of the European Union. We also plead in cases before the “Corte dei Conti”, in relation to management liability of public employees.
+				p In the criminal field, Lerro&Partners, assisted by external specialists, deals with some specific topics (mainly corporate crime and counterfeiting).
+				<?php } else { ?>
 				h3 Contenzioso e Arbitrato
 					small &nbsp;
 				p Caratteristica distintiva dello Studio è l'abilità nell'individuare la strategia più idonea alla risoluzione delle questioni controverse. La tenacia, l'approfondimento, un'accurata attività istruttoria e la completezza dello studio del caso costituiscono la miglior formula per difendere e sostenere gli interessi del Cliente.
 				p Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni classiche di diritto privato ed in materie specialistiche quali la colpa medica, il diritto industriale, il diritto societario e la responsabilità degli amministratori, gli appalti, gli immobili.<br>Lo Studio è spesso officiato della cura di rilevanti questioni di natura ereditaria o personale e segue con frequenza tematiche concernenti l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici.<br>Particolare esperienza è stata maturata anche nel giudizio risarcitorio innanzi alla Corte dei Conti, in materia di responsabilità per fatto illecito del pubblico dipendente.
 				p Il contenzioso è patrocinato sia in sede ordinaria che arbitrale, innanzi alle Giurisdizioni Superiori e alla Corte di Giustizia dell’Unione Europea.
 				p Nel settore penale, lo Studio si occupa di alcune materie avvalendosi di specialisti esterni (prevalentemente reati societari e contraffazione).
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Case Histories - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Esperienze e Casi Affrontati - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>Storie</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>Case Histories</h3><?php } else { ?>
+      <h3>Storie</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,10 +66,13 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <p>In this section we present some of our experiences, which we believe are indicative or at least representative of our professional approach to some specific themes. The curriculum vitae of our Partners are available upon request, but the case histories presented here are concrete and can portray much better than any synopsis the type of situations Lerro&Partners has faced. The case histories can be selected from the menu on the left.</p>
+        <p>In view of the restrictions of confidentiality which characterize all aspects of the legal profession, we have not included stories involving the common case histories or ordinary events of private citizens if these case histories have not already become publicly known.</p>
+        <p>Therefore, the case histories in this section only contain information in the public domain, in the press or otherwise authorized by all those involved, in full compliance with their privacy.</p><?php } else { ?>
         <p>In questa sezione presentiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione e di alcune specifiche tematiche affrontate. Il curriculum professionale dei Partner è disponibile su richiesta, ma queste storie raccontano in concreto e meglio di ogni sintesi quale tipo di vicende siano state affrontate dallo Studio. Le storie possono essere selezionate sul menù a lato. </p>
         <p>In considerazione degli imprescindibili doveri di riservatezza che devono caratterizzare l’esercizio della professione legale, non abbiamo inserito in questa sezione storie comuni, vicende ordinarie relative a privati o comunque che non siano divenute pubbliche.</p>
-        <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p>
+        <p>Pertanto, le storie presenti in questa sezione contengono esclusivamente informazioni di pubblico dominio o pubblicate sulla stampa o comunque autorizzate dai soggetti coinvolti, nel pieno rispetto della relativa privacy.</p><?php } ?>
       </div>
     </div>
   </div>

@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Energy - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Energia - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,19 +18,30 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 ACTIVITIES
+			<?php } else { ?>
 			h3 ATTIVIT&Agrave;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Energy
+					small &nbsp;
+				p A decade of experience in consulting the Ministry of the Environment and in-depth knowledge of real estate and new technologies have led to Lerro&Partners’s strong propensity to work on renewable energy; a matter which in recent years has greatly affected the national economic perspective. Moreover, the sudden cessation of government grants for photovoltaics has caused the need to reconsider the strategic and entrepreneurial medium and long-term choices, financial assets and investor positioning. That is leading to an important change of strategy and to opening significant possibilities for a dialogue even with foreign markets.
+				p Our practice has explored the new perspectives offered by this important market, with a focus on regulatory and management aspects, preparing analyses and studies and offering its consulting support to companies of the industry.
+				p In this matter the due diligence phase is of fundamental importance, since the value of the assets is closely related to the compliance of the systems. For this reason, in the technical areas, we employ highly qualified consultants who are able to certify analysis and ensure for client reasonable time and cost.
+				<?php } else { ?>
 				h3 Energia
 					small &nbsp;
 				p L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di strategia importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.
 				p L&P ha esplorato le nuove prospettive offerte da questo importante mercato, con attenzione ai profili regolatori e a quelli gestionali, predisponendo analisi e studi ed offrendo il proprio supporto consulenziale alle aziende del settore.
 				p In questa materia è di fondamentale importanza la fase di due diligence, atteso che il valore degli assets è strettamente legato alla compliance degli impianti. Per questo, nelle aree tecniche, ci avvaliamo di consulenti altamente qualificati in grado di certificare al meglio l’attività di analisi e garantire al cliente tempi e costi adeguati.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

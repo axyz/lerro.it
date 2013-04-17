@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Litigation and Arbitration - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Contenzioso Arbitrato - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-contenzioso-arbitrato.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,12 +67,18 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Litigation and Arbitration<small>&nbsp;</small></h3>
+        <p>A distinctive feature of Lerro&Partners is the ability to identify the most appropriate strategy to resolve controversial issues. Tenacity, in-depth analysis, thorough preliminary investigation and the completeness of the case study create the best formula to defend and support our client’s interests.</p>
+        <p>In the civil sector, our practice has successfully defended its clients in traditional issues of private law and in specialized areas such as medical negligence, industrial law, corporate law and directors' liability, contracts, real estate.</p>
+        <p>Lerro&Partners is often requested to advise on hereditary or personal issues, and is frequently instructed to follow issues relating to the image and personal identity, also in the interest of artists, athletes and politicians.</p>
+        <p>We assist our clients in ordinary litigation, before arbitration panels, before the High Courts and the Court of Justice of the European Union. We also plead in cases before the “Corte dei Conti”, in relation to management liability of public employees.</p>
+        <p>In the criminal field, Lerro&Partners, assisted by external specialists, deals with some specific topics (mainly corporate crime and counterfeiting).</p><?php } else { ?>
         <h3>Contenzioso e Arbitrato<small>&nbsp;</small></h3>
         <p>Caratteristica distintiva dello Studio è l'abilità nell'individuare la strategia più idonea alla risoluzione delle questioni controverse. La tenacia, l'approfondimento, un'accurata attività istruttoria e la completezza dello studio del caso costituiscono la miglior formula per difendere e sostenere gli interessi del Cliente.</p>
         <p>Nel settore civile, lo Studio ha assunto con successo la difesa dei propri Clienti in questioni classiche di diritto privato ed in materie specialistiche quali la colpa medica, il diritto industriale, il diritto societario e la responsabilità degli amministratori, gli appalti, gli immobili.<br>Lo Studio è spesso officiato della cura di rilevanti questioni di natura ereditaria o personale e segue con frequenza tematiche concernenti l'immagine e l'identità personale, anche nell'interesse di artisti, atleti e personaggi politici.<br>Particolare esperienza è stata maturata anche nel giudizio risarcitorio innanzi alla Corte dei Conti, in materia di responsabilità per fatto illecito del pubblico dipendente.</p>
         <p>Il contenzioso è patrocinato sia in sede ordinaria che arbitrale, innanzi alle Giurisdizioni Superiori e alla Corte di Giustizia dell’Unione Europea.</p>
-        <p>Nel settore penale, lo Studio si occupa di alcune materie avvalendosi di specialisti esterni (prevalentemente reati societari e contraffazione).</p>
+        <p>Nel settore penale, lo Studio si occupa di alcune materie avvalendosi di specialisti esterni (prevalentemente reati societari e contraffazione).</p><?php } ?>
       </div>
     </div>
   </div>

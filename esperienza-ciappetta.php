@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Ciappetta vs. Ministero Della Giustizia - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Inmate vs. the Ministry of Justice - Law Firm - Rome</title></head>
+<body><?php } else { ?>
+<title>Detenuto vs. Min. Giustizia - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE	</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,11 +66,15 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Inmate vs. the Ministry of Justice<small>&nbsp;</small></h3>
+        <p>FC, who died in 2007, was a victim of our country’s penitentiary system. He fell ill in prison and was not properly cared for. In the end the pathologies of this illness degenerated to extremely serious outcomes. In some prisons treatment has been completely absent, while in others it has been given too late or in inadequate measure.</p>
+        <p>We therefore established a compensation judgment against the Ministry of Justice (which is responsible for the prison system) and the Ministry of Health (responsible for the health aspects at the time) which ended with a heavy sentence, by the Court of Rome, which condemned the superficiality, the serious delays and the inexcusable negligence of those who were supposed to preside over the rehabilitation of the prisoner.</p>
+        <p>It was a particularly delicate and complex matter, not only due to the health aspects (medical negligence) but also for the direct involvement of the Ministry of Justice and the natural prejudice that generally accompanies a permanent detainee.</p><?php } else { ?>
         <h3>Detenuto vs. Min. Giustizia<small>&nbsp;</small></h3>
         <p>F.C., deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.</p>
         <p>Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza la superficialità, i gravi ritardi e la ingiustificabile negligenza di quanti avrebbero dovuto presiedere alla rieducazione del detenuto.</p>
-        <p>Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari (di colpa medica), quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.</p>
+        <p>Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari (di colpa medica), quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.</p><?php } ?>
       </div>
     </div>
   </div>

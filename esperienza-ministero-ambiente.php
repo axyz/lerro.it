@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Ministry of the Environment - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Ministero Dell'ambiente - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,10 +66,13 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Ministry of the Environment<small>&nbsp;</small></h3>
+        <p>For about ten years, the maximum extent permitted by law, Mr. Lerro was consultant for the Ministry of Environment with the status of "legal expert" and a member of the Technical Committee. In this capacity he was involved in protection of areas in nature, water and soil.</p>
+        <p>The activity carried out for the Ministry consisted of drafting documents and reports to the Minister, in the drafting of legislation and regulations, in political-institutional support of the Minister (answers to parliamentary questions and inquiries, “question time”, relations with national and regional authorities). Moreover, Mr. Lerro has contributed to the legal analysis and drafting of land use plans, the establishment and regulation of national and regional park authorities, the management of institutional relations between central and local administrations.</p><?php } else { ?>
         <h3>Ministero Dell’ambiente<small>&nbsp;</small></h3>
         <p>Per circa dieci anni, fino al limite massimo di legge, l’avv. Lerro è stato consulente esterno del Ministero dell’ambiente con la qualifica di “esperto giuridico” e componente della Segreteria Tecnica. In tale veste si è occupato di aree naturali protette, acque e difesa del suolo.</p>
-        <p>L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.</p>
+        <p>L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.</p><?php } ?>
       </div>
     </div>
   </div>

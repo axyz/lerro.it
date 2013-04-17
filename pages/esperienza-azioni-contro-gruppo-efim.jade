@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags(" - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Azioni Contro Il Gruppo EFIM - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,20 +18,27 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 CASE HISTORIES
+			<?php } else { ?>
 			h3 STORIE
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/esperienza-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 ENG
+				<?php } else { ?>
 				h3 Azioni Contro Il Gruppo EFIM
 					small &nbsp;
 				p In seguito alla liquidazione del Gruppo Efim, il Commissario Liquidatore avviò un’azione risarcitoria per responsabilità del top management del Gruppo e di alcune delle società partecipate (Agusta, Aviofer Breda, Alumix, ecc.).
 				p La pretesa risarcitoria esposta in citazione contro circa 50 dirigenti raggiungeva l’incredibile somma di 30.000 miliardi di lire.
 				p Si è trattato di un contenzioso estremamente delicato sia per il rilevantissimo ammontare del risarcimento richiesto che per la necessità di ricostruire, a distanza di anni, processi decisionali e governance di uno dei più grandi enti pubblici italiani e delle sue partecipate, leader nei rispettivi mercati. Invero, dalla ricostruzione dei processi decisionali dipendeva l’esistenza o meno dei profili di colpa attribuiti al management.
 				p Il contenzioso, innanzi al Tribunale di Milano, si è concluso positivamente per i nostri assistiti.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial
