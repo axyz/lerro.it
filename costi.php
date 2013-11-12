@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<?php if($_GET['lang'] == "en") { ?>
+<script type="text/javascript">
+  var eng = true;
+</script>
+<?php } else { ?>
+<script type="text/javascript">
+  var eng = false;
+</script>
+<?php } ?>
 <?php include("basedir.php"); ?>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
@@ -26,22 +35,34 @@
 <body><?php } else { ?>
 <title>Costi - Studio Legale - Lerro&amp;Partners - Roma</title></head>
 <body><?php } ?><nav class="top-bar fixed">
-    <ul>
-      <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
-      <li class="toggle-topbar"><a href="#"></a></li>
+  <ul>
+    <li class="name"><h1><?php if($_GET['lang'] == "en") { ?><a href="<?php echo $basedir;?>?lang=en"><?php } else { ?><a href="<?php echo $basedir;?>"><?php } ?><img src="images/logo.png" id="logo2" /></a></h1></li>
+    <li class="toggle-topbar"><a href="#"></a></li>
+  </ul>
+  <section>
+    <ul class="right" id="main-menu">
+      <?php if($_GET['lang'] == "en") { ?>
+      <li><a href="<?php echo $basedir;?>?lang=en">HOME</a></li>
+      <li><a href="profilo.php?lang=en">PROFILE</a></li>
+      <li><a href="attivita.php?lang=en">ACTIVITIES</a></li>
+      <li><a href="esperienza.php?lang=en">STORIES</a></li>
+      <li><a href="costi.php?lang=en">COSTS</a></li>
+      <li><a href="http://avvocati.net">BLOG</a></li>
+      <li><a href="contatti.php?lang=en">CONTACTS</a></li>
+      <li><a href="<?php echo parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH);?>"><img src="http://www.difesa.it/_layouts/MdDEvoluzione-Layouts/images/flag-italiano.png" /></a></li>
+      <?php } else { ?>
+      <li><a href="<?php echo $basedir;?>">HOME</a></li>
+      <li><a href="profilo.php">PROFILO</a></li>
+      <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
+      <li><a href="esperienza.php">STORIE</a></li>
+      <li><a href="costi.php">COSTI</a></li>
+      <li><a href="http://avvocati.net">BLOG</a></li>
+      <li><a href="contatti.php">CONTATTI</a></li>
+      <li><a href="<?php echo parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH);?>?lang=en"><img src="http://www.memoriaexpo.it/images/flag-en.png" /></a></li>
+      <?php } ?>
     </ul>
-    <section>
-      <ul class="right" id="main-menu">
-        <li><a href="<?php echo $basedir;?>">HOME</a></li>
-        <li><a href="profilo.php">PROFILO</a></li>
-        <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
-        <li><a href="esperienza.php">STORIE</a></li>
-        <li><a href="costi.php">COSTI</a></li>
-        <li><a href="http://avvocati.net">BLOG</a></li>
-        <li><a href="contatti.php">CONTATTI</a></li>
-      </ul>
-    </section>
-  </nav>
+  </section>
+</nav>
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
@@ -84,22 +105,29 @@
   </div>
 </div>
 <div class="row">
-  <div class="eleven columns centered">
-    <div style="height:200px;" class="panel contact-box seven columns">
-      <div id="testimonial" class="testimonial">
-        <div>
-          <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;">LEGGI TUTTO</a>
-            <cite id="testimonial-preview-cite"></cite>
-          </blockquote>
-        </div>
-      </div>
+  <div class="eleven columns centered"><div style="height:200px;" class="panel contact-box seven columns">
+  <div id="testimonial" class="testimonial">
+    <div>
+      <blockquote><i id="testimonial-preview"></i><a href="#" data-reveal-id="testimonial-modal" style="font-size:0.618em;line-height:0;font-weight:bold;margin-left:2px;"><?php if($_GET['lang'] == "en") { ?>READ ALL<?php } else { ?>LEGGI TUTTO<?php } ?></a>
+        <cite id="testimonial-preview-cite"></cite>
+      </blockquote>
     </div>
-    <div style="width:39.5%; height:200px;" class="panel contact-box columns">
-      <div id="blog-text" style="margin-top:-24px;" class="left">
-        <h5> <a href="http://avvocati.net"><b style="font-size:95%;">Avvocati.net</b></a></h5>
-        <p>Notizie<br>Opinioni<br>Eventi<br><br><small><b>BLOG A CURA DI</b><br><b style="position:relative;top:-10px;">Alessandro M. Lerro</b></small></p>
-      </div><img id="blog-picture" src="images/avvocato-lerro.jpg" style="margin-top:0px;" class="th right"/>
-    </div>
+  </div>
+</div><?php if($_GET['lang'] == "en") { ?>
+  <div style="width:39.5%; height:200px;" class="panel contact-box columns">
+    <div id="blog-text" style="margin-top:-24px;" class="left">
+      <h5> <a href="http://avvocati.net"><b style="font-size:95%;">Avvocati.net</b></a></h5>
+      <p>News<br>Opinions<br>Events<br><br><small><b>BLOG BY</b><br><b style="position:relative;top:-10px;">Alessandro M. Lerro</b></small></p>
+    </div><img id="blog-picture" src="images/avvocato-lerro.jpg" style="margin-top:0px;" class="th right"/>
+  </div>
+<?php } else { ?>
+  <div style="width:39.5%; height:200px;" class="panel contact-box columns">
+    <div id="blog-text" style="margin-top:-24px;" class="left">
+      <h5> <a href="http://avvocati.net"><b style="font-size:95%;">Avvocati.net</b></a></h5>
+      <p>Notizie<br>Opinioni<br>Eventi<br><br><small><b>BLOG A CURA DI</b><br><b style="position:relative;top:-10px;">Alessandro M. Lerro</b></small></p>
+    </div><img id="blog-picture" src="images/avvocato-lerro.jpg" style="margin-top:0px;" class="th right"/>
+  </div>
+<?php } ?>
   </div>
 </div><br/><br><br><br>
 <footer class="row" id="footer">
@@ -156,6 +184,38 @@
   <a class="close-reveal-modal">&#215;</a>
 </div>
 
+<?php if($_GET['lang'] == "en") { ?>
+<div id="testimonial-modal" class="testimonial reveal-modal large">
+  <h3> What They Say About Us</h3>
+  <blockquote>
+    <p><i>I met Alessandro in 1995; I needed the help of a lawyer for a delicate and important legal action to be carried out in Rome.</i></p>
+    <p><i>Although he was very young, he immediately gave me a feeling of security, determination and a clear vision of how to address the situation in perfect balance between "fact" and "right". These characteristics, when present (not very often indeed) are usually the result of a long field experience.</i></p>
+    <p><i>The professional collaboration has continued over the years and has turned into a splendid friendship that remains strong to this day, since that first meeting eighteen years ago!</i></p>
+    <p><i>What a blessing, in a world and a society in which this "story" is a rare gem to keep and protect like a treasure."</i></p>
+    <cite>Gabriele Brustenghi<br/>Founder of the Fitness Festival</cite>
+  </blockquote>
+
+  <blockquote>
+    <p><i>For many years I called on Mr. Lerro and over time I have observed that the requested interventions have regularly led to very positive results.</i></p>
+    <p><i>There are at least three characteristics that make him valuable: a clear, thorough legal expertise; absolute responsiveness which makes his action immediately reliable; and finally, a fundamental characteristic, the ability to avoid the unfortunately too frequent "if you follow path A, this happens; if you follow the path B that happens: now, you choose...”</i></p>
+    <p><i>Conversely, Mr. Lerro has the courage and mental strength to suggest the legal path that appears the best and make a commitment alongside the client.</i></p>
+    <cite>Ettore Pietrabissa<br/>General Manager Arcus spa</cite>
+  </blockquote>
+
+  <blockquote>
+    <p><i>Napoleon said: 'Space we can recover, lost time never'.</i></p>
+    <p><i>This quote clearly emphasizes the importance of one of the best features of L & P Law Firm: namely rapid strategy formulation and execution of tasks. This feature constitutes a perfect combination with the competence and effectiveness of the professionals working there.</i></p>
+    <cite>Domenico Bizzoco<br/>CEO Glovax Asia-Pacific ltd</cite>
+  </blockquote>
+
+  <blockquote>
+    <p><i>Mr. Lerro has earned over time my esteem and confidence, proving on many occasions to never manage cases with an approach limited to his institutional role, but always providing me with clear and precise detail, all the possible implications for each scenario for a solution presented to me. The considerable experience, expertise in also dealing with extremely technical and complex matters, together with his personal aptitude and a thorough approach as well as personalized service, have enabled me to assess the problem from unexpected points of view while always feeling protected and in good hands. The solutions presented and the results have always demonstrated his care and attention to a 360 ° assessment of the problem, without neglecting the economic and fiscal aspects. The perception and the demonstration that "my" problem was "his" problem and that my case and my company were not only "another case to handle", led me to confer my business' cases with confidence.</i></p>
+    <cite>Vincenzo Santoni<br/>Founder Proras Ltd.</cite>
+  </blockquote>
+
+  <a class="close-reveal-modal">&#215;</a>
+</div>
+<?php } else { ?>
 <div id="testimonial-modal" class="testimonial reveal-modal large">
   <h3> Dicono di Noi</h3>
   <blockquote>
@@ -184,7 +244,8 @@
   </blockquote>
 
   <a class="close-reveal-modal">&#215;</a>
-</div><!-- Included JS Files (Uncompressed) -->
+</div>
+<?php } ?><!-- Included JS Files (Uncompressed) -->
 	<script src="javascripts/foundation/jquery.js"></script>
 	
 	<script src="javascripts/foundation/jquery.foundation.forms.js"></script>

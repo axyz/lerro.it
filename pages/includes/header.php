@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<?php if($_GET['lang'] == "en") { ?>
+<script type="text/javascript">
+  var eng = true;
+</script>
+<?php } else { ?>
+<script type="text/javascript">
+  var eng = false;
+</script>
+<?php } ?>
 <?php include("basedir.php"); ?>
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en"> <![endif]-->
