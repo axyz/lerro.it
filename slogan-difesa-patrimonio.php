@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Defending an heritage - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>La Difesa Di Un Patrimonio - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/03.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>PROGETTI</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>PROJECTS</h3><?php } else { ?>
+      <h3>PROGETTI</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -61,13 +64,19 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Defending an heritage<small>&nbsp;</small></h3>
+        <p>There are many reasons why it is necessary to defend a heritage or at least keep it intact. History has shown cases where large family resources have been dispersed as a result of discord among siblings, separations, personal tragedies and personal issues.</p>
+        <p>To avoid such events, the legal system provides tools that allow valid asset protection in full compliance with the law and with fundamental principles such as financial liability, protection of custody, protection of incapables or the protection of inheritance rights. Furthermore, in the modern world, the international legal systems often help the national framework, integrating it with experience tested in other contexts (for example, the case of the Trust, which in the UK and USA has allowed the conservation of large family estates).</p>
+        <p>Equally important are the management of the planning and the programming of the generational shift.</p>
+        <p>It is also necessary to differentiate strategies and actions according to the type of assets (real estate, movable or mixed), to client needs and to real opportunities that can arise.</p>
+        <p>The problem analysis, the assessment of alternatives and the planning for the future allow an effective defence of the assets, a reduction of the risk as well as significant savings.</p><?php } else { ?>
         <h3>La difesa di un patrimonio<small>&nbsp;</small></h3>
         <p>Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali.</p>
         <p>Per evitare queste evenienze l’ordinamento giuridico mette a disposizione degli strumenti che consentono una valida protezione patrimoniale nel pieno rispetto della legge e di fondamentali principi quali la responsabilità patrimoniale, la tutela dell’affidamento, la protezione degli incapaci o la salvaguardia dei diritti successori. Nel mondo moderno, peraltro, gli ordinamenti giuridici internazionali spesso aiutano la disciplina nazionale, integrandola con esperienze testate in altri contesti (ad esempio, è il caso del Trust, che in Inghilterra ed USA ha consentito la conservazione dei grandi patrimoni familiari).</p>
         <p>Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale.</p>
         <p>Occorre poi differenziare strategie ed azioni in relazione alla natura del patrimonio (immobiliare, mobiliare o misto), alle esigenze  del Cliente e alle opportunità che concretamente si manifestano.</p>
-        <p>L’analisi del problema, la valutazione delle alternative e la programmazione del futuro consentono una difesa efficace del patrimonio, la riduzione dei rischi e significativi risparmi.</p>
+        <p>L’analisi del problema, la valutazione delle alternative e la programmazione del futuro consentono una difesa efficace del patrimonio, la riduzione dei rischi e significativi risparmi.</p><?php } ?>
       </div>
     </div>
   </div>

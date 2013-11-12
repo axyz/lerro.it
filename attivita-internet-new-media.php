@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Internet and New Media - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Internet E New Media - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-internet-new-media.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,13 +67,20 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Internet and New Media<small>&nbsp;</small></h3>
+        <p>Lerro&Partners expertly represents companies that operate entirely on the internet in all their commercial processes, and companies that use the internet as the predominant form of communication.</p>
+        <p>Generally our client in this area is a start-up or a spin-off of a company that decides to “go digital” or to launch a new area of ​​business.</p>
+        <p>During the boom of the new economy we have represented a number of companies which have approached the internet with a unique company perspective and a courageous pioneering vision. Most of these were often involved in new means of communication.</p>
+        <p>Experience in the field of patents and copyrights has allowed us to deploy the right skills in the new world and the corporate finance component has complemented these skills to offer the most complete service, considering that most projects were supported by venture capital funds.</p>
+        <p>The media evolution has brought privacy regulations, resulting in a multitude of rights, precautions and red-tape concerning the processing of personal data.</p>
+        <p>The experience in new media has allowed us to appreciate and value the importance of the time factor in legal and contractual assistance, given the strong acceleration that characterizes this industry.</p><?php } else { ?>
         <h3>Internet e New Media<small>&nbsp;</small></h3>
         <p>Nel periodo dell’esplosione della new economy abbiamo assistito diverse società che hanno approcciato internet come unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste avevano spesso ad oggetto i nuovi mezzi di comunicazione.</p>
         <p>L’esperienza in materia di brevetti e copyright ci ha consentito di affrontare con le giuste competenze questo nuovo mondo e la componente societaria/finanziaria è stata il complemento ideale agli strumenti del mestiere necessari per assistere le aziende del settore, dal momento che quasi tutti i progetti vengono affrontati con supporto di venture capital.</p>
         <p>L’evoluzione dei media ha portato con sé la disciplina della privacy, con la moltitudine di diritti, cautele, adempimenti imposti nella gestione dei dati personali.</p>
         <p>Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business.<br>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. </p>
-        <p>L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.</p>
+        <p>L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.</p><?php } ?>
       </div>
     </div>
   </div>

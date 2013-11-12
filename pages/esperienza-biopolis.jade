@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
-mixin meta-tags("Biopolis - Studio Legale - Lerro&Partners - Roma")
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Biotech Start Up - Law Firm - Rome")
+<?php } else { ?>
+mixin meta-tags("Start Up Biotech - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,20 +18,32 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 CASE HISTORIES
+			<?php } else { ?>
 			h3 STORIE
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/esperienza-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Biotech Start Up
+					small &nbsp;
+				p B. is a company started in Siena thanks to a significant investment of venture capital by one of the largest investment funds in the world, with the aim of developing patented technologies in the pharmaceutical industry, to identify target clients, bring them to phase II and market  them.
+				p We represented the company in all corporate activities, from investment contracts to shareholders' agreements, to the management of the activities of the board of directors. We also took care of general contract law, labour relations and business with suppliers.
+				p With our support, the company has thus acquired or licensed partially developed international  patents, with which it was possible to develop an ambitious business model. For the most part we have negotiated licenses with universities and their spin-offs, taking care of the patent due diligence phase, the negotiation and conclusion of contractual agreements.
+				p Finally we have managed the withdrawal from the investment and the transfer to third parties of the business and technologies developed and acquired.
+				<?php } else { ?>
 				h3 Start Up Biotech
 					small &nbsp;
 				p B. è una società nata a Siena grazie anche ad un significativo investimento in venture capital da parte di uno dei più grandi fondi di investimento del mondo, con l’obiettivo di sviluppare tecnologie brevettate nel settore farmaceutico, targetizzarle, portarle alla fase II e metterle sul mercato.
 				p Abbiamo assistito l’azienda in tutte le attività corporate, dai contratti di investimento agli accordi parasociali, alla gestione delle attività del consiglio di amministrazione. Ci siamo occupati inoltre della contrattualistica generale, dei rapporti di lavoro e delle relazioni con i fornitori.
 				p Con il nostro supporto, la società ha quindi acquisito o preso in licenza brevetti internazionali già parzialmente sviluppati, per i quali fosse possibile sviluppare un business model ambizioso. Per lo più abbiamo negoziato licenze con strutture universitarie e relativi spin off, curando la fase di due diligence brevettuale, la negoziazione e la stipulazione degli accordi contrattuali.
 				p Infine abbiamo curato la exit dall’investimento ed il trasferimento a terzi del complesso aziendale e delle tecnologie acquisite e sviluppate.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

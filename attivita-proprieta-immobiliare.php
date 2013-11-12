@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Real Estate Property - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Proprietà Immobiliare - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-proprieta-immobiliare.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,13 +67,19 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Real Estate Property<small>&nbsp;</small></h3>
+        <p>Lerro&Partners has been consistently active in real estate, one of the classic areas of investment. We have consolidated a vast experience in property and real rights, and advices on the acquisition and disposal of property as well as national and international tenders.</p>
+        <p>In particular, Lerro&Partners represents its clients in the legal assessment of the purchase of real estate and issues related to financing, planning or construction, expropriation procedures, and in the drafting and negotiation of contracts.</p>
+        <p>Our practice specializes in the residential and commercial leasing sector both in terms of negotiation and management and with assignments of ordinary administration of income-producing properties.</p>
+        <p>From the point of view of litigation, we have also gained significant experience in all types of real estate disputes and condominium issues (damages, expense allocations, enjoyment of common areas etc..), even those complicated by the number of stakeholders and diversity of positions.</p>
+        <p>Furthermore, Lerro&Partners has followed construction projects, acquisitions and disposal of urban settlements dealing with the administrative, contractual, financial aspects as well as due diligence on behalf of public authorities, private entrepreneurs and international joint ventures.</p><?php } else { ?>
         <h3>Propriet&agrave; Immobiliare<small>&nbsp;</small></h3>
         <p>Tra le classiche aree di investimento, quella immobiliare occupa costantemente l'attività dello Studio. L&P ha consolidato una vasta esperienza in materia di proprietà e diritti reali, e fornisce consulenza in materia di acquisizione e cessione di immobili e di appalti nazionali e internazionali. </p>
         <p>In particolare, lo Studio assiste i propri Clienti nella valutazione legale dell'acquisto immobiliare e del relativo finanziamento, delle problematiche urbanistiche o edilizie connesse, delle procedure di esproprio, nonché nella formulazione e negoziazione dei contratti di appalto.</p>
         <p>Il settore delle locazioni, abitative e commerciali, occupa lo Studio sia sul fronte negoziale che su quello gestionale, con la presa in carico dell’ordinaria amministrazione di immobili a reddito.</p>
         <p>Dal punto di vista del contenzioso abbiamo altresì maturato una significativa esperienza in tutti i tipi di controversie immobiliari e nelle questioni condominiali (danni, ripartizioni spese, godimento aree comuni ecc.), anche particolarmente complesse per numero di parti in causa e diversità di posizioni. </p>
-        <p>Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali, finanziarie e di due diligence.</p>
+        <p>Inoltre, L&P ha seguito per conto di amministrazioni pubbliche, imprenditori privati e joint ventures internazionali, progetti di costruzione, acquisizione e dismissione di insediamenti urbanistici, trattandone gli aspetti amministrativi, contrattuali, finanziarie e di due diligence.</p><?php } ?>
       </div>
     </div>
   </div>

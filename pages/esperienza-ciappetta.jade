@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
-mixin meta-tags("Ciappetta vs. Ministero Della Giustizia - Studio Legale - Lerro&Partners - Roma")
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Inmate vs. the Ministry of Justice - Law Firm - Rome")
+<?php } else { ?>
+mixin meta-tags("Detenuto vs. Min. Giustizia - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,19 +18,30 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
-			h3 STORIE	
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 CASE HISTORIES
+			<?php } else { ?>
+			h3 STORIE
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/esperienza-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Inmate vs. the Ministry of Justice
+					small &nbsp;
+				p FC, who died in 2007, was a victim of our country’s penitentiary system. He fell ill in prison and was not properly cared for. In the end the pathologies of this illness degenerated to extremely serious outcomes. In some prisons treatment has been completely absent, while in others it has been given too late or in inadequate measure.
+				p We therefore established a compensation judgment against the Ministry of Justice (which is responsible for the prison system) and the Ministry of Health (responsible for the health aspects at the time) which ended with a heavy sentence, by the Court of Rome, which condemned the superficiality, the serious delays and the inexcusable negligence of those who were supposed to preside over the rehabilitation of the prisoner.
+				p It was a particularly delicate and complex matter, not only due to the health aspects (medical negligence) but also for the direct involvement of the Ministry of Justice and the natural prejudice that generally accompanies a permanent detainee.
+				<?php } else { ?>
 				h3 Detenuto vs. Min. Giustizia
 					small &nbsp;
 				p F.C., deceduto nel 2007, è stato una vittima del sistema penitenziario del nostro Paese. Ammalatosi in carcere, non è stato adeguatamente curato e le sue patologie sono degenerate fino ad esiti estremamente gravi. In alcune carceri le cure sono state del tutto omesse, in altre sono state prestate in modo tardivo ed inadeguato.
 				p Abbiamo quindi instaurato un giudizio risarcitorio nei confronti del Ministero della Giustizia (responsabile del sistema carcerario) e del Ministero della Salute (allora responsabile degli aspetti sanitari) conclusosi con una pesante sentenza di condanna del Tribunale di Roma, che stigmatizza la superficialità, i gravi ritardi e la ingiustificabile negligenza di quanti avrebbero dovuto presiedere alla rieducazione del detenuto.
 				p Si è trattato di un caso particolarmente delicato e complesso non tanto e non solo per gli aspetti sanitari (di colpa medica), quanto per il coinvolgimento diretto del Ministero della Giustizia e per il naturale pregiudizio che generalmente accompagna un detenuto definitivo.
-	
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

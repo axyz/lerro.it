@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Heritage, Trusts, Succession - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Gestioni Patrimoniali, Trust, Successioni - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-gestioni-patrimoniali-trust-successioni.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,12 +67,17 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Heritage, Trusts, Succession<small>&nbsp;</small></h3>
+        <p>Lerro&Partners has built up extensive experience in matters relating to the management of assets, in particular with regard to property regulations and succession planning.</p>
+        <p>We have been among the first law firms in Italy to introduce the concept of "family office", which has been developed and managed on behalf of several families and estates. Lerro&Partners regularly deals with issues concerning investments in securities and real estate, as well as disputes concerning private banking relationships and property management.</p>
+        <p>In addition, L&P has established a significant expertise in the field of internal trust, a legal instrument of estate planning aimed to preserve and/or transfer the wealth and protect your assets. Our practice  assists clients from the conception stage of the trust, dealing with the establishment and organization, verifying the implementation of the wishes of the settler, to the trustee and planning the allocation of assets to the beneficiary.</p>
+        <p>We have been involved in matters of inheritance, division, contesting of wills, disputing management acts. In these cases, we have always suggested alternative disputes resolution to the client, emphasizing the time factor and trying to explore every possible solution to ensure a good balance between cost and benefit.</p><?php } else { ?>
         <h3>Patrimoni, Trust, Successioni<small>&nbsp;</small></h3>
         <p>L&P ha maturato una profonda esperienza in questioni concernenti la gestione di patrimoni, in particolare con riferimento alla regolamentazione della proprietà e alla programmazione delle successioni. </p>
         <p>L&P è stato tra i primi studi legali ad introdurre in Italia il concetto di "family office", che ha sviluppato e gestito per diverse famiglie e rilevanti patrimoni. Lo Studio affronta frequentemente questioni concernenti investimenti mobiliari ed immobiliari, nonché controversie inerenti rapporti di private banking e gestione immobiliare.</p>
         <p>Inoltre, L&P ha consolidato una significativa competenza in materia di trust interno, strumento giuridico di pianificazione patrimoniale finalizzato a conservare e/o trasferire la ricchezza e a tutelare il patrimonio. Lo Studio segue i propri Clienti sin dalla fase di ideazione del trust, occupandosi della costituzione e organizzazione, verificando l'esecuzione della volontà del costituente da parte del trustee e pianificando la devoluzione dei beni al beneficiario.</p>
-        <p>Dal punto di vista del contenzioso, siamo stati coinvolti in questioni ereditarie, divisioni, impugnazioni di testamenti, contestazione di atti gestori. In tali esperienze abbiamo sempre suggerito al Cliente vie alternative al contenzioso, valorizzando il fattore tempo e cercando di esplorare ogni possibile soluzione che garantisse un buon rapporto tra costo e beneficio.</p>
+        <p>Dal punto di vista del contenzioso, siamo stati coinvolti in questioni ereditarie, divisioni, impugnazioni di testamenti, contestazione di atti gestori. In tali esperienze abbiamo sempre suggerito al Cliente vie alternative al contenzioso, valorizzando il fattore tempo e cercando di esplorare ogni possibile soluzione che garantisse un buon rapporto tra costo e beneficio.</p><?php } ?>
       </div>
     </div>
   </div>

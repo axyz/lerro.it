@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Energy - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Energia - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-energia.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,11 +67,15 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Energy<small>&nbsp;</small></h3>
+        <p>A decade of experience in consulting the Ministry of the Environment and in-depth knowledge of real estate and new technologies have led to Lerro&Partners’s strong propensity to work on renewable energy; a matter which in recent years has greatly affected the national economic perspective. Moreover, the sudden cessation of government grants for photovoltaics has caused the need to reconsider the strategic and entrepreneurial medium and long-term choices, financial assets and investor positioning. That is leading to an important change of strategy and to opening significant possibilities for a dialogue even with foreign markets.</p>
+        <p>Our practice has explored the new perspectives offered by this important market, with a focus on regulatory and management aspects, preparing analyses and studies and offering its consulting support to companies of the industry.</p>
+        <p>In this matter the due diligence phase is of fundamental importance, since the value of the assets is closely related to the compliance of the systems. For this reason, in the technical areas, we employ highly qualified consultants who are able to certify analysis and ensure for client reasonable time and cost.</p><?php } else { ?>
         <h3>Energia<small>&nbsp;</small></h3>
         <p>L’esperienza decennale nella consulenza al Ministero dell’Ambiente e l’approfondita conoscenza del settore immobiliare e del mondo delle nuove tecnologie hanno determinato una forte propensione dello Studio ad occuparsi di energie rinnovabili; materia che negli ultimi anni ha interessato in modo prepotente il panorama economico nazionale. Peraltro, l’improvvisa cessazione dei contributi pubblici per il fotovoltaico ha provocato la necessità di riconsiderare scelte strategiche ed imprenditoriali di medio e lungo periodo, assetti finanziari e posizionamento degli investitori. Ciò sta determinando un cambio di strategia importante e sta aprendo rilevanti spazi di dialogo anche con mercati stranieri.</p>
         <p>L&P ha esplorato le nuove prospettive offerte da questo importante mercato, con attenzione ai profili regolatori e a quelli gestionali, predisponendo analisi e studi ed offrendo il proprio supporto consulenziale alle aziende del settore.</p>
-        <p>In questa materia è di fondamentale importanza la fase di due diligence, atteso che il valore degli assets è strettamente legato alla compliance degli impianti. Per questo, nelle aree tecniche, ci avvaliamo di consulenti altamente qualificati in grado di certificare al meglio l’attività di analisi e garantire al cliente tempi e costi adeguati.</p>
+        <p>In questa materia è di fondamentale importanza la fase di due diligence, atteso che il valore degli assets è strettamente legato alla compliance degli impianti. Per questo, nelle aree tecniche, ci avvaliamo di consulenti altamente qualificati in grado di certificare al meglio l’attività di analisi e garantire al cliente tempi e costi adeguati.</p><?php } ?>
       </div>
     </div>
   </div>

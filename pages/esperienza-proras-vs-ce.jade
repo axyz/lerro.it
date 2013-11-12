@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
-mixin meta-tags("Proras vs. Unione Europea - Studio Legale - Lerro&Partners - Roma")
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Company vs. European Union - Law Firm - Rome")
+<?php } else { ?>
+mixin meta-tags("Azienda vs. Unione Europea - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,19 +18,30 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 CASE HISTORIES
+			<?php } else { ?>
 			h3 STORIE
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/esperienza-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Company vs. European Union
+					small &nbsp;
+				p P. is a service and engineering company which in recent years has specialized in procurements in the area of European cooperation (European Union). The European Union is a difficult environment which is greatly complicated by political pressures from governments and by the fundamental importance attributed to the role of contractors outside the Community institutions.
+				p Following a dispute originated by a delivery, the client had been added to an unofficial blacklist and excluded from further bids and awards. This exclusion had caused significant damage, since the company was focused on engineering services in the context of EU tender procedures (particularly in the nuclear field), and thereby in procurements in the EU PHARE and TACIS.
+				p In view of the complete refusal of the European Commission to engage in any possible negotiation, we brought a civil action against the European Commission itself before the Court of First Instance of the European Community in Luxembourg. Pending the outcome we, on behalf of our clients, obtained a rather significant compensation. 
+				<?php } else { ?>
 				h3 Azienda vs. Unione Europea
 					small &nbsp;
 				p P. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.
 				p In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.
 				p Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. Nelle more del giudizio abbiamo ottenuto un risarcimento, peraltro piuttosto rilevante.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

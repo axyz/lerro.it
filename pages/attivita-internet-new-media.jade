@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Internet and New Media - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Internet E New Media - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,13 +18,27 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 ACTIVITIES
+			<?php } else { ?>
 			h3 ATTIVIT&Agrave;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Internet and New Media
+					small &nbsp;
+				p Lerro&Partners expertly represents companies that operate entirely on the internet in all their commercial processes, and companies that use the internet as the predominant form of communication.
+				p Generally our client in this area is a start-up or a spin-off of a company that decides to “go digital” or to launch a new area of ​​business.
+				p During the boom of the new economy we have represented a number of companies which have approached the internet with a unique company perspective and a courageous pioneering vision. Most of these were often involved in new means of communication.
+				p Experience in the field of patents and copyrights has allowed us to deploy the right skills in the new world and the corporate finance component has complemented these skills to offer the most complete service, considering that most projects were supported by venture capital funds.
+				p The media evolution has brought privacy regulations, resulting in a multitude of rights, precautions and red-tape concerning the processing of personal data.
+				p The experience in new media has allowed us to appreciate and value the importance of the time factor in legal and contractual assistance, given the strong acceleration that characterizes this industry.
+				<?php } else { ?>
 				h3 Internet e New Media
 					small &nbsp;
 				p Nel periodo dell’esplosione della new economy abbiamo assistito diverse società che hanno approcciato internet come unica dimensione aziendale, con una visione pionieristica molto coraggiosa. La maggior parte di queste avevano spesso ad oggetto i nuovi mezzi di comunicazione.
@@ -28,7 +46,7 @@ br
 				p L’evoluzione dei media ha portato con sé la disciplina della privacy, con la moltitudine di diritti, cautele, adempimenti imposti nella gestione dei dati personali.
 				p Generalmente il nostro Cliente in questo settore è una start up o uno spin off di un’azienda che decide di “digitalizzarsi” o aprire un nuovo settore di business.<br>L&P assiste con competenza aziende che operano interamente su internet, in tutto il loro processo commerciale, ed aziende che usano internet come forma prevalente di comunicazione. 
 				p L’esperienza nei new media ci ha consentito di apprezzare e valorizzare l’importanza del fattore tempo nell’assistenza legale e contrattuale, considerata la forte accelerazione che caratterizza il settore.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

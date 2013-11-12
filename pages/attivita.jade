@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Activities - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Attività - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,17 +18,24 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 Activities
+			<?php } else { ?>
 			h3 Attivit&agrave;
-				small &nbsp;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				p Lerro&Partners law firm focuses on civil and commercial cases. In the menu on the left you can navigate among the sectors in which  our practice has acquired ample and recognised experience.
+				p Our policy is to undertake only the cases in the fields we specialise in. When we consider that it lacks sufficient experience, with the agreement of the client, outside professionals with proven experience and ability may be involved, to form a multidisciplinary team to better support the defence of the client.
+				<?php } else { ?>
 				p Il focus dello Studio è sulle materie civili e commerciali. Nel menù a sinistra è possibile navigare tra i settori nei quali Lerro&Partners ha maturato una ampia esperienza e che vengono seguiti con maggior assiduità.
 				p La politica dello Studio è  di assumere esclusivamente gli incarichi relativi a materie nelle quali abbia sviluppato una competenza specifica. In alcuni settori nei quali lo Studio ritenga di non avere sufficiente esperienza, previo accordo con il Cliente, possono essere coinvolti professionisti esterni di provata esperienza e capacità, per costituire un team multidisciplinare idoneo a sostenere al meglio le difese del Cliente e di realizzarne gli interessi.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

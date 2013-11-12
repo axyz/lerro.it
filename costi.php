@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Costs - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Costi - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,14 +45,28 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>Costi<small>&nbsp;</small></h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>Costs<small>&nbsp;</small></h3><?php } else { ?>
+      <h3>Costi<small>&nbsp;</small></h3><?php } ?>
     </div>
   </div>
 </div>
 <div id="content" class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-fluid">
+    <div class="twelve columns panel box-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <p>Our professional services are always stipulated in a Contract and fees are agreed upon prior to the start of work on the basis of a written estimate, which forms an integral part of the Contract. This also applies to professional services for small claims.</p>
+      <p>Sometimes it is necessary to prepare a preliminary analysis of the case that, unless otherwise agreed, will not be charged to the client.</p>
+      <p>In view of the abolition of mandatory professional fees (Article 9 of the Legislative Decree of 24 January 2012, no. 1, ratified with amendments by the Law of 24 March 2012, no. 27) the fees are stipulated with the client according to the following formulas:</p>
+      <div style="padding-left:4em;">
+        <ul>
+          <li>Per project: in the context of a more complex task, fees are defined for each project and then the client chooses whether to call on the service and for which projects.</li>
+          <li>Per hour: an hourly fee can be established, in the international style, in which case the hours worked are reported and paid periodically (usually on a monthly basis).</li>
+          <li>Lump sum: a certain fee is established for the entire task.</li>
+          <li>Success fee: this formula for remuneration consists of a retainer and a success fee which accrues only in the event of a favourable outcome of the project, according to the terms agreed to with the client.</li>
+          <li>Rate: another formula, especially useful for disputes, is a rate-based fee: a fee is agreed for each possible activity which is then charged only if actually performed (ex: drafting of a memorandum, attendance at a hearing, etc.)</li>
+        </ul>
+      </div>
+      <p>Our professional activity is covered by an insurance policy issued by AIG Europe for professional liability with a ceiling of 2,600,000.00 euros.  Any transactions subject to possible superior liability limits may be subject to specific extension.</p><?php } else { ?>
       <p>I nostri servizi professionali sono sempre concordati in un Contratto e i compensi sono pattuiti prima dell’inizio del lavoro, sulla base di un preventivo scritto, che forma parte integrante del Contratto. Ciò avviene anche per servizi professionali di modesta entità.</p>
       <p>Talora per redigere un preventivo è necessaria un’analisi preliminare del caso che, salvo diversi accordi, non viene addebitata al cliente.</p>
       <p>In considerazione dell’abolizione delle tariffe professionali obbligatorie (art. 9 del decreto legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27) i compensi sono concordati con il cliente secondo una delle seguenti formule:</p>
@@ -63,7 +79,7 @@
           <li>A tariffa: una ulteriore formula, utile soprattutto per il contenzioso, è quella a tariffa: viene concordato un compenso per ciascuna possibile attività e poi vengono addebitate solo quelle effettivamente effettuate (es. redazione di una memoria, partecipazione ad un’udienza, ecc.)</li>
         </ul>
       </div>
-      <p>La nostra attività professionale è coperta da polizza assicurativa emessa da AIG Europe per la responsabilità professionale con un massimale di euro 2.600.000,00. Eventuali operazioni soggette a limiti di possibili responsabilità superiori possono essere oggetto di specifica estensione.</p>
+      <p>La nostra attività professionale è coperta da polizza assicurativa emessa da AIG Europe per la responsabilità professionale con un massimale di euro 2.600.000,00. Eventuali operazioni soggette a limiti di possibili responsabilità superiori possono essere oggetto di specifica estensione.</p><?php } ?>
     </div>
   </div>
 </div>

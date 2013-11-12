@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Lerro&amp;Partners - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Lerro&amp;Partners - Studio Legale - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -54,35 +56,47 @@
   <div class="twelve columns">
     <div class="four columns">
       <div class="panel box-title">
-        <h5> <a href="profilo.php">
+        <h5><?php if($_GET['lang'] == "en") { ?><a href="profilo.php?lang=en">
+             
+            PROFILE
+            &nbsp;<i class="icon-circle-arrow-right"></i></a><?php } else { ?><a href="profilo.php">
              
             PROFILO
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
+            &nbsp;<i class="icon-circle-arrow-right"></i></a><?php } ?></h5>
       </div>
-      <div class="box panel">
-        <p>Il profilo professionale di <b>Lerro&Partners</b> è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.</p>
+      <div class="box panel"><?php if($_GET['lang'] == "en") { ?>
+        <p><b>L&Partners</b>’s profile results from twenty years of activity and innovation in the service of the clients' rights.</p><?php } else { ?>
+        <p>Il profilo professionale di <b>Lerro&Partners</b> è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.</p><?php } ?>
       </div>
     </div>
     <div class="four columns">
       <div class="panel box-title">
-        <h5> <a href="attivita.php">
+        <h5><?php if($_GET['lang'] == "en") { ?><a href="attivita.php?lang=en">
+             
+            ACTIVITIES
+            &nbsp;<i class="icon-circle-arrow-right"></i></a><?php } else { ?><a href="attivita.php">
              
             ATTIVIT&Agrave;
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
+            &nbsp;<i class="icon-circle-arrow-right"></i></a><?php } ?></h5>
       </div>
-      <div class="box panel">
-        <p><b>Lerro&Partners</b> si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p>
+      <div class="box panel"><?php if($_GET['lang'] == "en") { ?>
+        <p><b>L&Partners</b> specializes in civil and commercial law. This section describes our main areas of expertise.</p><?php } else { ?>
+        <p><b>Lerro&Partners</b> si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.</p><?php } ?>
       </div>
     </div>
     <div class="four columns">
       <div class="panel box-title">
-        <h5><a href="esperienza.php">
+        <h5><?php if($_GET['lang'] == "en") { ?><a href="esperienza.php?lang=en">
+             
+            CASE HISTORIES
+            &nbsp;<i class="icon-circle-arrow-right"></i></a><?php } else { ?><a href="esperienza.php">
              
             STORIE
-            &nbsp;<i class="icon-circle-arrow-right"></i></a></h5>
+            &nbsp;<i class="icon-circle-arrow-right"></i></a><?php } ?></h5>
       </div>
-      <div class="box panel">
-        <p>Raccontiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.</p>
+      <div class="box panel"><?php if($_GET['lang'] == "en") { ?>
+        <p>Here is some of our experience which describe and represent our approach to the legal profession.</p><?php } else { ?>
+        <p>Raccontiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.</p><?php } ?>
       </div>
     </div>
   </div>

@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Lerro&Partners - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Lerro&Partners - Studio Legale - Roma")
+<?php } ?>
 include includes/nav.php
 
 br
@@ -24,32 +28,64 @@ br
 	.twelve.columns
 		.four.columns
 			.panel.box-title
-				h5 
+				h5
+					<?php if($_GET['lang'] == "en") { ?>
+					a(href="profilo.php?lang=en") 
+						| PROFILE
+						&nbsp;
+						i.icon-circle-arrow-right
+					<?php } else { ?>
 					a(href="profilo.php") 
 						| PROFILO
 						&nbsp;
 						i.icon-circle-arrow-right
+					<?php } ?>
 			.box.panel
+				<?php if($_GET['lang'] == "en") { ?>
+				p <b>L&Partners</b>’s profile results from twenty years of activity and innovation in the service of the clients' rights.
+				<?php } else { ?>
 				p Il profilo professionale di <b>Lerro&Partners</b> è la sintesi di venti anni di attività e di rinnovamento al servizio dei diritti del Cliente.
+				<?php } ?>
 		.four.columns
 			.panel.box-title
-				h5 
+				h5
+					<?php if($_GET['lang'] == "en") { ?>
+					a(href="attivita.php?lang=en") 
+						| ACTIVITIES
+						&nbsp;
+						i.icon-circle-arrow-right
+					<?php } else { ?>
 					a(href="attivita.php") 
 						| ATTIVIT&Agrave;
 						&nbsp;
 						i.icon-circle-arrow-right
+					<?php } ?>
 			.box.panel
+				<?php if($_GET['lang'] == "en") { ?>
+				p <b>L&Partners</b> specializes in civil and commercial law. This section describes our main areas of expertise.
+				<?php } else { ?>
 				p <b>Lerro&Partners</b> si occupa di diritto civile e commerciale. In questa sezione sono descritte le principali aree di competenza.
+				<?php } ?>
 		.four.columns
 			.panel.box-title
 				h5
+					<?php if($_GET['lang'] == "en") { ?>
+					a(href="esperienza.php?lang=en") 
+						| CASE HISTORIES
+						&nbsp;
+						i.icon-circle-arrow-right
+					<?php } else { ?>
 					a(href="esperienza.php") 
 						| STORIE
 						&nbsp;
 						i.icon-circle-arrow-right
+					<?php } ?>
 			.box.panel
+				<?php if($_GET['lang'] == "en") { ?>
+				p Here is some of our experience which describe and represent our approach to the legal profession.
+				<?php } else { ?>
 				p Raccontiamo alcune delle nostre esperienze, indicative o rappresentative del nostro approccio alla Professione.
-  
+				<?php } ?>
 
 include includes/footer.php
 include includes/tail.php

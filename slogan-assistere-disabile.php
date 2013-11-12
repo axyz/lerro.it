@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Dealing with disability - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Assistere Un Disabile - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/04.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>PROGETTI</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>PROJECTS</h3><?php } else { ?>
+      <h3>PROGETTI</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -61,12 +64,17 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Dealing with disability<small>&nbsp;</small></h3>
+        <p>Too often, disability, whether physical or mental, is seen as a problem to hide and not as a situation to address. As a result we find ourselves looking for temporary and quick answers for a specific incident, rather than comprehensive solutions that allow facing the future with greater serenity. The family of a disabled person faces a wall. They wonder how they will assist him or her, for how long and how to combine their personal commitments with the needs for care.</p>
+        <p>The assistance of the disabled person is now facilitated by the legal job of the <“support administrator” (amministratore di sostegno), in addition to the traditional guardian. However this is a non-professional figure, having family connections with the disabled and able to best interpret desires and aspirations.</p>
+        <p>Beside the support administrator, a professionally qualified figure is often required to assist for the best execution of his or her task. For many acts it is still necessary to interact with the tutelary judge or the Court. For many others, the assistance of a qualified figure is more appropriate. This will protect the support administrator  and the disabled from mistakes or mishaps, ensuring the best collaboration in the pursuit of the disabled’s interests.</p>
+        <p>The awareness of the legislature in respect to disability issues has taken important steps. Nowadays, there are several solutions at hand that make both the life of the disabled and the family better, ensuring the maximum efficiency of protective measures and their continuity over time.</p><?php } else { ?>
         <h3>Assistere un disabile<small>&nbsp;</small></h3>
         <p>Troppo spesso la disabilità, fisica o mentale, è vista come un problema da nascondere e non come una situazione da affrontare, con la conseguenza che ci si ritrova a cercare risposte transitorie e puntuali per l’incidente del momento, invece che soluzioni complessive che consentano di affrontare il futuro con maggior serenità. I familiari di un disabile si trovano dinanzi ad un muro, a chiedersi come faranno ad assisterlo, per quanto tempo, come combinare i propri impegni con le esigenze assistenziali.</p>
         <p>L’assistenza del disabile è oggi agevolata dalla figura dell’amministratore di sostegno, oltre a quella tradizionale del tutore. Tuttavia si tratta di una figura non professionale, affettivamente vicina al disabile ed in grado di interpretarne al meglio desideri ed aspirazioni.</p>
         <p>Accanto all’amministratore di sostegno è spesso necessaria una figura professionalmente qualificata, per assisterlo nella esecuzione del suo compito al meglio. Per molti atti è necessario comunque interloquire con il Giudice Tutelare o il Tribunale; per molti altri è opportuna un’assistenza qualificata che metta al riparo l’amministratore di sostegno e l’assistito da errori o incidenti di percorso, assicurando la miglior collaborazione nel perseguimento degli interessi del disabile.</p>
-        <p>La consapevolezza del legislatore nei confronti delle problematiche della disabilità ha fatto passi importanti ed oggi sono disponibili molte soluzioni che rendono migliore la vita dell’assistito e dei familiari, garantendo la massima efficienza delle misure di protezione e la loro continuità nel tempo.</p>
+        <p>La consapevolezza del legislatore nei confronti delle problematiche della disabilità ha fatto passi importanti ed oggi sono disponibili molte soluzioni che rendono migliore la vita dell’assistito e dei familiari, garantendo la massima efficienza delle misure di protezione e la loro continuità nel tempo.</p><?php } ?>
       </div>
     </div>
   </div>

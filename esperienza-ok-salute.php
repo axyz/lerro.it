@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Ok Salute - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Company Web - Law Firm - Rome</title></head>
+<body><?php } else { ?>
+<title>Azienda Web - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,11 +66,15 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Company Web<small>&nbsp;</small></h3>
+        <p>K is a web company in rapid expansion, which has been active for several years and was a real start-up school: the company was started from the initiative of several important members of the pharmaceutical industry with the support of the Kiwi II venture capital fund (managed by Pino Ventures of Elserino Piol), created to provide web services in the health sector by generating a useful flow of incoming and outgoing information concerning its members, while serving as a centre for the dissemination of expert profiled medical information.</p>
+        <p>We have represented the founding members during the establishment and operation of venture capital (there have been several multi-million euro funding rounds) and with all corporate activities. The company has outsourced to us all legal work, the organization and management of relationships with suppliers and contracting, personnel management and litigation.</p>
+        <p>The subsequent crisis of internet companies resulted in the suspension of the development plan, thereby requiring less availability of necessary additional investments. We then dealt with the liquidation of the assets (including the brand, which today distinguishes a well-known leader in the sector).</p><?php } else { ?>
         <h3>Azienda Web<small>&nbsp;</small></h3>
         <p>In piena esplosione delle web company il progetto K., che ci ha impegnato per diversi anni, è stato una vera accademia della start up: la società, nata dall’iniziativa di diversi importanti esponenti dell’industria farmaceutica con il supporto del fondo di venture capital Kiwi II (gestito dalla Pino Ventures di Elserino Piol), intendeva fornire servizi web nel settore della salute generando un utile flusso in entrata ed in uscita di informazioni concernenti i propri utenti, proponendosi come centro di diffusione di informazione medica qualificata, profilata e segmentata.</p>
         <p>Abbiamo assistito i soci fondatori nella fase costitutiva e nelle operazioni di venture capital (ci sono stati più round di finanziamento per diversi milioni di euro) ed in tutta l’attività corporate. L’azienda ha terziarizzato su di noi tutta l’attività legale, l’organizzazione e la gestione dei rapporti con i fornitori e la contrattualistica, la gestione del personale, il contenzioso.</p>
-        <p>La successiva crisi delle aziende internet ne ha quindi sospeso il piano di sviluppo, essendo venuta meno la disponibilità dei necessari ulteriori investimenti. Ci siamo quindi occupati della liquidazione degli asset (tra i quali il marchio, che oggi contraddistingue una nota testata del settore). </p>
+        <p>La successiva crisi delle aziende internet ne ha quindi sospeso il piano di sviluppo, essendo venuta meno la disponibilità dei necessari ulteriori investimenti. Ci siamo quindi occupati della liquidazione degli asset (tra i quali il marchio, che oggi contraddistingue una nota testata del settore). </p><?php } ?>
       </div>
     </div>
   </div>

@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Intellectual Property and Competition - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Proprietà Intellettuale, Concorrenza - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-proprieta-intellettuale-concorrenza.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,13 +67,19 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Intellectual Property and Competition<small>&nbsp;</small></h3>
+        <p>Trademarks, patents, copyrights, database and the different types of intellectual property are an essential part in the process of creating value. With this in mind, Lerro&Partners has been involved in important negotiations, resolving issues related to the various levels of the distribution chain.</p>
+        <p>In the field of trademarks, we are frequently involved in projects related to commercial products and the fashion industry, including advertising contracts and testimonials coming from the world of show business and sport, with the need to protect their personal identity.</p>
+        <p>The assistance may include registration and international protection of trademarks and domain names.</p>
+        <p>Information technology, industrial patents, biotechnology and nanotechnology are treated with in-depth analysis and expertise.</p>
+        <p>We have experience in dealing with delicate and complex cases involving intellectual property and competition. In particular, we have followed relevant matters before the Italian Competition Authority on concentrations and restrictive agreements, mostly involving large areas of distribution and broadcast media. Lerro&Partners provides full protection and assistance in proceedings before the Italian Competition Authority, including cases concerning misleading advertising.</p><?php } else { ?>
         <h3>Proprietà Intellettuale e Concorrenza<small>&nbsp;</small></h3>
         <p>Marchi, brevetti, copyright, database e i differenti tipi di proprietà intellettuale sono parte essenziale del processo di creazione del valore. Con questa consapevolezza, lo Studio è stato coinvolto in importanti negoziazioni, risolvendo problematiche relative ai vari livelli della catena distributiva. </p>
         <p>Nel settore dei marchi, L&P è frequentemente impegnato in progetti relativi a prodotti commerciali e del settore della moda, inclusi contratti pubblicitari e relativi a testimonial provenienti dal mondo dello spettacolo e dello sport, con le relative esigenze di protezione dell’identità personale.</p>
         <p>L’assistenza può comprendere registrazione e protezione internazionale di marchi e nomi a dominio.</p>
         <p>L'information technology, i brevetti industriali, le biotecnologie e le nanotecnologie sono trattate con approfondimento e competenza scientifica. </p>
-        <p>Siamo stati incaricati di delicati e complessi contenziosi aventi ad oggetto proprietà intellettuale e concorrenza. In particolare, abbiamo seguito rilevanti questioni innanzi all'Autorità Garante della Concorrenza e del Mercato concernenti concentrazioni ed intese restrittive, prevalentemente aventi ad oggetto i settori della grande distribuzione e della radiotelevisione. Lo Studio presta piena tutela e assistenza nei procedimenti innanzi all'Autorità Antitrust, ivi compresi i procedimenti in materia di pubblicità ingannevole.</p>
+        <p>Siamo stati incaricati di delicati e complessi contenziosi aventi ad oggetto proprietà intellettuale e concorrenza. In particolare, abbiamo seguito rilevanti questioni innanzi all'Autorità Garante della Concorrenza e del Mercato concernenti concentrazioni ed intese restrittive, prevalentemente aventi ad oggetto i settori della grande distribuzione e della radiotelevisione. Lo Studio presta piena tutela e assistenza nei procedimenti innanzi all'Autorità Antitrust, ivi compresi i procedimenti in materia di pubblicità ingannevole.</p><?php } ?>
       </div>
     </div>
   </div>

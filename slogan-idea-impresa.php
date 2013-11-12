@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Turning ideas into business - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Da Un’idea A Un’impresa - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/01.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>PROGETTI</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>PROJECTS</h3><?php } else { ?>
+      <h3>PROGETTI</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -61,13 +64,19 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Turning ideas into business<small>&nbsp;</small></h3>
+        <p>Having a good business idea is not easy, turning it into an enterprise is even harder. The idea must be developed, tested, compared with suppliers, potential clients, industry experts. In many cases, the idea can be protected, where the legal system confers particular characteristics to it, for example: an invention, a design, a work of art, a brand, an advertising idea. In other cases, the idea is not independently protectable as an intangible asset, then it must be protected with a series of legal safeguards that oblige the parties to the contract not to disclose or use it.</p>
+        <p>Then one moves to the execution phase: you set up and enterprise, usually a company, and the agreements with the shareholders are reached in writing: it is always good to first clarify what will be the future of the company, to ensure that a good business venture does not cause the end of a friendship or the ruin of the proposal due to personal friction resulting from an initial lack of clarity.</p>
+        <p>At this stage it is common to find investors who contribute risk capital to provide the necessary financial contributions, and the conclusion of agreements with them, which will allow the healthy development of the company. Likewise, you may make use of various forms of existing incentives. You have to structure the company contracts for clients, verifying business and critical processes, in order to proceed to the allocation of risks in accordance with the provisions of the law.</p>
+        <p>On the internal front, you need to organize resources in a manner consistent with the company's business model, efficiently and economically, and negotiate relationships with suppliers.</p>
+        <p>Large companies often use, strategy and management consultants, experts in start-ups, competitive positioning and management of processes for this phase. If unable to have the resources for a strategic advisor for smaller companies, it is still important to at least consult with a legal expert to avoid making mistakes that can slow or stop the growth or development of the project.</p><?php } else { ?>
         <h3>Da un’idea a un’impresa<small>&nbsp;</small></h3>
         <p>Avere una buona idea imprenditoriale non è facile, farla diventare un’azienda ancora meno.<br>L’idea deve essere sviluppata, testata, confrontata con fornitori, potenziali clienti, esperti del settore. In molti casi l’idea può essere protetta, laddove l’ordinamento giuridico le attribuisca particolari caratteristiche; ad esempio: un’invenzione, un design, un’opera artistica, un marchio, un’idea pubblicitaria. In altri casi l’idea non è autonomamente proteggibile come bene immateriale; quindi deve essere difesa con una serie di cautele giuridiche che vincolino contrattualmente gli interlocutori a non divulgarla o utilizzarla.</p>
         <p>Poi si passa alla fase esecutiva: si costituisce un’impresa, generalmente in forma societaria, e si mettono nero su bianco gli accordi con i soci; è sempre bene chiarire prima quale sarà il futuro della società, onde evitare che una bella iniziativa imprenditoriale provochi la fine di un’amicizia o che il progetto naufraghi a causa di attriti personali dovuti a poca chiarezza iniziale.</p>
         <p>In questa fase è frequente la ricerca di investitori che contribuiscano con capitale di rischio a fornire i necessari apporti finanziari, e la conclusione con essi di accordi che consentano alla società uno sviluppo sano. Parimenti, è possibile fare ricorso a diverse forme di incentivazione esistenti. Quindi si deve strutturare la contrattualistica dell’impresa nei confronti dei clienti, verificando i processi aziendali e le criticità, onde procedere all’allocazione dei rischi nel rispetto di quanto previsto dalla legge.</p>
         <p>Sul fronte interno, occorre organizzare le risorse in modo coerente con il business model della società, in modo efficiente ed economico, e negoziare i rapporti con i fornitori.</p>
-        <p>Le grandi aziende spesso si avvalgono, per questa fase, di consulenti di strategia e management, esperti di start up, posizionamento competitivo e gestione di processi. Non potendo disporre delle risorse per un consulente strategico, per le aziende più piccole è comunque importante consultarsi quantomeno con un esperto legale per evitare di commettere errori che possano rallentare o frenare la crescita o lo sviluppo del progetto.</p>
+        <p>Le grandi aziende spesso si avvalgono, per questa fase, di consulenti di strategia e management, esperti di start up, posizionamento competitivo e gestione di processi. Non potendo disporre delle risorse per un consulente strategico, per le aziende più piccole è comunque importante consultarsi quantomeno con un esperto legale per evitare di commettere errori che possano rallentare o frenare la crescita o lo sviluppo del progetto.</p><?php } ?>
       </div>
     </div>
   </div>

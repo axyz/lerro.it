@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Corporate and Commercial - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Commerciale E Societario - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/attivita-commerciale-societario.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>ATTIVIT&Agrave;</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>ACTIVITIES</h3><?php } else { ?>
+      <h3>ATTIVIT&Agrave;</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -64,11 +67,15 @@
           <li> <a href="attivita-amministrazione-sostegno-tutela-protezione-incapaci.php">PROTEZIONE DEGLI INCAPACI</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Corporate and Commercial<small>&nbsp;</small></h3>
+        <p>Attentive to the international debate on transparency in management, Lerro&Partners focuses on Corporate Governance as one of its traditional areas of activity. In addition to following corporate issues of international and traditional businesses, we have analysed and implemented joint venture structures for companies and groups, with the goal of ensuring maximum efficiency and protection of the interests of shareholders and investors.</p>
+        <p>Following its clients from conception to eventual liquidation, Lerro&Partners attends to every aspect and necessary formalities concerning the company's organization and related problems. In particular, we have extensive experience in the drafting and subsequent management of shareholders' agreements, contributing to the proper allocation of decision-making powers and control while dealing with balanced participation rules and designing predetermined exit strategies.</p>
+        <p>In dealings with the market, experience allows Lerro&Partners to provide complete representation in various sectors of commercial agreements, as well as in issues of labour law and intellectual property, employing innovative and atypical contractual instruments.</p><?php } else { ?>
         <h3>Commerciale e Societario<small>&nbsp;</small></h3>
         <p>La Corporate Governance è una tradizionale area di attività di L&P, attento al dibattito internazionale in materia di trasparenza nella gestione dell'impresa. Oltre a seguire problematiche societarie di gruppi internazionali e imprese di tipo tradizionale, lo Studio ha analizzato e implementato strutture di joint venture, società e gruppi, con l'obiettivo di garantire la massima efficienza e tutela dell'interesse degli azionisti e degli investitori. </p>
         <p>Seguendo i propri Clienti dal momento genetico dell'impresa fino alla eventuale fase di liquidazione, L&P cura ogni aspetto dell'organizzazione societaria e le problematiche connesse con i necessari adempimenti. In particolare, lo Studio ha consolidato una rilevante esperienza nella redazione e successiva gestione di accordi parasociali, contribuendo alla corretta allocazione dei poteri decisionali e di controllo, curando le regolamentazioni degli equilibri partecipativi e disegnando strategie di uscita programmata.</p>
-        <p>Nei rapporti dell'impresa con il mercato, l'esperienza maturata consente a L&P di prestare completa assistenza nei diversi settori della contrattualistica commerciale, nelle problematiche di carattere giuslavoristico e nell'intellectual property, impiegando strumenti contrattuali atipici e innovativi.</p>
+        <p>Nei rapporti dell'impresa con il mercato, l'esperienza maturata consente a L&P di prestare completa assistenza nei diversi settori della contrattualistica commerciale, nelle problematiche di carattere giuslavoristico e nell'intellectual property, impiegando strumenti contrattuali atipici e innovativi.</p><?php } ?>
       </div>
     </div>
   </div>

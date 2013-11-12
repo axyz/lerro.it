@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Proras vs. Unione Europea - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Company vs. European Union - Law Firm - Rome</title></head>
+<body><?php } else { ?>
+<title>Azienda vs. Unione Europea - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,11 +66,15 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Company vs. European Union<small>&nbsp;</small></h3>
+        <p>P. is a service and engineering company which in recent years has specialized in procurements in the area of European cooperation (European Union). The European Union is a difficult environment which is greatly complicated by political pressures from governments and by the fundamental importance attributed to the role of contractors outside the Community institutions.</p>
+        <p>Following a dispute originated by a delivery, the client had been added to an unofficial blacklist and excluded from further bids and awards. This exclusion had caused significant damage, since the company was focused on engineering services in the context of EU tender procedures (particularly in the nuclear field), and thereby in procurements in the EU PHARE and TACIS.</p>
+        <p>In view of the complete refusal of the European Commission to engage in any possible negotiation, we brought a civil action against the European Commission itself before the Court of First Instance of the European Community in Luxembourg. Pending the outcome we, on behalf of our clients, obtained a rather significant compensation. </p><?php } else { ?>
         <h3>Azienda vs. Unione Europea<small>&nbsp;</small></h3>
         <p>P. è una società di servizi e di ingegneria che negli ultimi anni si è specializzata in appalti nel settore della cooperazione europea. Si tratta di un ambiente difficile, notevolmente complicato sia dalle pressioni politiche dei Governi che da ruoli di fondamentale importanza attribuiti a contractor esterni alle istituzioni comunitarie.</p>
         <p>In seguito ad un contenzioso originato da una fornitura, il Cliente è stato inserito in una black list non ufficiale ed escluso da ulteriori gare ed aggiudicazioni. Tale esclusione ha provocato significativi danni, atteso che l’azienda era focalizzata su servizi di ingegneria nell’ambito di procedure di gara comunitarie  (in particolare nel settore nucleare),  e quindi su appalti dell’U.E. in ambito TACIS e PHARE.</p>
-        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. Nelle more del giudizio abbiamo ottenuto un risarcimento, peraltro piuttosto rilevante.</p>
+        <p>Vista la totale chiusura della Commissione Europea nei confronti di ogni possibile negoziazione, abbiamo promosso un’azione civile innanzi al Tribunale di primo grado delle Comunità Europee, in Lussemburgo, contro la stessa Commissione Europea. Nelle more del giudizio abbiamo ottenuto un risarcimento, peraltro piuttosto rilevante.</p><?php } ?>
       </div>
     </div>
   </div>

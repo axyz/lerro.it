@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Biopolis - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Biotech Start Up - Law Firm - Rome</title></head>
+<body><?php } else { ?>
+<title>Start Up Biotech - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,12 +66,17 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Biotech Start Up<small>&nbsp;</small></h3>
+        <p>B. is a company started in Siena thanks to a significant investment of venture capital by one of the largest investment funds in the world, with the aim of developing patented technologies in the pharmaceutical industry, to identify target clients, bring them to phase II and market  them.</p>
+        <p>We represented the company in all corporate activities, from investment contracts to shareholders' agreements, to the management of the activities of the board of directors. We also took care of general contract law, labour relations and business with suppliers.</p>
+        <p>With our support, the company has thus acquired or licensed partially developed international  patents, with which it was possible to develop an ambitious business model. For the most part we have negotiated licenses with universities and their spin-offs, taking care of the patent due diligence phase, the negotiation and conclusion of contractual agreements.</p>
+        <p>Finally we have managed the withdrawal from the investment and the transfer to third parties of the business and technologies developed and acquired.</p><?php } else { ?>
         <h3>Start Up Biotech<small>&nbsp;</small></h3>
         <p>B. è una società nata a Siena grazie anche ad un significativo investimento in venture capital da parte di uno dei più grandi fondi di investimento del mondo, con l’obiettivo di sviluppare tecnologie brevettate nel settore farmaceutico, targetizzarle, portarle alla fase II e metterle sul mercato.</p>
         <p>Abbiamo assistito l’azienda in tutte le attività corporate, dai contratti di investimento agli accordi parasociali, alla gestione delle attività del consiglio di amministrazione. Ci siamo occupati inoltre della contrattualistica generale, dei rapporti di lavoro e delle relazioni con i fornitori.</p>
         <p>Con il nostro supporto, la società ha quindi acquisito o preso in licenza brevetti internazionali già parzialmente sviluppati, per i quali fosse possibile sviluppare un business model ambizioso. Per lo più abbiamo negoziato licenze con strutture universitarie e relativi spin off, curando la fase di due diligence brevettuale, la negoziazione e la stipulazione degli accordi contrattuali.</p>
-        <p>Infine abbiamo curato la exit dall’investimento ed il trasferimento a terzi del complesso aziendale e delle tecnologie acquisite e sviluppate.</p>
+        <p>Infine abbiamo curato la exit dall’investimento ed il trasferimento a terzi del complesso aziendale e delle tecnologie acquisite e sviluppate.</p><?php } ?>
       </div>
     </div>
   </div>

@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Defending an heritage - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("La Difesa Di Un Patrimonio - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,13 +18,26 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 PROJECTS
+			<?php } else { ?>
 			h3 PROGETTI
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/slogan-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Defending an heritage
+					small &nbsp;
+				p There are many reasons why it is necessary to defend a heritage or at least keep it intact. History has shown cases where large family resources have been dispersed as a result of discord among siblings, separations, personal tragedies and personal issues.
+				p To avoid such events, the legal system provides tools that allow valid asset protection in full compliance with the law and with fundamental principles such as financial liability, protection of custody, protection of incapables or the protection of inheritance rights. Furthermore, in the modern world, the international legal systems often help the national framework, integrating it with experience tested in other contexts (for example, the case of the Trust, which in the UK and USA has allowed the conservation of large family estates).
+				p Equally important are the management of the planning and the programming of the generational shift.
+				p It is also necessary to differentiate strategies and actions according to the type of assets (real estate, movable or mixed), to client needs and to real opportunities that can arise.
+				p The problem analysis, the assessment of alternatives and the planning for the future allow an effective defence of the assets, a reduction of the risk as well as significant savings.
+				<?php } else { ?>
 				h3 La difesa di un patrimonio
 					small &nbsp;
 				p Ci sono molte ragioni per le quali è necessario difendere un patrimonio o comunque tenerlo unito. La storia ci ha mostrato casi di dispersione di ingenti risorse familiari a seguito di litigi tra fratelli, di separazioni, di tragedie personali, di disturbi personali.
@@ -28,7 +45,7 @@ br
 				p Altrettanto importanti sono la pianificazione della gestione e la programmazione del passaggio generazionale.
 				p Occorre poi differenziare strategie ed azioni in relazione alla natura del patrimonio (immobiliare, mobiliare o misto), alle esigenze  del Cliente e alle opportunità che concretamente si manifestano.
 				p L’analisi del problema, la valutazione delle alternative e la programmazione del futuro consentono una difesa efficace del patrimonio, la riduzione dei rischi e significativi risparmi.
-		
+				<?php } ?>
 		
 	
 

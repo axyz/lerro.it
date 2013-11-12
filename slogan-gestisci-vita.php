@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Managing your life - Law Firm - Rome</title></head>
+<body><?php } else { ?>
 <title>Gestisci La Tua Vita - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/05.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>PROGETTI</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>PROJECTS</h3><?php } else { ?>
+      <h3>PROGETTI</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -61,14 +64,21 @@
           <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Managing your life<small>&nbsp;</small></h3>
+        <p>Often you feel overwhelmed by the red-tape, by the suppliers management, by the daily hassles that seem increasingly inevitable and that are impossible to overlook in order to avoid sanctions, by renewals of contracts, and all sorts of prejudices.</p>
+        <p>Keeping a very delicate balance you find yourself facing matters governed by principles that are unfamiliar, by unintelligible rules that are difficult to detect and often in contexts that are incomprehensible.</p>
+        <p>This is even more so when it comes to certain professions which require lives to be in constant motion, or when it comes to some job profiles that depart from the typology of business or from the individual’s specific skills.</p>
+        <p>For example, it is common for a doctor, already thoroughly occupied by every kind of professional commitments, that he has to fight with the management of leased property, with tenants in arrears, renovations, monthly expenses, and administrative procedures. Or it happens that a pensioner is unable to devote as much time as he would like to his grandchildren and his hobbies, being forced to interact with public offices, family business, and management of the heritage.</p>
+        <p>In all these cases it is useful to have a "family office" that professionally manages all the bureaucracy, requirements, relationships with suppliers, relations with the authorities, leaving the person free to live peacefully, selecting the issues that one will actually deal with.</p>
+        <p>The advisory support enables you to have a guide in the management of daily problems or even totally delegate them to a professional adviser.</p><?php } else { ?>
         <h3>Gestisci la tua vita<small>&nbsp;</small></h3>
         <p>Molte volte ci si sente sopraffatti dagli adempimenti, dalla gestione dei fornitori, dai fastidi quotidiani che sembrano sempre più inevitabili e che è impossibile trascurare, onde evitare sanzioni, rinnovi di contratti, pregiudizi di ogni tipo.</p>
         <p>Ci si trova ad affrontare, in un delicatissimo equilibrio, questioni governate da principi che non si conoscono, da regole astruse difficili da individuare, in contesti spesso incomprensibili.</p>
         <p>Tanto più tale situazione si presenta opprimente in relazione a determinate attività professionali, che richiedono vite in continuo movimento, o in relazione a profili professionali molto lontani dalla tipologia di affari che richiedono attenzione, o comunque alla specifica capacità del singolo.</p>
         <P>Ad esempio, è frequente che un medico, già abbondantemente preso da impegni professionali di ogni tipo, debba combattere con la gestione di immobili locati, con inquilini morosi, ristrutturazioni, grane condominiali, adempimenti amministrativi. Oppure capita che il pensionato non riesca a dedicarsi come vorrebbe ai nipoti e ai propri hobby, trovandosi costretto ad interagire con uffici pubblici, affari di famiglia, gestioni patrimoniali.</P>
         <P>In tutti questi casi è utile avere un “family office” che gestisca professionalmente tutta la burocrazia, gli adempimenti, i rapporti con i fornitori, le relazioni con gli enti, lasciando la persona libera di vivere serenamente, selezionando le questioni di cui voglia effettivamente occuparsi.</P>
-        <p>Il supporto consulenziale consente di usufruire di una guida nella gestione delle problematiche quotidiane o addirittura di delegarle totalmente ad un professionista di fiducia.</p>
+        <p>Il supporto consulenziale consente di usufruire di una guida nella gestione delle problematiche quotidiane o addirittura di delegarle totalmente ad un professionista di fiducia.</p><?php } ?>
       </div>
     </div>
   </div>

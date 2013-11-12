@@ -21,9 +21,11 @@
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
 	<link href='http://fonts.googleapis.com/css?family=Cardo' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'>
-<title>Perry Ellis - Studio Legale - Lerro&amp;Partners - Roma</title></head>
-<body><nav class="top-bar fixed">
+	<link href='http://fonts.googleapis.com/css?family=Dosis:400,700' rel='stylesheet' type='text/css'><?php if($_GET['lang'] == "en") { ?>
+<title>Sports Company - Law Firm - Rome</title></head>
+<body><?php } else { ?>
+<title>Azienda Sportiva - Studio Legale - Lerro&amp;Partners - Roma</title></head>
+<body><?php } ?><nav class="top-bar fixed">
     <ul>
       <li class="name"><h1><a href="<?php echo $basedir;?>"><img src="images/logo.png" id="logo2" /></a></h1></li>
       <li class="toggle-topbar"><a href="#"></a></li>
@@ -43,8 +45,9 @@
 <div id="maximage"><img src="images/bg/lp-bg.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
-    <div class="twelve columns panel box-title-fluid">
-      <h3>STORIE</h3>
+    <div class="twelve columns panel box-title-fluid"><?php if($_GET['lang'] == "en") { ?>
+      <h3>CASE HISTORIES</h3><?php } else { ?>
+      <h3>STORIE</h3><?php } ?>
     </div>
   </div>
 </div>
@@ -63,12 +66,17 @@
           <li> <a href="esperienza-ministero-ambiente.php">MINISTERO DELL’AMBIENTE</a></li>
         </ul>
       </div>
-      <div class="eight columns">
+      <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
+        <h3>Sports Company<small>&nbsp;</small></h3>
+        <p>Among the many cases of counterfeiting of fashion trademarks and creations, the case of P. was particularly challenging. It is a brand of sports shoes which has experienced a period of strong growth in Italy, before falling victim to serious amounts of counterfeiting and parallel importation.</p>
+        <p>We were instructed to carry out precautionary measures (injunctions and seizures) throughout Italy and to follow the procedures laid down by Customs to stem these illicit activities.</p>
+        <p>We also coordinated a team of consultants who were responsible for tracing the sources of counterfeiting in order to ensure immediate action along with the valuable support of the Emergency Operation Command of the Guardia di Finanza. Precautionary measures were followed by suits to demand damages.</p>
+        <p>This case is emblematic of how important a pre-existing legal structure is in the planning phase of the strategic conceptualization of an entrepreneurial venture. Had the relationship between the brand owner, licensee, producer and distributor followed a predetermined logic, it would have been much more difficult for counterfeiters or unfair competitors to insinuate themselves.</p><?php } else { ?>
         <h3>Azienda Sportiva<small>&nbsp;</small></h3>
         <p>Tra i molti casi di contraffazione di marchi e creazioni della moda, il caso di P. è stato particolarmente impegnativo: si tratta di un marchio di calzature sportive che in Italia ha vissuto un periodo di forte espansione, pesantemente vittima di contraffazioni ed importazioni parallele.</p>
         <p>Siamo stati incaricati di eseguire in tutta Italia azioni cautelari (inibitorie e sequestri) e di seguire con le dogane i procedimenti previsti per arginare queste azioni illecite.</p>
         <p>Abbiamo anche coordinato team di consulenti che si occupavano di rintracciare le fonti della contraffazione, per garantire interventi immediati, con il validissimo supporto del Comando Pronto Impiego della Guardia di Finanza. Alle azioni cautelari sono seguite le azioni risarcitorie. </p>
-        <p>Questo caso è emblematico di come sia importante una pianificazione legale già nella fase di concezione strategica di un’iniziativa imprenditoriale. Ove i rapporti tra proprietario del marchio, licenziatario, produttore e distributori avessero seguito una logica predeterminata sarebbe stato ben più difficile per i contraffattori o per concorrenti sleali trovare nel sistema delle piccole falle nelle quali insinuarsi. </p>
+        <p>Questo caso è emblematico di come sia importante una pianificazione legale già nella fase di concezione strategica di un’iniziativa imprenditoriale. Ove i rapporti tra proprietario del marchio, licenziatario, produttore e distributori avessero seguito una logica predeterminata sarebbe stato ben più difficile per i contraffattori o per concorrenti sleali trovare nel sistema delle piccole falle nelle quali insinuarsi. </p><?php } ?>
       </div>
     </div>
   </div>

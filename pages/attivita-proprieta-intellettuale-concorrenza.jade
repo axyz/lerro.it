@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Intellectual Property and Competition - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Proprietà Intellettuale, Concorrenza - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,13 +18,26 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 ACTIVITIES
+			<?php } else { ?>
 			h3 ATTIVIT&Agrave;
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/attivita-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Intellectual Property and Competition
+					small &nbsp;
+				p Trademarks, patents, copyrights, database and the different types of intellectual property are an essential part in the process of creating value. With this in mind, Lerro&Partners has been involved in important negotiations, resolving issues related to the various levels of the distribution chain.
+				p In the field of trademarks, we are frequently involved in projects related to commercial products and the fashion industry, including advertising contracts and testimonials coming from the world of show business and sport, with the need to protect their personal identity.
+				p The assistance may include registration and international protection of trademarks and domain names.
+				p Information technology, industrial patents, biotechnology and nanotechnology are treated with in-depth analysis and expertise.
+				p We have experience in dealing with delicate and complex cases involving intellectual property and competition. In particular, we have followed relevant matters before the Italian Competition Authority on concentrations and restrictive agreements, mostly involving large areas of distribution and broadcast media. Lerro&Partners provides full protection and assistance in proceedings before the Italian Competition Authority, including cases concerning misleading advertising.
+				<?php } else { ?>
 				h3 Proprietà Intellettuale e Concorrenza
 					small &nbsp;
 				p Marchi, brevetti, copyright, database e i differenti tipi di proprietà intellettuale sono parte essenziale del processo di creazione del valore. Con questa consapevolezza, lo Studio è stato coinvolto in importanti negoziazioni, risolvendo problematiche relative ai vari livelli della catena distributiva. 
@@ -28,7 +45,7 @@ br
 				p L’assistenza può comprendere registrazione e protezione internazionale di marchi e nomi a dominio.
 				p L'information technology, i brevetti industriali, le biotecnologie e le nanotecnologie sono trattate con approfondimento e competenza scientifica. 
 				p Siamo stati incaricati di delicati e complessi contenziosi aventi ad oggetto proprietà intellettuale e concorrenza. In particolare, abbiamo seguito rilevanti questioni innanzi all'Autorità Garante della Concorrenza e del Mercato concernenti concentrazioni ed intese restrittive, prevalentemente aventi ad oggetto i settori della grande distribuzione e della radiotelevisione. Lo Studio presta piena tutela e assistenza nei procedimenti innanzi all'Autorità Antitrust, ivi compresi i procedimenti in materia di pubblicità ingannevole.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial

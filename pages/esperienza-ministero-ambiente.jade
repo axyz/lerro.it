@@ -1,6 +1,10 @@
 include includes/header.php
 include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Ministry of the Environment - Law Firm - Rome")
+<?php } else { ?>
 mixin meta-tags("Ministero Dell'ambiente - Studio Legale - Lerro&Partners - Roma")
+<?php } ?>
 include includes/nav.php
 
 #maximage
@@ -14,18 +18,28 @@ br
 .row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-title-fluid
+			<?php if($_GET['lang'] == "en") { ?>
+			h3 CASE HISTORIES
+			<?php } else { ?>
 			h3 STORIE
+			<?php } ?>
 
 #content.row
 	.eleven.columns.centered
 		.twelve.columns.panel.box-fluid
 			include includes/esperienza-nav
 			.eight.columns
+				<?php if($_GET['lang'] == "en") { ?>
+				h3 Ministry of the Environment
+					small &nbsp;
+				p For about ten years, the maximum extent permitted by law, Mr. Lerro was consultant for the Ministry of Environment with the status of "legal expert" and a member of the Technical Committee. In this capacity he was involved in protection of areas in nature, water and soil.
+				p The activity carried out for the Ministry consisted of drafting documents and reports to the Minister, in the drafting of legislation and regulations, in political-institutional support of the Minister (answers to parliamentary questions and inquiries, “question time”, relations with national and regional authorities). Moreover, Mr. Lerro has contributed to the legal analysis and drafting of land use plans, the establishment and regulation of national and regional park authorities, the management of institutional relations between central and local administrations.
+				<?php } else { ?>
 				h3 Ministero Dell’ambiente
 					small &nbsp;
 				p Per circa dieci anni, fino al limite massimo di legge, l’avv. Lerro è stato consulente esterno del Ministero dell’ambiente con la qualifica di “esperto giuridico” e componente della Segreteria Tecnica. In tale veste si è occupato di aree naturali protette, acque e difesa del suolo.
 				p L’attività svolta per il Ministero è consistita in redazione di documenti e rapporti per il Ministro, nella redazione di atti normativi e regolamentari, nel supporto dell’attività politico-istituzionale del Ministro (risposte ad interpellanze ed interrogazioni, question time, relazioni con enti nazionali e regionali). Inoltre, l’avv. Lerro ha contribuito, per gli aspetti giuridici all’analisi e redazione di piani territoriali, alla costituzione e regolamentazione di Enti Parco nazionali e regionali, alla gestione delle relazioni istituzionali tra amministrazioni centrali e periferiche.
-
+				<?php } ?>
 .row
 	.eleven.columns.centered
 		include includes/testimonial
