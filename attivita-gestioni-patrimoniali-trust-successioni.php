@@ -306,7 +306,6 @@
   <script src="javascripts/foundation/app.js"></script>
 
   <?php
-    session_start();
     require_once("php/twitteroauth.php");
 
     $consumerkey = "SPKLJEHWzAMG4MGzOMEn5Q";
