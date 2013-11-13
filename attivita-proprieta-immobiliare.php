@@ -307,8 +307,33 @@
   <script src="javascripts/jquery.maximage.js"></script>
   <script src="javascripts/foundation/app.js"></script>
 
-  <script src="javascripts/script.js"></script>
-  <script src="http://api.twitter.com/1/lists/statuses.json?slug=lerro-it&owner_screen_name=lerro_it&count=5&callback=twitterCB" type="text/javascript"></script> 
+  <?php
+    session_start();
+    require_once("php/twitteroauth.php");
+
+    $consumerkey = "SPKLJEHWzAMG4MGzOMEn5Q";
+    $consumersecret = "VJ1XzXgzrlJFaWAFrnh66E0CYcWuwHokwgkZPzKOM";
+    $accesstoken = "12844042-ftvYZlNjZckCv25JH8doiSDlYp7JWIWK9quRSIMN2";
+    $accesstokensecret = "QtlwlqFIdFnbOQ4kP4yRixTueQp4tvScG3OXEkePs8Yzb";
+
+    function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oauth_token_secret) {
+      $connection = new TwitterOAuth($cons_key, $cons_secret, $oauth_token, $oauth_token_secret);
+      return $connection;
+    }
+
+    $connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
+
+    $tweets = $connection->get("https://api.twitter.com/1.1/lists/statuses.json?slug=cf-italy-list&owner_screen_name=Crowdfund_ITALY&count=5");
+
+    $tweets = json_encode($tweets);
+  ?>
+
+  <script src="javascripts/script.js"></script> 
+
+  <script type="text/javascript">
+    var t = <?php echo $tweets; ?>;
+    twitterCB(t);
+  </script>
 
   <script type="text/javascript">
 
