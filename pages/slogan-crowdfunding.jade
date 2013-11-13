@@ -1,0 +1,66 @@
+include includes/header.php
+include mixins/meta-tags
+<?php if($_GET['lang'] == "en") { ?>
+mixin meta-tags("Crowdfunding - Law Firm - Rome")
+<?php } else { ?>
+mixin meta-tags("Crowdfunding - Studio Legale - Lerro&amp;Partners - Roma")
+<?php } ?>
+include includes/nav.php
+
+#maximage
+  img(src="images/bg/03b.jpg")
+
+br
+br
+br
+
+
+.row
+  .eleven.columns.centered
+    .twelve.columns.panel.box-title-fluid
+      <?php if($_GET['lang'] == "en") { ?>
+      h3 PROJECTS
+      <?php } else { ?>
+      h3 PROGETTI
+      <?php } ?>
+
+#content.row
+  .eleven.columns.centered
+    .twelve.columns.panel.box-fluid
+      include includes/slogan-nav.php
+      .eight.columns
+        <?php if($_GET['lang'] == "en") { ?>
+        h3 Crowdfunding
+          small &nbsp;
+        p Il crowdfunding consiste nella raccolta di piccole somme di denaro da molti sottoscrittori tramite internet ed i social network. La potenzialità della rete è enorme, ed infatti nel 2012 il crowdfunding ha raccolto circa 2,7 miliardi di dollari su oltre un milione di progetti nel mondo (il 95% in USA ed Europa); per il 2013 si proiettano 5,1 miliardi di dollari di raccolta.
+        p Si tratta di un fenomeno sviluppato in quattro modelli:
+        div(style="padding-left:4em;")
+          ul
+            li donation-based: avente ad oggetto erogazioni liberali.
+            li reward-based: prevede uno scambio di valore modesto rispetto al contributo erogato.
+            li lending-based: sostanzialmente si tratta del microcredito.
+            li equity-based: finalizzato alla raccolta di capitale di rischio.
+        p Nel corso del 2012 l’amministrazione Obama ha emanato il JOBS Act, per regolamentare l’equity crowdfunding con l’obiettivo di facilitare la sollecitazione del pubblico risparmio e la raccolta di capitale di rischio tramite internet, sostenere l’economia e favorire l’occupazione. Si tratta della prima regolamentazione organica di detto fenomeno.
+        p Il Decreto Crescita 2.0 nel dicembre 2012 ha fatto altrettanto, disciplinando nel diritto italiano l’equity crowdfunding per le start up innovative e dando loro una disciplina anche più favorevole rispetto a quella americana.  In questo settore, quindi, l’Italia si pone all’avanguardia e in condizioni di attrarre investimenti esteri, avendo notevolmente semplificato le procedure di capitalizzazione, ridotto molta burocrazia e soprattutto i costi dell’operazione.
+        p In Italia, dunque, è possibile costituire una apposita piattaforma web registrata presso la CONSOB, presentare progetti imprenditoriali aventi ad oggetto start up innovative e raccogliere in rete capitali. Inoltre le start up innovative possono godere di ulteriori preziosi vantaggi. Bisognerà prestare attenzione alla trasparenza dell’investimento, nonché alla regolamentazione dei rapporti tra soci fondatori, investitori istituzionali e microinvestitori.
+        <?php } else { ?>
+        h3 Crowdfunding
+          small &nbsp;
+        p Il crowdfunding consiste nella raccolta di piccole somme di denaro da molti sottoscrittori tramite internet ed i social network. La potenzialità della rete è enorme, ed infatti nel 2012 il crowdfunding ha raccolto circa 2,7 miliardi di dollari su oltre un milione di progetti nel mondo (il 95% in USA ed Europa); per il 2013 si proiettano 5,1 miliardi di dollari di raccolta.
+        p Si tratta di un fenomeno sviluppato in quattro modelli:
+        div(style="padding-left:4em;")
+          ul
+            li donation-based: avente ad oggetto erogazioni liberali.
+            li reward-based: prevede uno scambio di valore modesto rispetto al contributo erogato.
+            li lending-based: sostanzialmente si tratta del microcredito.
+            li equity-based: finalizzato alla raccolta di capitale di rischio.
+        p Nel corso del 2012 l’amministrazione Obama ha emanato il JOBS Act, per regolamentare l’equity crowdfunding con l’obiettivo di facilitare la sollecitazione del pubblico risparmio e la raccolta di capitale di rischio tramite internet, sostenere l’economia e favorire l’occupazione. Si tratta della prima regolamentazione organica di detto fenomeno.
+        p Il Decreto Crescita 2.0 nel dicembre 2012 ha fatto altrettanto, disciplinando nel diritto italiano l’equity crowdfunding per le start up innovative e dando loro una disciplina anche più favorevole rispetto a quella americana.  In questo settore, quindi, l’Italia si pone all’avanguardia e in condizioni di attrarre investimenti esteri, avendo notevolmente semplificato le procedure di capitalizzazione, ridotto molta burocrazia e soprattutto i costi dell’operazione.
+        p In Italia, dunque, è possibile costituire una apposita piattaforma web registrata presso la CONSOB, presentare progetti imprenditoriali aventi ad oggetto start up innovative e raccogliere in rete capitali. Inoltre le start up innovative possono godere di ulteriori preziosi vantaggi. Bisognerà prestare attenzione alla trasparenza dell’investimento, nonché alla regolamentazione dei rapporti tra soci fondatori, investitori istituzionali e microinvestitori.
+
+        <?php } ?>
+    
+  
+
+include includes/footer.php
+include includes/tail.php

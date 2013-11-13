@@ -35,34 +35,34 @@
 <body><?php } else { ?>
 <title>Crowdfunding - Studio Legale - Lerro&amp;Partners - Roma</title></head>
 <body><?php } ?><nav class="top-bar fixed">
-    <ul>
-      <li class="name"><h1><?php if($_GET['lang'] == "en") { ?><a href="<?php echo $basedir;?>?lang=en"><?php } else { ?><a href="<?php echo $basedir;?>"><?php } ?><img src="images/logo.png" id="logo2" /></a></h1></li>
-      <li class="toggle-topbar"><a href="#"></a></li>
+  <ul>
+    <li class="name"><h1><?php if($_GET['lang'] == "en") { ?><a href="<?php echo $basedir;?>?lang=en"><?php } else { ?><a href="<?php echo $basedir;?>"><?php } ?><img src="images/logo.png" id="logo2" /></a></h1></li>
+    <li class="toggle-topbar"><a href="#"></a></li>
+  </ul>
+  <section>
+    <ul class="right" id="main-menu">
+      <?php if($_GET['lang'] == "en") { ?>
+      <li><a href="<?php echo $basedir;?>?lang=en">HOME</a></li>
+      <li><a href="profilo.php?lang=en">PROFILE</a></li>
+      <li><a href="attivita.php?lang=en">ACTIVITIES</a></li>
+      <li><a href="esperienza.php?lang=en">STORIES</a></li>
+      <li><a href="costi.php?lang=en">COSTS</a></li>
+      <li><a href="http://avvocati.net">BLOG</a></li>
+      <li><a href="contatti.php?lang=en">CONTACTS</a></li>
+      <li><a href="<?php echo parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH);?>"><img src="http://www.difesa.it/_layouts/MdDEvoluzione-Layouts/images/flag-italiano.png" /></a></li>
+      <?php } else { ?>
+      <li><a href="<?php echo $basedir;?>">HOME</a></li>
+      <li><a href="profilo.php">PROFILO</a></li>
+      <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
+      <li><a href="esperienza.php">STORIE</a></li>
+      <li><a href="costi.php">COSTI</a></li>
+      <li><a href="http://avvocati.net">BLOG</a></li>
+      <li><a href="contatti.php">CONTATTI</a></li>
+      <li><a href="<?php echo parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH);?>?lang=en"><img src="http://www.memoriaexpo.it/images/flag-en.png" /></a></li>
+      <?php } ?>
     </ul>
-    <section>
-      <ul class="right" id="main-menu">
-        <?php if($_GET['lang'] == "en") { ?>
-        <li><a href="<?php echo $basedir;?>?lang=en">HOME</a></li>
-        <li><a href="profilo.php?lang=en">PROFILE</a></li>
-        <li><a href="attivita.php?lang=en">ACTIVITIES</a></li>
-        <li><a href="esperienza.php?lang=en">STORIES</a></li>
-        <li><a href="costi.php?lang=en">COSTS</a></li>
-        <li><a href="http://avvocati.net">BLOG</a></li>
-        <li><a href="contatti.php?lang=en">CONTACTS</a></li>
-        <li><a href="<?php echo parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH);?>"><img src="http://www.difesa.it/_layouts/MdDEvoluzione-Layouts/images/flag-italiano.png" /></a></li>
-        <?php } else { ?>
-        <li><a href="<?php echo $basedir;?>">HOME</a></li>
-        <li><a href="profilo.php">PROFILO</a></li>
-        <li><a href="attivita.php">ATTIVIT&Agrave;</a></li>
-        <li><a href="esperienza.php">STORIE</a></li>
-        <li><a href="costi.php">COSTI</a></li>
-        <li><a href="http://avvocati.net">BLOG</a></li>
-        <li><a href="contatti.php">CONTATTI</a></li>
-        <li><a href="<?php echo parse_url($_SERVER['REQUEST_URI'],PHP_URL_PATH);?>?lang=en"><img src="http://www.memoriaexpo.it/images/flag-en.png" /></a></li>
-        <?php } ?>
-      </ul>
-    </section>
-  </nav>
+  </section>
+</nav>
 <div id="maximage"><img src="images/bg/03b.jpg"/></div><br/><br/><br/>
 <div class="row">
   <div class="eleven columns centered">
@@ -75,28 +75,30 @@
 <div id="content" class="row">
   <div class="eleven columns centered">
     <div class="twelve columns panel box-fluid"><?php if($_GET['lang'] == "en") { ?>
-      <div class="four columns">
-        <ul class="side-nav">
-          <li><a href="slogan-idea-impresa.php?lang=en">TURNING IDEAS INTO BUSINESS</a></li>
-          <li><a href="slogan-riposizionare-azienda.php?lang=en">REPOSITIONING A COMPANY</a></li>
-          <li><a href="slogan-difesa-patrimonio.php?lang=en">DEFENDING AN HERITAGE</a></li>
-          <li><a href="slogan-crowdfunding.php?lang=en">CROWDFUNDING</a></li>
-          <li><a href="slogan-assistere-disabile.php?lang=en">DEALING WITH DISABILITY</a></li>
-          <li><a href="slogan-gestisci-vita.php?lang=en">MANAGING YOUR LIFE</a></li>
-          <li> <a href="slogan-lobbying.php?lang=en">LEGISLATIVE MONITORING AND LOBBYING</a></li>
-        </ul>
-      </div><?php } else { ?>
-      <div class="four columns">
-        <ul class="side-nav">
-          <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
-          <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
-          <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
-          <li><a href="slogan-crowdfunding.php">CROWDFUNDING</a></li>
-          <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
-          <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
-          <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
-        </ul>
-      </div><?php } ?>
+  <div class="four columns">
+    <ul class="side-nav">
+      <li><a href="slogan-idea-impresa.php?lang=en">TURNING IDEAS INTO BUSINESS</a></li>
+      <li><a href="slogan-riposizionare-azienda.php?lang=en">REPOSITIONING A COMPANY</a></li>
+      <li><a href="slogan-difesa-patrimonio.php?lang=en">DEFENDING AN HERITAGE</a></li>
+      <li><a href="slogan-crowdfunding.php?lang=en">CROWDFUNDING</a></li>
+      <li><a href="slogan-assistere-disabile.php?lang=en">DEALING WITH DISABILITY</a></li>
+      <li><a href="slogan-gestisci-vita.php?lang=en">MANAGING YOUR LIFE</a></li>
+      <li> <a href="slogan-lobbying.php?lang=en">LEGISLATIVE MONITORING AND LOBBYING</a></li>
+    </ul>
+  </div>
+<?php } else { ?>
+  <div class="four columns">
+    <ul class="side-nav">
+      <li><a href="slogan-idea-impresa.php">DA UN’IDEA A UN’IMPRESA</a></li>
+      <li><a href="slogan-riposizionare-azienda.php">RIPOSIZIONARE UN’AZIENDA</a></li>
+      <li><a href="slogan-difesa-patrimonio.php">LA DIFESA DI UN PATRIMONIO</a></li>
+      <li><a href="slogan-crowdfunding.php">CROWDFUNDING</a></li>
+      <li><a href="slogan-assistere-disabile.php">ASSISTERE UN DISABILE</a></li>
+      <li><a href="slogan-gestisci-vita.php">GESTISCI LA TUA VITA</a></li>
+      <li> <a href="slogan-lobbying.php">MONITORAGGIO LEGISLATIVO</a></li>
+    </ul>
+  </div>
+<?php } ?>
       <div class="eight columns"><?php if($_GET['lang'] == "en") { ?>
         <h3>Crowdfunding<small>&nbsp;</small></h3>
         <p>Il crowdfunding consiste nella raccolta di piccole somme di denaro da molti sottoscrittori tramite internet ed i social network. La potenzialità della rete è enorme, ed infatti nel 2012 il crowdfunding ha raccolto circa 2,7 miliardi di dollari su oltre un milione di progetti nel mondo (il 95% in USA ed Europa); per il 2013 si proiettano 5,1 miliardi di dollari di raccolta.</p>
@@ -291,8 +293,32 @@
   <script src="javascripts/jquery.maximage.js"></script>
   <script src="javascripts/foundation/app.js"></script>
 
-  <script src="javascripts/script.js"></script>
-  <script src="http://api.twitter.com/1/lists/statuses.json?slug=lerro-it&owner_screen_name=lerro_it&count=5&callback=twitterCB" type="text/javascript"></script> 
+  <?php
+    require_once("php/twitteroauth.php");
+
+    $consumerkey = "SPKLJEHWzAMG4MGzOMEn5Q";
+    $consumersecret = "VJ1XzXgzrlJFaWAFrnh66E0CYcWuwHokwgkZPzKOM";
+    $accesstoken = "12844042-ftvYZlNjZckCv25JH8doiSDlYp7JWIWK9quRSIMN2";
+    $accesstokensecret = "QtlwlqFIdFnbOQ4kP4yRixTueQp4tvScG3OXEkePs8Yzb";
+
+    function getConnectionWithAccessToken($cons_key, $cons_secret, $oauth_token, $oauth_token_secret) {
+      $connection = new TwitterOAuth($cons_key, $cons_secret, $oauth_token, $oauth_token_secret);
+      return $connection;
+    }
+
+    $connection = getConnectionWithAccessToken($consumerkey, $consumersecret, $accesstoken, $accesstokensecret);
+
+    $tweets = $connection->get("https://api.twitter.com/1.1/lists/statuses.json?slug=cf-italy-list&owner_screen_name=Crowdfund_ITALY&count=5");
+
+    $tweets = json_encode($tweets);
+  ?>
+
+  <script src="javascripts/script.js"></script> 
+
+  <script type="text/javascript">
+    var t = <?php echo $tweets; ?>;
+    twitterCB(t);
+  </script>
 
   <script type="text/javascript">
 
